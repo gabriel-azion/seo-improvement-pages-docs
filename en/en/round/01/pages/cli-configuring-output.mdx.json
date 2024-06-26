@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/cli/cli-configuring-output.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/cli-output-configuration/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, edge applications, CLI configuration, command outputs, terminal commands, developer tools, CLI output settings, CLI errors, CLI command guide, Azion config",
+    "meta_description": "Learn how to configure the Azion CLI for edge applications to manage output messages effectively in your terminal. Ideal guide for developers.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Steps to configure the Azion CLI outputs.",
+    "meta_keywords": "cli"
+  }
+}

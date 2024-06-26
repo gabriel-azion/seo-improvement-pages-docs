@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/javascript-examples/firewall-deny-country/firewall-deny-country.mdx",
+  "url": "https://www.azion.com/en/documentationdocumentation/products/edge-application/edge-functions/javascript-examples/deny-request",
+  "suggest": {
+    "meta_keywords": "edge computing, JavaScript, edge functions, geographic restrictions, geoip country code, web security, content accessibility, firewall integration, event handling, async JavaScript",
+    "meta_description": "Learn how to manage geographic restrictions in edge computing using JavaScript to access geoip country codes and control content accessibility through a dynamic firewall.",
+    "meta_description_length": 170
+  },
+  "current": {
+    "meta_description": "Based on the country code, accessed through event.request.metadata['geoip_country_code'], the request is denied or not through event.deny().",
+    "meta_keywords": "edge computing, javascript, edge functions"
+  }
+}

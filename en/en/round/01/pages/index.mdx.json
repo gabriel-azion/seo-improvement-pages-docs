@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/store/object-storage/index.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/store/edge-storage/",
+  "suggest": {
+    "meta_keywords": "Edge Storage, object storage, S3 protocol, bucket management, Azion API, secure storage, cloud storage, data management, S3 compatibility, storage solutions",
+    "meta_description": "Discover Azion Edge Storage for secure, scalable cloud storage solutions using S3 protocol on the Azion platform, enabling efficient bucket and object management.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "Azion Edge Storage is a scalable and secure storage service designed to integrate object storage with the Azion Edge Computing Platform using the S3 standard.",
+    "meta_keywords": "object storage, storage, cloud, s3, bucket, file storage, edge storage"
+  }
+}

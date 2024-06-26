@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/massive-redirect.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/configure-massive-redirect/",
+  "suggest": {
+    "meta_keywords": "Massive Redirect, serverless, Azion Marketplace, domain migration, SEO impact, HTTP status, edge computing, regular expression, URL redirection, Azion edge nodes",
+    "meta_description": "Discover the Massive Redirect function at Azion Marketplace, designed for efficient domain migrations with minimized SEO impact, utilizing edge computing.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "The Massive Redirect edge function is a serverless integration available at Azion Marketplace. It's designed to handle a large number of redirects and can be used when a large number of addresses need to be changed, for example, when migrating domains.",
+    "meta_keywords": "redirects, edge computing"
+  }
+}

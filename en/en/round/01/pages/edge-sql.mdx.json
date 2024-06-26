@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/store/edge-sql/edge-sql.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/store/edge-sql/",
+  "suggest": {
+    "meta_keywords": "Edge SQL, distributed database, ACID-compliant, serverless applications, SQL dialect, main/replicas architecture, real-time telemetry, security data management, SQL queries, Azion Edge platform",
+    "meta_description": "Discover Azion Edge SQL for ultra-low latency, ACID-compliant querying, and robust data management in serverless environments, enhancing operational efficiency.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Explore Edge SQL, a distributed database solution by Azion. It allows you to manage databases, run queries, and ensure data resilience effortlessly.",
+    "meta_keywords": "edge sql, sql, database, distributed, queries"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/observe/real-time-metrics/first-steps.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/observe/real-time-metrics/first-steps/",
+  "suggest": {
+    "meta_keywords": "Real-Time Metrics, Azion Console, edge computing, data analytics, account setup, metrics monitoring, Edge Applications, user guide, Azion product, step-by-step tutorial",
+    "meta_description": "Explore how to activate and use Real-Time Metrics on Azion Console, including account setup, analytics features, and practical user guides.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "See the first steps for Real-Time Metrics.",
+    "meta_keywords": "real time, edge computing, observe, observability, metrics, data, events, security"
+  }
+}

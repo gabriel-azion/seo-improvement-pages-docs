@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/additional-resources/developer-tools/getting-started-api.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/overview-azion-api/",
+  "suggest": {
+    "meta_keywords": "Azion API, RESTful API, HTTPS requests, API documentation, API endpoints, HTTP methods, Azion Console, API introduction, Postman API, API token",
+    "meta_description": "Explore the comprehensive Azion RESTful API guide including HTTPS protocol, API endpoints, console integration, and method usage with Postman support.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Learn more about official endpoints, methods, and API use cases of the Azion RESTful API.",
+    "meta_keywords": "azion, rest api, restful api, azion restful api"
+  }
+}

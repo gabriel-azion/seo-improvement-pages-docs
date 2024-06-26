@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/ipqs.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/ip-address-reputation/",
+  "suggest": {
+    "meta_keywords": "IP Address Reputation, IPQS, Edge Computing, Azion Marketplace, Serverless Integration, Malicious IP Prevention, IP Reputation Score, Install Integration, API Key Configuration, Edge Functions",
+    "meta_description": "Discover how to use IP Address Reputation from IPQS on Azion Marketplace for securing online assets against malicious IPs with easy integration steps.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "IP Address Reputation is an integration from IPQS that protects your online assets against malicious IPs.",
+    "meta_keywords": "IP Address Reputation, IPQS, edge computing"
+  }
+}

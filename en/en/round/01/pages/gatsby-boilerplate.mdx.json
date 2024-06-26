@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/gatsby-boilerplate.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/gatsby-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Gatsby Boilerplate, SPA, Edge Deployment, GitHub Integration, Application Accelerator, Continuous Integration, Azion Marketplace, Edge Applications, Deploy Edge Application, Manage Edge Application",
+    "meta_description": "Discover how to deploy and manage SPAs with the Gatsby Boilerplate on Azion's Marketplace, featuring seamless GitHub integration and edge deployment.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Build a Single-Page Application (SPA) based on the Gatsby framework and run it directly on the edge of the network.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

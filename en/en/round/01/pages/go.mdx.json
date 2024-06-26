@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/sdks/go.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/sdk/go/",
+  "suggest": {
+    "meta_keywords": "Azion SDK, Go SDK, Edge DNS, API integration, Go development, Azion API, SDK installation, SDK example, Go programming, software development",
+    "meta_description": "Explore the Azion SDK for Go, offering tools for smooth API integration, including creating Edge DNS zones, and detailed implementation examples.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "The Azion SDK for Go facilitates the use of the Azion APIs by providing a set of tools that make the development of Go applications smoother.",
+    "meta_keywords": "SDK, Go, Golang, development"
+  }
+}

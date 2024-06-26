@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/real-time-events/integrations/integrate-grafana.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/observe/integrate-grafana/",
+  "suggest": {
+    "meta_keywords": "Azion, Grafana, Observability, Real-Time Metrics, Real-Time Events, GraphQL APIs, Azion plugin, integrate Grafana, visualization dashboard, Grafana installation",
+    "meta_description": "Integrate Azion with Grafana using the local Azion data source plugin for seamless visualization of Real-Time Metrics and Events on your dashboard.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Integrate with the Azion data source plugin on Grafana to create and visualize charts and tables.",
+    "meta_keywords": "azion, edge, observe, observability, logs, grafana, analytics"
+  }
+}

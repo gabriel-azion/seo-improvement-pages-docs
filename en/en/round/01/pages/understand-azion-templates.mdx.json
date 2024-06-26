@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/additional-resources/templates-and-integrations/understand-azion-templates.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/marketplace/templates/",
+  "suggest": {
+    "meta_keywords": "Azion Templates, Edge Computing, Azion Edge Platform, deploy edge applications, edge application creation, GitHub integration, continuous deployment, edge function, application development, SPA edge deployment, static site generation, dynamic file optimization, application security",
+    "meta_description": "Discover Azion Templates for streamlined creation and deployment of edge applications. Enable rapid development, enhanced performance, and robust security with Azion Edge Platform.",
+    "meta_description_length": 180
+  },
+  "current": {
+    "meta_description": "Azion Templates help you quickly create and deploy new edge applications.",
+    "meta_keywords": "marketplace, edge computing"
+  }
+}

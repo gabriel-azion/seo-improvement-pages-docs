@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-delete-edge-application.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/delete-edge-application/",
+  "suggest": {
+    "meta_keywords": "delete edge application, manage edge applications, Azion Console, Real-Time Manager, Azion edge, developer tools, Azion delete guide, UI guide for Azion, application management, edge computing",
+    "meta_description": "Learn to delete your Azion edge application with step-by-step instructions for both the Real-Time Manager and Console platforms, designed for developers.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "You can delete your Azion edge application.",
+    "meta_keywords": "edge computing, edge applications"
+  }
+}

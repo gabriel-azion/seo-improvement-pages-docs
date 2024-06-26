@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/manage-accounts/create-accountd.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/accounts/creating-account/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Computing, Account Creation, Email Signup, Social Login, Azion Console, Edge Applications, Sign Up Process, Work Email Registration, Google Login, GitHub Login",
+    "meta_description": "Learn how to create an Azion account using email or Social Login to access the Azion Console and start building your edge applications.",
+    "meta_description_length": 135
+  },
+  "current": {
+    "meta_description": "Basic setups to create an account on Azion using an email address and through Social Login.",
+    "meta_keywords": "edge computing, azion, create account, email, social login, sign up"
+  }
+}

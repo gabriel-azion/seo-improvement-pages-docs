@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/real-time-metrics/monitor-metrics/analyze-metrics.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/observe/analyze-metrics/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge, Real-Time Metrics, Charts Analysis, Observer, Data Visualization, Edge Applications, Performance Analysis, Interactive Charts, Filter Application, Metrics Analysis",
+    "meta_description": "Optimize your edge applications using Azion's Real-Time Metrics to analyze performance through interactive charts, adding filters, and navigating through in-depth data.",
+    "meta_description_length": 168
+  },
+  "current": {
+    "meta_description": "Understand how to analyze metrics through the available charts.",
+    "meta_keywords": "azion, edge, observe, observability, metrics, charts, graphs"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/grafana/example-dash-data-transferred.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/real-time-metrics/data-transferred-dash/",
+  "suggest": {
+    "meta_keywords": "Grafana dashboard, data transferred, Grafana Cloud, Azion API, Real-Time Metrics, GraphQL query, API integration, performance monitoring, dashboard customization, data visualization",
+    "meta_description": "Learn how to integrate Real-Time Metrics from Azion API into Grafana to monitor data transferred and customize dashboards effectively.",
+    "meta_description_length": 134
+  },
+  "current": {
+    "meta_description": "You can use the JSON example to create a dashboard on Grafana with the Data Transferred metrics from Real-Time Metrics.",
+    "meta_keywords": "graphql, grafana, data, observability, application"
+  }
+}

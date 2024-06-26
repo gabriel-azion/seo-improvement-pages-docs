@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/real-time-events/analyze-logs/understand-logs.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/observe/understand-logs/",
+  "suggest": {
+    "meta_keywords": "azion, real-time events, edge applications, variable analysis, data source, log analysis, edge functions, observable, performance analysis",
+    "meta_description": "Explore how to select variables for analyzing edge applications and functions with Azion's real-time events for improved log and performance insight.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Find the best option of how to choose variables to analyze your logs.",
+    "meta_keywords": "azion, edge, observe, observability, logs, analysis"
+  }
+}

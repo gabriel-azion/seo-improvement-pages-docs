@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/zone-advanced-configurations/add-lets-encrypt-txt-record.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/lets-encrypt-record/",
+  "suggest": {
+    "meta_keywords": "Let's Encrypt certificate, DNS challenge, TXT record, Edge DNS, secure certificate, DNS zone, Azion Console, Real-Time Manager, API integration, domain management",
+    "meta_description": "Learn how to configure Let's Encrypt certificates with DNS challenge in Edge DNS, including TXT record setup and API integration across various Azion interfaces.",
+    "meta_description_length": 161
+  },
+  "current": {
+    "meta_description": "When creating a Let's Encrypt certificate externally, such as using Let's Encrypt official tool Certbot, for a hostname that is hosted in Edge DNS, you must add the TXT record required for the DNS challenge.",
+    "meta_keywords": "secure, Edge DNS, record, certificate, domain, let's encrypt"
+  }
+}

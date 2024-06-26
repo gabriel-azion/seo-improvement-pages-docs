@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/javascript-examples/return-html/return-html.mdx",
+  "url": "https://www.azion.com/en/documentationdocumentation/products/edge-application/edge-functions/javascript-examples/return-html",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Edge Computing, JavaScript, HTML generation, real-time HTML, serverless functions, content delivery, web development, script handling, response management",
+    "meta_description": "Learn how to generate and deliver HTML pages real-time using JavaScript with Azion Edge Functions, perfecting serverless web development.",
+    "meta_description_length": 137
+  },
+  "current": {
+    "meta_description": "Build an HTML page of an HTML string inside the Edge Function.",
+    "meta_keywords": "edge computing, javascript, edge functions, return html"
+  }
+}

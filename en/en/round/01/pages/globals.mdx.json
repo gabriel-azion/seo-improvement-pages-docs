@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/globals/globals.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/cli/globals/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, configuration commands, debug logs, token management, CLI version, log levels, command settings, CLI help, silent mode, command line interface",
+    "meta_description": "Explore essential Azion CLI commands for managing configurations, tokens, and debugging. Helpful guide for version checks, log settings, and more.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Azion CLI commands that can be run anywhere in the process.",
+    "meta_keywords": "cli, edge, globals, development"
+  }
+}

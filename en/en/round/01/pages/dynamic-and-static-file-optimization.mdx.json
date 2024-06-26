@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/dynamic-and-static-file-optimization.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/dynamic-and-static-file-optimization-template/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Application, Cache Policies, Image Optimization, Dynamic Content, Static File Optimization, Content Delivery, Deployment, CDN, Caching Rules",
+    "meta_description": "Explore the Dynamic and Static File Optimization template on Azion to enhance content delivery with optimized caching rules and image processing using Azion as a CDN.",
+    "meta_description_length": 166
+  },
+  "current": {
+    "meta_description": "This template helps you to deploy an application with standard cache policies to improve the delivery of your content.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

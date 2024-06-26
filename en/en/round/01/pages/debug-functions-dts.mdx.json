@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/data-streaming/debug-functions-dts.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/debugging-functions-data-stream/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Debugging Edge Functions, Data Stream, Observe Edge Functions, Real-Time Manager, Azion Console, Stream Setup, Log Data Analysis, Data Stream Endpoints, Data Stream Configuration",
+    "meta_description": "Learn how to set up and debug Edge Functions using Azion's Data Stream in the Console or Real-Time Manager, ensuring efficient error tracking and log analysis.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "The debugging process in edge functions' code helps you identify if errors are still occurring or if the debug process was successful.",
+    "meta_keywords": "edge, functions, debug, debugging, observe, Data Stream, logs"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/zone-advanced-configurations/access-root-domain.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/access-root-domain/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, ANAME record, root domain, apex domain, domain configuration, Azion API, DNS records, DNS management, secure DNS, DNS setup",
+    "meta_description": "Learn how to configure Edge DNS with ANAME records for root domains using Azion's APIs and interfaces to improve DNS management.",
+    "meta_description_length": 128
+  },
+  "current": {
+    "meta_description": "Configure your Edge DNS to allow access to an address through its root domain.",
+    "meta_keywords": "secure, Edge DNS, domain, naked domain, root domain, aname, entry, records"
+  }
+}

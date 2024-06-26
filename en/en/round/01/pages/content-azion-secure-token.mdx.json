@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/content-azion-secure-token.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure-token-marketplace/",
+  "suggest": {
+    "meta_keywords": "Secure Token, Azion Marketplace, serverless security, content access control, edge computing, token validation, URL authentication, edge infrastructure, business rules at edge, secure content delivery",
+    "meta_description": "Discover how Azion Secure Token ensures content security with serverless token validation and edge computing, offering controlled access to restricted content.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "Preventing the indiscriminate sharing of content restricted to customers",
+    "meta_keywords": "secure token, edge computing"
+  }
+}

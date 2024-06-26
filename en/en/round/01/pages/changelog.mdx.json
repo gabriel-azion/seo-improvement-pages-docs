@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/changelog/changelog.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/changelog/",
+  "suggest": {
+    "meta_keywords": "Azion products updates, Azion services, Azion release notes, Azion roadmap, system status, Real-Time Manager, Edge Application, Edge Functions, Rules Engine, GraphQL API, Azion Marketplace, Digital Certificates, CLI updates, Edge Firewall, new features, bug fixes, Azion API",
+    "meta_description": "Discover the latest updates and releases for Azion products and services, including Edge Application enhancements, new CLI features, marketplace solutions, and essential bug fixes.",
+    "meta_description_length": 180
+  },
+  "current": {
+    "meta_description": "Follow all changes and updates of Azion products and services.",
+    "meta_keywords": "Changes in products and services, Changes in products and services by Azion, Azion services update"
+  }
+}

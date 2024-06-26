@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-use-advanced-cache-key.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/advanced-cache-key/",
+  "suggest": {
+    "meta_keywords": "Edge Application, Application Accelerator, Advanced Cache Key, Cache by Query String, Cache Settings, Query Strings, Cache by Cookie, Cache Policies, Azion Console, Real-Time Manager",
+    "meta_description": "Enhance your Edge Application with Application Accelerator by configuring Advanced Cache Key settings for Query Strings and Cookies, efficiently managing cache policies using Azion tools.",
+    "meta_description_length": 187
+  },
+  "current": {
+    "meta_description": "Learn how you can improve the performance of your application and APIs by configuring content cache policies based on the Query String or Cookie of a page using Application Accelerator for Edge Application.",
+    "meta_keywords": "edge computing, Query Strings, api, Application Accelerator, cache"
+  }
+}

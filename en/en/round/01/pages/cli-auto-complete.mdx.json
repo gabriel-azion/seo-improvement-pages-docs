@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/cli/cli-auto-complete.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/cli-auto-complete/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, CLI Autocomplete, Autocomplete Installation, Edge Applications, Edge Functions, faster CLI commands, Azion command shortcuts, productivity tools, CLI setup guide, typing efficiency",
+    "meta_description": "Discover how to enhance productivity with Azion CLI Autocomplete for quicker command execution, including setup and usage tips for Edge Applications and Functions.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "Learn about the autocomplete feature.",
+    "meta_keywords": "CLI"
+  }
+}

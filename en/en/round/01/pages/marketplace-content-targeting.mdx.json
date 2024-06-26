@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/marketplace-content-targeting.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/content-targeting-integration/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Computing, Content Targeting, serverless, integration, Marketplace, edge functions, edge applications, configure integration, high performance",
+    "meta_description": "Explore Azion Marketplace for the Content Targeting integration, enabling serverless, flexible content delivery at the edge. Configure and optimize directly in your edge applications.",
+    "meta_description_length": 183
+  },
+  "current": {
+    "meta_description": "Content Targeting allows you to deliver distinct content to your users.",
+    "meta_keywords": "content targeting, marketplace, integration, Azion, edge computing"
+  }
+}

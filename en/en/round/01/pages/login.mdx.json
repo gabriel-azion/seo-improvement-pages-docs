@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/login/login.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/cli/login/",
+  "suggest": {
+    "meta_keywords": "Azion CLI login, CLI authentication, command line interface, Azion account access, secure CLI commands, CLI token authorization, Azion login details, CLI usage, CLI required flags, CLI optional flags",
+    "meta_description": "Learn how to securely log in to your Azion account using CLI with step-by-step guidance on username and password authentication, including required and optional flags.",
+    "meta_description_length": 167
+  },
+  "current": {
+    "meta_description": "Log in to your Azion account and save a personal token locally to authorize CLI commands.",
+    "meta_keywords": "cli, login, authentication"
+  }
+}

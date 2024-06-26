@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/edit-zone/edit-main-settings.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/edge-dns-configure-main-settings/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, Azion Console, DNS management, DNS security, domain configuration, real-time manager, DNS zone creation, DNS records, Azion API, authoritative DNS",
+    "meta_description": "Learn how to configure and manage your Edge DNS domains using Azion Console, Real-Time Manager, or Azion API for enhanced DNS security and performance.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Customize your Edge DNS domains.",
+    "meta_keywords": "secure, Edge DNS, configuration, settings, domains"
+  }
+}

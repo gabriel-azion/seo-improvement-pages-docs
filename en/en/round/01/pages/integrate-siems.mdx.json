@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/automate/integrate-siems.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/automate/integrate-siems/",
+  "suggest": {
+    "meta_keywords": "Azion, Web Application Firewall, SIEM Integration, Edge Security, Real-Time Manager, API Configuration, Secure Data Streaming, Endpoint Management, Edge Applications, Cloud Security Solutions",
+    "meta_description": "Integrate SIEM with Azion WAF to enhance threat detection on edge applications. Explore methods via Console, RTM, and API with our step-by-step guide.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Learn to integrate SIEMs with Azion Web Application Firewall (WAF). Enhance threat detection and response capabilities for superior security posture.",
+    "meta_keywords": "edge, secure, waf, siem, logs, Data Stream"
+  }
+}

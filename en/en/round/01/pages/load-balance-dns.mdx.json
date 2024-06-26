@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/zone-advanced-configurations/load-balance-dns.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/load-balance-dns/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, DNS load balancing, IPv4 addressing, Azion Console, Real-Time Manager, DNS records, weighted DNS, DNS traffic management, network performance optimization",
+    "meta_description": "Learn to configure and manage DNS load balancing using Azion's Edge DNS, optimizing network distribution and performance with weighted records.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Perform a DNS load balance by assigning different weights to records configured in Edge DNS.",
+    "meta_keywords": "dns, Edge DNS, load balance, records"
+  }
+}

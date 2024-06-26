@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-firewall/web-application-firewall/web-application-firewall.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-firewall/web-application-firewall/",
+  "suggest": {
+    "meta_keywords": "Web Application Firewall, WAF, Edge Firewall, SQL Injections, XSS, RFI, HTTP requests, HTTPS requests, Azion WAF, threat protection, WAF tuning, WAF settings, WAF configurations, allowed rules, Azion API",
+    "meta_description": "Discover Azion's Web Application Firewall (WAF), protecting applications from SQL Injections, XSS, RFI, and more, with customizable settings and rules via Azion API.",
+    "meta_description_length": 165
+  },
+  "current": {
+    "meta_description": "Protect your applications against threats like SQL Injections, Remote File Inclusion (RFI), Cross-Site Scripting (XSS), and others with Azion Web Application Firewall.",
+    "meta_keywords": "web application firewall, waf, security, secure, edge computing"
+  }
+}

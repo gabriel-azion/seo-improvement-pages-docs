@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/javascript-examples/firewall-add-response-header/firewall-add-response-header.mdx",
+  "url": "https://www.azion.com/en/documentationdocumentation/products/edge-application/edge-functions/javascript-examples/adding-response-header",
+  "suggest": {
+    "meta_keywords": "Edge Computing, JavaScript, Edge Functions, GeoIP Country Code, Response Headers, Country-Specific Logic, Event Handling, Network Security, Web Application Development, API Requests",
+    "meta_description": "Explore how geo-location data in Edge Computing enables dynamic web application responses using Edge Functions and JavaScript.",
+    "meta_description_length": 126
+  },
+  "current": {
+    "meta_description": "Based on the country code, accessed through event.request.metadata['geoip_country_code'], a response header is added through event.addResponseHeader().",
+    "meta_keywords": "edge computing, javascript, edge functions"
+  }
+}

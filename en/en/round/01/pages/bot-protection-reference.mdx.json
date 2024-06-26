@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/marketplace/bot-protection-reference.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/marketplace/bot-manager/",
+  "suggest": {
+    "meta_keywords": "Azion Bot Manager, bot protection, cybersecurity, edge computing, credential stuffing, malicious bots, bot traffic analysis, JavaScript injection, real-time events, custom rule management",
+    "meta_description": "Discover how Azion Bot Manager enhances cybersecurity with advanced algorithms and bot traffic analysis for powerful protection against online threats.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Protect your applications against automated attacks such as bad bot signatures or scripted bots.",
+    "meta_keywords": "bot, protection, cybersecurity, edge computing"
+  }
+}

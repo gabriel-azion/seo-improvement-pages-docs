@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/javascript-examples/return-json/return-json.mdx",
+  "url": "https://www.azion.com/en/documentationdocumentation/products/edge-application/edge-functions/javascript-examples/return-json",
+  "suggest": {
+    "meta_keywords": "edge computing, javascript, edge functions, JSON response, API development, middleware solutions, event-driven architecture, serverless computing, web development",
+    "meta_description": "Learn how to use Edge Functions to return JSON for APIs or middleware, featuring effective serverless computing with JavaScript.",
+    "meta_description_length": 128
+  },
+  "current": {
+    "meta_description": "Return a JSON directly from the Edge Function.",
+    "meta_keywords": "edge computing, javascript, edge functions, return json"
+  }
+}

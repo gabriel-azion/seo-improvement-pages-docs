@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/data-stream/edit-stream/set-payload.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/observe/data-stream-set-payload/",
+  "suggest": {
+    "meta_keywords": "Data Stream, HTTP POST Connector, configure payload, NDJSON format, payload customization, Azion Console, Real-Time Manager, API integration, stream customization, data streaming",
+    "meta_description": "Learn to configure a data stream with HTTP POST connector for payload customization in NDJSON format using Azion Console or Real-Time Manager.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Customize a payload while using a Standard HTTP/HTTPS POST connector.",
+    "meta_keywords": "Data Stream, how to, use, stream, event, logs, observe, observability"
+  }
+}

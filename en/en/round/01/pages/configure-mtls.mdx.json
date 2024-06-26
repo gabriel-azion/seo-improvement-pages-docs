@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/mtls/configure-mtls.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/mtls/",
+  "suggest": {
+    "meta_keywords": "mTLS, TLS, digital certificates, Azion mTLS configuration, Trusted CA, Edge Firewall, client certificate validation, mTLS Permissive mode, mTLS domains configuration, secure application connection",
+    "meta_description": "Explore how to configure mTLS in your applications with Azion, including setting up Trusted CA, managing digital certificates, and ensuring secure domain connections.",
+    "meta_description_length": 166
+  },
+  "current": {
+    "meta_description": "Learn how to configure mTLS in your application at Azion.",
+    "meta_keywords": "mutual transport layer security, mtls, tls handshake, open banking, certificates, digital certificates"
+  }
+}

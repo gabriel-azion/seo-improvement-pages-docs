@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/graphql/query-graphql-postman.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/query-graphql-postman/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, Postman, personal token, Azion API, API request steps, API tokens, GraphQL queries, API authentication, API security, API response",
+    "meta_description": "Learn how to query GraphQL API requests using Postman, from setting up API authentication with personal tokens to receiving structured data responses.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "You can query GraphQL requests directly on Postman and receive responses.",
+    "meta_keywords": "graphql, api, query, postman"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-functions/functions-first-steps.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/edge-functions/first-steps/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Functions, JavaScript Edge Development, Edge Application Integration, JavaScript Fetch Event, Edge Function Debugging, Edge Functions Code Editor, Write Edge Functions, Edge Developer Tools, Edge Runtime APIs, Edge Functions Preview",
+    "meta_description": "Explore how to develop and deploy JavaScript-based Edge Functions using Azion Edge Runtime, featuring tools like Edge Functions Code Editor and debugging guides.",
+    "meta_description_length": 161
+  },
+  "current": {
+    "meta_description": "Take the first steps to become an edge developer by developing edge functions.",
+    "meta_keywords": "serverless functions, edge, javascript"
+  }
+}

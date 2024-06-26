@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/develop-with-azion/frameworks/framework-hexo.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/cli/frameworks/hexo/",
+  "suggest": {
+    "meta_keywords": "Hexo, Jamstack, Azion Edge Platform, Edge Functions, static site generator, Azion CLI, deploy Hexo project, local development server, node.js development, web deployment",
+    "meta_description": "Learn to deploy a Hexo project using the Azion CLI to the Edge Platform, covering setup, local development, and Edge Functions integration.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "Build with Hexo.",
+    "meta_keywords": "hexo, js, jamstack"
+  }
+}

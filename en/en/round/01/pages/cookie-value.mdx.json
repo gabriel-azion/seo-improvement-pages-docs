@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/javascript-examples/cookie-value/cookie-value.mdx",
+  "url": "https://www.azion.com/en/documentationdocumentation/products/edge-application/edge-functions/javascript-examples/cookie-value",
+  "suggest": {
+    "meta_keywords": "edge computing, JavaScript, edge functions, cookie extraction, script for A/B testing, fetch API, web developer tools, HTTP headers, cookie handling, client-side scripting",
+    "meta_description": "Learn how to extract specific cookie values with JavaScript using edge functions for efficient A/B testing and HTTP header manipulation.",
+    "meta_description_length": 136
+  },
+  "current": {
+    "meta_description": "Get the value of a cookie according to its name.",
+    "meta_keywords": "edge computing, javascript, edge functions, extract cookie value"
+  }
+}

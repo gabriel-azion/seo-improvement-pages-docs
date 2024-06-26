@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-firewall/network-layer-protection/network-list.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-firewall/network-layer-protection/network-lists/",
+  "suggest": {
+    "meta_keywords": "Network Lists, Edge Firewall, Network Layer Protection, Azion, IP/CIDR, ASN, geolocation, Edge Computing, blocklist, allowlist, greylist",
+    "meta_description": "Explore Azion’s Network Lists within the Edge Firewall for enhanced network layer protection through IP/CIDR, ASN, and country-specific rules.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Discover how Azion's Network Lists provide granular control over network layer protection allowlists, blocklists, and graylists with IPs, ASNs and countries.",
+    "meta_keywords": "network layer protection, network list, edge computing, azion, security"
+  }
+}

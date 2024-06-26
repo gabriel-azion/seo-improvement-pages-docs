@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/monitor-applications.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/observe/monitor-applications/",
+  "suggest": {
+    "meta_keywords": "Real-Time Metrics, Edge Applications, Data Visualization, Performance Monitoring, Application Security, Edge Firewall, Web Application Firewall, Data Stream, Secure DNS, Metrics Analysis",
+    "meta_description": "Explore how to utilize Real-Time Metrics for monitoring the performance of Edge Applications, secure operations with Edge Firewall, and enhance data visualization.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "Use Real-Time Metrics to visualize data and monitor your applications.",
+    "meta_keywords": "azion, edge, observe, observability, metrics, charts"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/accounts/account-settings.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/accounts/account-settings/",
+  "suggest": {
+    "meta_keywords": "Azion, Account Settings, Authentication Settings, Account Profile, Social Login, Multi-Factor Authentication, Account Security, Delete Account, Billing Information, Azion Console",
+    "meta_description": "Manage your Azion account settings including profile, billing, authentication options, and account security features on the Azion Console.",
+    "meta_description_length": 138
+  },
+  "current": {
+    "meta_description": "You can edit general information about your account on the Account Settings page on Azion Console.",
+    "meta_keywords": "edge computing, azion, account, account settings"
+  }
+}

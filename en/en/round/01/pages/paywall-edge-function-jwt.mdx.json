@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/paywall-edge-function-jwt/paywall-edge-function-jwt.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/paywall-edge-function-jwt/",
+  "suggest": {
+    "meta_keywords": "JWT, Edge Functions, Azion Marketplace, serverless, token validation, paywall solutions, JWT solution, Edge Application, Rules Engine, authentication",
+    "meta_description": "Discover how JWT Edge Functions on Azion Marketplace enhance serverless token validation for secure, scalable paywall solutions.",
+    "meta_description_length": 128
+  },
+  "current": {
+    "meta_description": "JWT solution is a serverless function of Azion Edge Computing Platform for processing and validating JWT (JSON Web Token) tokens that can be used to create paywall solutions, allowing you to control access to content by subscription.",
+    "meta_keywords": "Paywall, Edge Functions"
+  }
+}

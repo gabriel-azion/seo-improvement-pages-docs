@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-firewall/rules-engine.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-firewall/rules-engine/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, Rules Engine, Criteria Behaviors, Edge Computing, Web Application Firewall, Rate Limiting, Edge Security, Request Handling, Security Logics, Firewall Configuration",
+    "meta_description": "Explore the Rules Engine for Edge Firewall, an advanced tool for defining meticulous security logics and behaviors, enhancing your application's firewall management.",
+    "meta_description_length": 165
+  },
+  "current": {
+    "meta_description": "Implement security logic, based on criteria and behaviors, with Rules Engine for Edge Firewall.",
+    "meta_keywords": "edge computing, rules engine, azion, rules engine for edge firewall, rule sets"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/whoami/whoami.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/cli/whoami/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, whoami command, user login information, CLI usage, command help options, CLI interactive commands, technology, software development",
+    "meta_description": "Learn how to use the Azion CLI 'whoami' command to display the email of the logged-in user, including usage tips and help options.",
+    "meta_description_length": 130
+  },
+  "current": {
+    "meta_description": "Azion CLI whoami command displays the email of the user currently logged in.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

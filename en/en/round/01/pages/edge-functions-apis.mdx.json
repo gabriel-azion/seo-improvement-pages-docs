@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/automate/edge-functions-apis.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/automate/functions/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Functions, Edge Firewall, JavaScript security, Web APIs, network lists, Firewall Rules Engine, Edge Computing Platform, request manipulation, metadata APIs, GeoIP logic",
+    "meta_description": "Explore how Azion Edge Functions and Edge Firewall enhance security using JavaScript, APIs for network lists and metadata handling, deployed on an Edge Computing Platform.",
+    "meta_description_length": 171
+  },
+  "current": {
+    "meta_description": "Through Edge Functions, you can write your own security source code in JavaScript and deploy it to run at the edge of the network.",
+    "meta_keywords": "edge, security, javascript"
+  }
+}

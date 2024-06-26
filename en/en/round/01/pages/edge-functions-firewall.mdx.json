@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-firewall/edge-functions-for-edge-firewall/edge-functions-firewall.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-firewall/edge-functions/",
+  "suggest": {
+    "meta_keywords": "edge functions, edge computing, edge firewall, JavaScript security, Edge Firewall implementation, add request header, response header manipulation, Azion Edge Platform, HTTP request management, firewall rules engine",
+    "meta_description": "Explore how Edge Functions enhance security and functionality on the Azion Edge Firewall with JavaScript, including request/response manipulation and dynamic rule implementation.",
+    "meta_description_length": 178
+  },
+  "current": {
+    "meta_description": "By using Edge Functions in JavaScript on your Edge Firewall you can boost your protection, have more dynamism, and apply the logic that your business requires.",
+    "meta_keywords": "edge functions, edge computing"
+  }
+}

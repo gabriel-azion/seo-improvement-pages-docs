@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/send-messages-to-a-queue.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/send-messages-to-a-queue/",
+  "suggest": {
+    "meta_keywords": "edge computing, message queue, integration, Azion Marketplace, messaging services, asynchronous messaging, FIFO, Edge Application, Edge Functions, Kafka-Photos, AMQP, SQS",
+    "meta_description": "Learn how to use the 'Send messages to a queue' integration on Azion Marketplace for efficient messaging on Edge Applications.",
+    "meta_description_length": 126
+  },
+  "current": {
+    "meta_description": "Send messages to a queue is a integration to help you in messaging services and queues.",
+    "meta_keywords": "message queue, edge computing, messaging"
+  }
+}

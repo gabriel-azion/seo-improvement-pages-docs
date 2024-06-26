@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/cli/cli-edge-application.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/cli-creating-edge-application/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Edge Application, Node.js, JavaScript runtime, npm package manager, Azion Console, personal token, deploy edge app, Azion Platform, edge computing",
+    "meta_description": "Learn how to deploy an edge application using Azion CLI, covering installation of Node.js, creating JavaScript apps, and managing deployments via Azion Console.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Steps for creating an edge application using Azion CLI commands.",
+    "meta_keywords": "CLI"
+  }
+}

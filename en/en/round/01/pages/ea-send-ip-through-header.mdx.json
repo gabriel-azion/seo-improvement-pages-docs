@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-send-ip-through-header.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/original-ip-header/",
+  "suggest": {
+    "meta_keywords": "Edge Application, HTTP header, X-Forwarded-For, client IP, Rules Engine, Add Request Header, Azion Console, Real-Time Manager, IP routing, network behavior",
+    "meta_description": "Learn how to isolate a client's IP in an Edge Application using the Rules Engine on Azion's Real-Time Manager or Console interfaces.",
+    "meta_description_length": 132
+  },
+  "current": {
+    "meta_description": "When a user makes a request to an edge application, the X-Forwarded-For header stores the client IP address, along with other IP addresses in the request route. Find out how you can isolate the clients IP into a dedicated header.",
+    "meta_keywords": "http header, ip, client ip, edge nodes, edge application"
+  }
+}

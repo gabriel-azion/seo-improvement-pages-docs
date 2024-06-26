@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/cli/cli-edge-function.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/cli-managing-edge-functions/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Edge Functions, manage edge functions, JavaScript, CLI commands, create edge function, delete edge function, edge function management",
+    "meta_description": "Learn how to manage Edge Functions on Azion's platform using CLI commands, including creation and deletion.",
+    "meta_description_length": 107
+  },
+  "current": {
+    "meta_description": "This guide presents the steps for managing your edge functions using the Azion CLI commands.",
+    "meta_keywords": "cli"
+  }
+}

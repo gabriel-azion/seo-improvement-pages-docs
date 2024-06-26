@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/real-time-events/analyze-logs/investigate-requests.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/observe/investigate-requests-graphql-api/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Firewall, Real-Time Events, GraphQL API, security monitoring, network lists, block requests, user-agent, attack investigation, access denial",
+    "meta_description": "Learn how to use Azion's Edge Firewall and Real-Time Events GraphQL API for monitoring and blocking unwanted access based on geo-location and user-agent.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Perform an investigation on requests that are possible attacks with the Real-Time Events GraphQL API.",
+    "meta_keywords": "azion, edge, observe, observability, logs, investigation, attacks"
+  }
+}

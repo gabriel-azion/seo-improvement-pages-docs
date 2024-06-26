@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/astro-blog-template.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/astro-blog-starter-kit/",
+  "suggest": {
+    "meta_keywords": "Astro Blog Starter Kit, Azion Marketplace, GitHub integration, edge application, continuous integration, deploy, edge functions, image processor, edge deployment, domain configuration",
+    "meta_description": "Learn how to deploy and customize your Astro Blog Starter Kit on Azion's platform, with seamless GitHub integration and features like Edge Functions and Image Processor.",
+    "meta_description_length": 169
+  },
+  "current": {
+    "meta_description": "This template contains the configurations to create a new blog page based on the Astro framework.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

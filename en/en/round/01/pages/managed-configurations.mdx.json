@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/services/integration-services/managed-configurations.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/services/managed-configurations/",
+  "suggest": {
+    "meta_keywords": "Managed Configurations, Azion Edge Infrastructure, Edge Application, Edge Functions, Digital Certificates, Real-Time Purge, Edge Firewall, Edge DNS, Edge Orchestrator, Configuration Management Service",
+    "meta_description": "Explore Managed Configurations for controlling Azion Edge infrastructure, including Edge Applications, DNS settings, and Firewall policies. Ideal for Enterprise and Mission Critical plans.",
+    "meta_description_length": 188
+  },
+  "current": {
+    "meta_description": "Managed Configurations employs the expertise of a team of experienced engineers to tackle certain day-to-day tasks on your behalf, such as configuring and maintaining your configurations.",
+    "meta_keywords": "services, managed configuration, configurations, settings"
+  }
+}

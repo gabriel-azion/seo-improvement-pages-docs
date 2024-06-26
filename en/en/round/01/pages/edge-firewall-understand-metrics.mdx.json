@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/troubleshoot/edge-firewall-understand-metrics.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/troubleshoot/edge-firewall-understand-metrics/",
+  "suggest": {
+    "meta_keywords": "Azion, WAF, Edge Firewall, Real-Time Metrics, Real-Time Events, Observe, Security, Application Monitoring, Web Application Firewall, GraphQL API",
+    "meta_description": "Explore how Azion's WAF and Observe products enhance security and monitoring for your applications with real-time metrics, events, and customized API access.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "You can continuously monitor your applications through Azion Observe products.",
+    "meta_keywords": "observe, metrics, applications, secure"
+  }
+}

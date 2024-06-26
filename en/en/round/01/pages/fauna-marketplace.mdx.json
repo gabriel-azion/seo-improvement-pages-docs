@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/fauna-marketplace.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/fauna/",
+  "suggest": {
+    "meta_keywords": "Fauna, GraphQL, Serverless, Edge Computing, Edge Applications, Edge Functions, Database Integration, Cloud API, Configuration, Rules Engine",
+    "meta_description": "Explore how to integrate Fauna with edge applications using serverless architecture for efficient database management and configuration.",
+    "meta_description_length": 136
+  },
+  "current": {
+    "meta_description": "Fauna is a flexible, developer-friendly, transactional database that comes as a secure and scalable cloud API with native GraphQL.",
+    "meta_keywords": "edge computing, Fauna, GraphQL, serverless"
+  }
+}

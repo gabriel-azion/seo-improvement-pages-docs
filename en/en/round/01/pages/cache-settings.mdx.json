@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/build/edge-application/cache-settings.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/edge-application/cache-settings/",
+  "suggest": {
+    "meta_keywords": "Edge Cache, Cache Settings, Advanced Cache Key, Cache by Cookie, Cache by Query String, CDN Cache Settings, Browser Cache Settings, Large File Optimization, Adaptive Delivery, Cache Configuration",
+    "meta_description": "Explore how to configure Edge Cache and CDN settings, including Advanced Cache Key, Cache by Query String, and Cookies, to optimize content delivery.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Configure cache TTL, large file segmentation, adaptive delivery, and cache rules for your application.",
+    "meta_keywords": "cache settings, edge cache, edge, edge application"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/next-pages-config.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/nextjs-pages-configurations/",
+  "suggest": {
+    "meta_keywords": "Next.js Pages, Azion Marketplace, GitHub integration, Edge Storage, Edge Functions, Application Accelerator, continuous development, static files delivery, SPA configuration, Edge application deployment",
+    "meta_description": "Deploy a Next.js application featuring Pages Router and custom configurations via Azion Marketplace, with GitHub for continuous updates and optimized performance using Edge Storage and Edge Functions.",
+    "meta_description_length": 200
+  },
+  "current": {
+    "meta_description": "This template builds a new Next.js application including Pages Router format and custom configurations.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

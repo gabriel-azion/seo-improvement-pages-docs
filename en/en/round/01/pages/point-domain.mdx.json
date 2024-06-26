@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/work-with-domains/point-domain.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/point-domain-to-azion/",
+  "suggest": {
+    "meta_keywords": "custom domain, CNAME record, Azion domain, DNS settings, domain CNAME, edge application, domain configuration, DNS provider, DNS records management, Azion API",
+    "meta_description": "Learn how to configure your custom domain with Azion using CNAME records and API to enhance your edge application's accessibility and performance.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Point your domain record to your Azion domain, ensuring a seamless user experience with your edge application.",
+    "meta_keywords": "domains, custom domain, DNS, CNAME, records"
+  }
+}

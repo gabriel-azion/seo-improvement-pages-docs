@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/real-time-events/analyze-logs/analyze-navigation-data.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/observe/analyze-navigation-data/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Pulse, Real-Time Events, data analysis, user experience, performance metrics, Real-Time Manager, log analysis, navigation data, JavaScript tags",
+    "meta_description": "Explore how Azion's Edge Pulse collects and analyzes navigation and performance data to enhance user experiences via the Real-Time Events platform.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Analyze logs related to navigation collected by using Edge Pulse.",
+    "meta_keywords": "azion, edge, observe, observability, logs, analysis, navigation, user experience"
+  }
+}

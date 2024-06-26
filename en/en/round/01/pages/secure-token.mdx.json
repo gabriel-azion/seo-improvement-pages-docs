@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/secure-token.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure-token/",
+  "suggest": {
+    "meta_keywords": "Azion Secure Token, edge firewall, serverless integration, Edge Functions, secure video streaming, token-based authentication, Azion Marketplace, time-limited URLs, Secure Token GitHub, on-demand content",
+    "meta_description": "Explore Azion's Secure Token for secure, serverless video streaming solutions with token-based authentication, available exclusively at Azion Marketplace.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "Azion Secure Token is a customizable integration that provides time-limited URLs with token-based authentication, commonly used to secure video assets for live streaming and on-demand content.",
+    "meta_keywords": "live streaming, secure token, video assets, on-demand content"
+  }
+}

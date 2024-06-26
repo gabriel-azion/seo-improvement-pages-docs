@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/javascript-examples/firewall-general-example/firewall-general-example.mdx",
+  "url": "https://www.azion.com/en/documentationdocumentation/products/edge-application/edge-functions/javascript-examples/general-firewall-example",
+  "suggest": {
+    "meta_keywords": "edge computing, edge functions, JavaScript, event handling, firewall integration, HTTP headers, synchronous JavaScript, response manipulation",
+    "meta_description": "Explore JavaScript-based Edge Functions for robust firewall interactions, featuring event handling, HTTP header adjustments, and custom responses.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "General example for edge functions to run on Edge Firewall.",
+    "meta_keywords": "edge computing, javascript, edge functions"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/upstash-geolocation.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/upstash-geolocation-edgedeploy/",
+  "suggest": {
+    "meta_keywords": "Upstash GeoLocation, Azion Marketplace, Edge Functions, edge application, HTML templates, personalized messages, automated deployment, user geolocation, Azion GitHub App, global database",
+    "meta_description": "Explore Upstash GeoLocation on Azion Marketplace for delivering personalized messages via edge functions based on user's geographical location, with automated deployment.",
+    "meta_description_length": 170
+  },
+  "current": {
+    "meta_description": "Upstash GeoLocation enables you to manage and deliver personalized greeting messages, based on geolocation.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

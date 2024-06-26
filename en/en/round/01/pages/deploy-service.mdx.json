@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/deploy-service/deploy-service.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/deploy/deploy-a-service/",
+  "suggest": {
+    "meta_keywords": "Edge Orchestrator, edge service management, real-time edge control, edge resources, edge deployment, managing edge services, edge node authorization, edge orchestration guide, install edge agent, edge service API",
+    "meta_description": "Explore the comprehensive guide on using Edge Orchestrator for real-time management and deployment of edge services and resources, featuring step-by-step instructions.",
+    "meta_description_length": 167
+  },
+  "current": {
+    "meta_description": "Edge Orchestrator allows you to manage and control edge resources in real time, including the deployment, update, and management of various services and resources.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

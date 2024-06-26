@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/idp/saml-azure.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/sso-azure-saml/",
+  "suggest": {
+    "meta_keywords": "Azure AD, SAML, single sign-on, Azion Console, Identity Provider, SSO Management, SAML app configuration, Azure Services, Secure access, SSO integration",
+    "meta_description": "Learn how to configure Azure AD as a SAML IdP for secure single sign-on access to Azion Console, including setup and user management.",
+    "meta_description_length": 133
+  },
+  "current": {
+    "meta_description": "Hands-on to configure Azure AD custom SAML app as an IdP for Azion Console.",
+    "meta_keywords": "accounts, users authentication, SAML, Azure AD"
+  }
+}

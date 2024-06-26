@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/intelligent-dns/run-the-traceroute-command.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/run-the-traceroute-command/",
+  "suggest": {
+    "meta_keywords": "Traceroute, Network Diagnostic, Command Line Tools, Linux Traceroute, Windows Traceroute, macOS Network Utility, Network Performance Issues, Troubleshoot Network, Packet Travel Diagnostics, Network Command Guide",
+    "meta_description": "Learn how to use Traceroute on Windows, macOS, and Linux to diagnose network issues. Guides include step-by-step command usage for network diagnostics.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Traceroute is a network diagnostic tool, that our technical support use to diagnose performance and delivery issues.",
+    "meta_keywords": "edge computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-fs-image-processor.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/image-processor/",
+  "suggest": {
+    "meta_keywords": "Image Processor, Edge Computing, Edge Application, Cache Settings, Cache Expiration Policies, Content Management, Query String Configuration, WEBP Image Conversion, Image Optimization Strategy, Dynamic Image Processing",
+    "meta_description": "Discover how to use Azion Image Processor within Edge Applications for optimizing images with advanced cache settings and automatic WEBP conversion.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "Optimize, resize, crop, and apply filters to your images automatically with the dynamic image processing capabilities of Azion Image Processor for Edge Application.",
+    "meta_keywords": "Image Processor, edge computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/deploy/edge-orchestrator/edge-orchestrator.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/deploy/edge-orchestrator/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Orchestrator, Edge Computing, real-time edge management, provisioning, Edge Node, Edge Services, orchestration service, zero-touch provisioning, encrypted orchestration, network architecture, Azion Console",
+    "meta_description": "Explore Azion Edge Orchestrator for secure, real-time management and orchestration of Edge resources, provisioning, and services via Azion Console.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Azion Edge Orchestrator is an end-to-end encrypted orchestration service with cloud management and zero-touch provisioning, created for large-scale Edge networks. Manage and control resources on the edge in real time and orchestrate your services quickly and easily to meet your needs.",
+    "meta_keywords": "Orchestrator, Edge Computing"
+  }
+}

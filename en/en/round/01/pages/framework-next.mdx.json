@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/develop-with-azion/frameworks/framework-next.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/cli/frameworks/next/",
+  "suggest": {
+    "meta_keywords": "Azion, Next.js, Edge Functions, Azion Platform, Edge Application, Deploy Next Project, Node.js, Local Development Server, Azion Edge Deployment, Next.js on Edge",
+    "meta_description": "Learn how to initialize and deploy a Next.js project on the Azion Edge Platform, leveraging Edge Functions and the latest Node.js features.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "Build with Next.",
+    "meta_keywords": "astro, js, jamstack"
+  }
+}

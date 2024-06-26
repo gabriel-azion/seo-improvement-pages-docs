@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/develop-with-azion/toolslocal-dev/local-dev.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/develop-with-azion/local-dev/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Computing, Local Development, Edge Application, Azion CLI, JavaScript, Debugging, Development Workflow, Application Building, Enhanced Collaboration",
+    "meta_description": "Explore how Azion CLI enhances local development for Edge Applications with efficient debugging, accelerated workflows, and collaborative features.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Local dev",
+    "meta_keywords": "edge, javascript"
+  }
+}

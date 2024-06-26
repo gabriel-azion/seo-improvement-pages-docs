@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/firewall-advanced-configurations/add-waf-rule-set.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/create-waf-rule-set/",
+  "suggest": {
+    "meta_keywords": "WAF, SQL Injection, Edge Firewall, Rules Engine, Azion Console, Real-Time Manager, threat management, web security, firewall rules, Azion API",
+    "meta_description": "Learn how to create and apply SQL Injection rule sets using Azion's WAF through the Console, Real-Time Manager, or API, enhancing web security.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Create rule sets on Web Application Firewall (WAF).",
+    "meta_keywords": "edge, secure, waf, rule set, rules engine"
+  }
+}

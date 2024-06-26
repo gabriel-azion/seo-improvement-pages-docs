@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/javascript-examples/respond-site/respond-site.mdx",
+  "url": "https://www.azion.com/en/documentationdocumentation/products/edge-application/edge-functions/javascript-examples/respond-site",
+  "suggest": {
+    "meta_keywords": "edge computing, javascript, edge functions, temporary redirects, fetch API, web development, site redirection, Azion platform, technology solutions",
+    "meta_description": "Explore how to implement temporary redirects using JavaScript with the fetch API on the Azion platform, enhancing web development and response strategies.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "Respond to the request with a response from another website.",
+    "meta_keywords": "edge computing, javascript, edge functions, respond with another site"
+  }
+}

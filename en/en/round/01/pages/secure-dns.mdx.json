@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/secure-dns.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/secure-dns/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, DNS Security, DNSSEC, domain hosting, authoritative DNS, DNS configurations, migrate DNS, DNS records management, Azion Edge Platform",
+    "meta_description": "Enhance your DNS security and performance with Azion Edge DNS. Explore authoritative hosting, DNSSEC, and seamless domain migration on our edge platform.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Discover how to use Azion Secure products for your DNS. Strengthen your online security with robust DNS protection for your digital assets with Edge DNS.",
+    "meta_keywords": "edge, security, dns, Edge DNS, dnssec"
+  }
+}

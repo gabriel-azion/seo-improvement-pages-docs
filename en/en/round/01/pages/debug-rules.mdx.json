@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/debug-rules/debug-rules.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/debug-rules/",
+  "suggest": {
+    "meta_keywords": "Edge Application, Edge Firewall, Debug Rules, Real-Time Events, Data Stream, GraphQL API, rule sets, debugging, Azion platform, debug modes",
+    "meta_description": "Learn how to debug rules for Edge Application and Edge Firewall using Data Stream, Real-Time Events, and GraphQL API in Azion's powerful modules.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "You can use GraphQL, Data Stream, or Real-Time Events to debug any rule or rule set created using Rules Engine for Edge Application or Edge Firewall.",
+    "meta_keywords": "rules, graphql, Data Stream, real-time events, edge application, edge firewall, rules engine"
+  }
+}

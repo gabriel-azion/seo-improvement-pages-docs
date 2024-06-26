@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/static-cache.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/static-cache-template/",
+  "suggest": {
+    "meta_keywords": "Edge Application, Static Cache, cache rules, deployment, Azion Marketplace, performance optimization, configure cache, static content delivery, Edge Computing Platform, Rules Engine",
+    "meta_description": "Optimize your static content delivery with the Static Cache template on Azion's Edge Application, featuring advanced cache rules and settings for improved performance.",
+    "meta_description_length": 167
+  },
+  "current": {
+    "meta_description": "This template includes configurations for optimizing the delivery and performance of static content.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

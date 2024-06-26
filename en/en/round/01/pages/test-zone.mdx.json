@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/troubleshoot/test-zone.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/troubleshoot/test-zone/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, DNS troubleshooting, DIG command, HOST command, NSLOOKUP command, domain information, DNS records, network troubleshooting, Azion nameservers, network administration",
+    "meta_description": "Explore detailed guides on using DIG, HOST, and NSLOOKUP commands for effective DNS troubleshooting and configuration with Azion Edge DNS.",
+    "meta_description_length": 138
+  },
+  "current": {
+    "meta_description": "You can test your zones to check if they're properly processing information.",
+    "meta_keywords": "secure, Edge DNS, zone, test, dig, host, nslookup"
+  }
+}

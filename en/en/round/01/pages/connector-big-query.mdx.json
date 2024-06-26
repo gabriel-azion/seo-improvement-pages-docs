@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/data-stream/integrations/connector-big-query.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/endpoint-google-bigquery/",
+  "suggest": {
+    "meta_keywords": "Google BigQuery, Data Stream, Azion Data, Google Cloud Platform, API BigQuery, Service Account Key, Data Stream Connector, Endpoint Configuration, Real-Time Manager, BigQuery Dataset",
+    "meta_description": "Learn how to configure Google BigQuery as an endpoint to receive data from Azion Data Stream, including API setup and access key configuration.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Hands-on to use Google BigQuery endpoint connector to receive data from Data Stream.",
+    "meta_keywords": "Data Stream, connector, endpoint, google, bigquery"
+  }
+}

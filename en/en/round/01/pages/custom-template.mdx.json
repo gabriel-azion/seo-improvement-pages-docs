@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/data-streaming/custom-template.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/data-stream-custom-template/",
+  "suggest": {
+    "meta_keywords": "Data Stream, Azion Console, custom template, real-time data integration, stream configuration, Azion Real-Time Manager, event logs, JSON format, real-time analytics, data source customization",
+    "meta_description": "Learn how to configure Data Stream on Azion, using custom templates for real-time data integration tailored to your analytical needs.",
+    "meta_description_length": 133
+  },
+  "current": {
+    "meta_description": "A custom template on Data Stream allows you to customize which variables you want to use on your analysis according to your needs.",
+    "meta_keywords": "Data Stream, template, custom"
+  }
+}

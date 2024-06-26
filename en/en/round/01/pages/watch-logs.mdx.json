@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/configure-node/watch-logs/watch-logs.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/deploy/watch-logs/",
+  "suggest": {
+    "meta_keywords": "Edge Orchestrator Agent, edge node logs, edge services logs, deploy edge services, manage edge logs, edge computing",
+    "meta_description": "Learn to manage your edge node and service logs with the Edge Orchorstrator Agent, including deployment and troubleshooting.",
+    "meta_description_length": 124
+  },
+  "current": {
+    "meta_description": "Check the edge node and the edge services triggers logs.",
+    "meta_keywords": "deploy, orchestrator, logs"
+  }
+}

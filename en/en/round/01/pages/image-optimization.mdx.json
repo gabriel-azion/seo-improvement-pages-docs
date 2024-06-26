@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/image-optimization.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/image-optimization-template/",
+  "suggest": {
+    "meta_keywords": "Image Optimization, Edge Computing, Edge Application, Cache Rules, Azion Marketplace, Edge Cache, Deployment, CDN, Browser Caching, Image File Extensions",
+    "meta_description": "Learn how to use the Image Optimization template on Azion's Edge Computing platform to enhance image loading and caching, manage settings, and customize cache rules.",
+    "meta_description_length": 165
+  },
+  "current": {
+    "meta_description": "This template includes configurations for enhancing image loading and caching, based on the file extension.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

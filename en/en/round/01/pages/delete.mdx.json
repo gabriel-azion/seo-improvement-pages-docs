@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/delete/delete.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/cli/delete/",
+  "suggest": {
+    "meta_keywords": "azion CLI, edge application deletion, edge function removal, cache settings management, rules engine configuration, domain handling, edge storage solutions",
+    "meta_description": "Learn to manage your Edge resources using Azion CLI, including deleting edge applications, functions, and setting up cache rules effectively.",
+    "meta_description_length": 141
+  },
+  "current": {
+    "meta_description": "Delete your edge applications, edge functions and other resources through Azion CLI.",
+    "meta_keywords": "cli, edge, delete, development"
+  }
+}

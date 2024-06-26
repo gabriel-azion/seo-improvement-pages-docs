@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/edit-edge-app/edit-device-groups/device-groups.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/build/create-device-groups/",
+  "suggest": {
+    "meta_keywords": "Device Groups, User-Agent, Azion Console, Edge Application, API, Mobile User Detection, Response Rules, Add Response Header, User-Agent Regular Expressions, Device Group Configuration",
+    "meta_description": "Learn how to create and manage Device Groups in Azion Console to tailor responses based on User-Agent, enhancing application responsiveness.",
+    "meta_description_length": 140
+  },
+  "current": {
+    "meta_description": "Group end-users using Device Groups based on their device, operating system, or browser details accessed via the User-Agent HTTP request header.",
+    "meta_keywords": "build, device, user agent, browser, detect"
+  }
+}

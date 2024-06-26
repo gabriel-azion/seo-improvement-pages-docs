@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/develop-with-azion/frameworks/framework-overview.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/develop-with-azion/frameworks-specific/overview/",
+  "suggest": {
+    "meta_keywords": "Jamstack, Edge Computing, JavaScript, serverless, Azion CLI, Vulcan, Edge Functions, Web frameworks support, Edge Application development, Azion platform",
+    "meta_description": "Explore the revolution of Jamstack architecture with Edge Computing, using tools like Vulcan and Azion CLI for efficient web app development on the Azion platform.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "Frameworks.",
+    "meta_keywords": "js, jamstack"
+  }
+}

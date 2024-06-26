@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/build/edge-application/edge-caching.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/edge-application/edge-cache/",
+  "suggest": {
+    "meta_keywords": "Edge Cache, Edge Application, cache TTL, caching strategies, cache policies, content delivery performance, Azion network, network efficiency, cache key, content caching",
+    "meta_description": "Explore how Edge Cache enhances content delivery by configuring cache TTL, employing effective caching strategies, and optimizing performance via Azion's network.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "Edge Cache speeds up content delivery by keeping your content cached at the edge and bringing your application closer to your users.",
+    "meta_keywords": "caching, edge, edge cache, edge computing, performance, cache status, bypass, hit, miss"
+  }
+}

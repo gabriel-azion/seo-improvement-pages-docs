@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/javascript-examples/using-args/using-args.mdx",
+  "url": "https://www.azion.com/en/documentationdocumentation/products/edge-application/edge-functions/javascript-examples/using-args",
+  "suggest": {
+    "meta_keywords": "edge computing, javascript, edge functions, args, event handling, code examples, web development, async functions, HTTP headers, JSON parameters",
+    "meta_description": "Explore edge computing with JavaScript examples on using args and event handling for web development, including async functions and JSON parameters.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "See how to call an argument.",
+    "meta_keywords": "edge computing, javascript, edge functions, args"
+  }
+}

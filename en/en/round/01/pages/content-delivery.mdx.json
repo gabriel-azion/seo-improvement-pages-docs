@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/architectures/edge-application/content-delivery.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/architectures/edge-application/content-delivery/",
+  "suggest": {
+    "meta_keywords": "Edge Computing, Edge Application, Content Delivery, Performance Optimization, Dynamic Content, Cache Policies, Azion Edge Platform, Scalable Applications, User Experience, Core Web Vitals",
+    "meta_description": "Explore how Azion Edge Platform enhances content delivery with optimized cache policies, dynamic content handling, and improved user experiences.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "Use edge-native content to replace legacy CDNs and leverage the speed and reliability of the edge network while reducing costs.",
+    "meta_keywords": "edge, applications, web applications, api, content delivery, cdn"
+  }
+}

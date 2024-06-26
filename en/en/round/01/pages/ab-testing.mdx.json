@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/ab-testing.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/ab-testing/",
+  "suggest": {
+    "meta_keywords": "A/B Testing, Edge Computing, Serverless, Edge Functions, Azion Marketplace, Traffic Distribution, Cookie Management, Test Variants, JSON Configuration, Azion Console",
+    "meta_description": "Explore A/B Testing with Azion's Edge Functions for efficient traffic distribution and test variant management, available via the Azion Marketplace.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "A/B Testing is a serverless function from Azion Edge Computing Platform for A/B Tests.",
+    "meta_keywords": "edge computing, test a/b"
+  }
+}

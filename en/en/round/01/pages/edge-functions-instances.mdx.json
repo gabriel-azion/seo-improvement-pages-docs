@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-firewall/edge-functions-for-edge-firewall/edge-functions-instances.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-firewall/edge-functions-instances/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Edge Firewall, Azion Edge Computing, Serverless Functions, Edge Nodes, Rules Engine, Shieldsquare Bot Manager, Secure Token, Function JWT",
+    "meta_description": "Activate Edge Functions with Edge Firewall at Azion to deploy serverless functions, ensuring scalability and quick response via Edge Nodes.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "By activating the Edge Functions module, you can instantiate serverless functions in your Edge Firewall at Azion, as well as set up the conditions for its execution.",
+    "meta_keywords": "Edge Firewall, Security, edge computing"
+  }
+}

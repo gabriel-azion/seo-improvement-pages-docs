@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/build/edge-application/load-balancer.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/edge-application/load-balancer/",
+  "suggest": {
+    "meta_keywords": "Load Balancer, Edge Computing, Traffic Distribution, High Availability, Server Overload Prevention, Load Balancing Algorithms, HTTP Requests, HTTPS Requests, Round-Robin, Least Connections, IP Hash",
+    "meta_description": "Explore Azion Load Balancer, designed for effective traffic distribution across data centers to prevent server overload and ensure high availability with various load balancing algorithms.",
+    "meta_description_length": 188
+  },
+  "current": {
+    "meta_description": "Load Balancer allows you to balance traffic to your origin data centers or cloud providers to avoid network congestion and overloading your servers.",
+    "meta_keywords": "Load Balancer, edge computing"
+  }
+}

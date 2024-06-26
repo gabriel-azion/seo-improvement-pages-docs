@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-dns/dnssec/dnssec.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-dns/dnssec-compatibility/",
+  "suggest": {
+    "meta_keywords": "DNSSEC, Azion Edge platform, IP address conversion, Domain Name System, DNS security, DNS tampering prevention, DNSSEC activation, digital signatures DNS, DNS data integrity, DNS hosting",
+    "meta_description": "Explore how Azion's Edge platform supports DNSSEC for secure and reliable DNS data integrity and prevention against tampering, ensuring authentic IP address conversions.",
+    "meta_description_length": 169
+  },
+  "current": {
+    "meta_description": "Azion's Edge platform is compliant with the DNS Security Extensions (DNSSEC) specification supporting its use in Azion's accelerated sites and applications.",
+    "meta_keywords": "DNSSEC compatibility"
+  }
+}

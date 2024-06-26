@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-http2.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/http2/",
+  "suggest": {
+    "meta_keywords": "HTTP/2, HTTP/2 benefits, server push, HTTP header compression, multiplexing requests, resource prioritization, front-end optimization, Azion HTTP/2, web performance improvement, modern web protocols",
+    "meta_description": "Explore the benefits of HTTP/2, including server push, header compression, and multiplexing for enhanced web performance, all supported by Azion since 2018.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "The HTTP/2 standard was approved in February 2015 and is considered the biggest upgrade of the HTTP protocol in 15 years.",
+    "meta_keywords": "http2"
+  }
+}

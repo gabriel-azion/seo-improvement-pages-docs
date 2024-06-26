@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-firewall/web-application-firewall/custom-allowed-rule.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-firewall/web-application-firewall/custom-allowed-rules/",
+  "suggest": {
+    "meta_keywords": "WAF Custom Allowed Rules, Web Application Firewall, edge application security, false positives mitigation, WAF rules engine, security configuration, Edge Firewall, application protection, threat detection, cybersecurity",
+    "meta_description": "Enhance your edge application's defense with WAF Custom Allowed Rules, improving security and managing false positives effectively.",
+    "meta_description_length": 131
+  },
+  "current": {
+    "meta_description": "Optimize the security of your edge application with Custom Allowed Rules for WAF.",
+    "meta_keywords": "waf, security, edge computing"
+  }
+}

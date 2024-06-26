@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/api-graphql/features/metrics-fields.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/graphql-api/features/gql-real-time-metrics-fields/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, Real-Time Metrics, Azion Console, data analytics, Edge Applications, HTTP status, cached data, request methods, Edge Computing, WAF",
+    "meta_description": "Explore comprehensive insights on Real-Time Metrics and GraphQL API datasets with detailed field descriptions for Edge Applications on Azion Console.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "See descriptions for all fields from each Real-Time Metrics GraphQL API dataset.",
+    "meta_keywords": "graphql, api, azion, fields, metrics"
+  }
+}

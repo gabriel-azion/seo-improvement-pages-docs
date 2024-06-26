@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/jekyll-boilerplate.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/jekyll-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Jekyll Boilerplate, Azion Edge Platform, static site deployment, GitHub integration, custom domain, Ruby on Jekyll, continuous deployment, Edge Application configuration, Azion Marketplace, edge computing",
+    "meta_description": "Deploy and manage Jekyll-based sites with the Jekyll Boilerplate on Azion Edge Platform. Includes GitHub integration, custom domains, and easy configuration.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "This template deploys a repository with a project based on Jekyll, a framework written in Ruby, that enables you to create static sites using Markdown and HTML files.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/waf/check-waf-mode.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/how-to-check-your-waf-mode/",
+  "suggest": {
+    "meta_keywords": "Web Application Firewall, WAF operation modes, Edge Firewall, WAF Rule Set, Learning Mode WAF, Blocking Mode WAF, WAF configuration, check WAF mode, edit WAF mode, Azion WAF",
+    "meta_description": "Discover how to adjust the WAF operation modes between learning and blocking within Azion's Edge Firewall, ensuring optimal WAF configuration.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Learn how to check and change the operation mode of WAF configurations.",
+    "meta_keywords": "edge firewall, web application firewall, learning, blocking, operation modes"
+  }
+}

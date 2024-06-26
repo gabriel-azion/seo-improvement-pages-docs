@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/data-stream/advanced-configurations/configure-sampling.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/observe/configure-sampling/",
+  "suggest": {
+    "meta_keywords": "Azion, Data Stream, Sampling, Real-Time Manager, Azion Console, API Integration, Kafka Connector, Configure Data Stream, Streaming Data, Domain Management",
+    "meta_description": "Learn how to configure Azion Data Stream Sampling to manage data costs effectively, using Real-Time Manager or Azion Console, with detailed API setup guides.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "Configure the Sampling feature to filter the percentage of data you'll be streaming.",
+    "meta_keywords": "Data Stream, observe, observability, logs, sampling"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/observe/real-time-events/real-time-events.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/observe/real-time-events/",
+  "suggest": {
+    "meta_keywords": "Real-Time Events, Azion products, performance analysis, security inspection, application debugging, data reliability, real-time data, data querying, API access, Edge DNS, Data Stream",
+    "meta_description": "Explore Azion's Real-Time Events for live data analysis across multiple services, enhancing performance, security, and efficiency in real time.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Real-Time Events is an Observe product that allows you to display logs from your Azion products and services in real time.",
+    "meta_keywords": "edge computing, events, data, logs, raw data"
+  }
+}

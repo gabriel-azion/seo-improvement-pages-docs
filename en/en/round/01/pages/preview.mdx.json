@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/preview/preview.mdx",
+  "url": "https://www.azion.com/en/documentationdocumentation/products/edge-application/edge-functions/runtime-api/preview-deployment",
+  "suggest": {
+    "meta_keywords": "Azion, Preview Deployment, Edge Functions, HTTP method, Preview Provider, API builder, JavaScript, ChatGPT integration, JSON response, HTML content",
+    "meta_description": "Explore how Azion's Preview Deployment enables real-time testing of Edge Functions with features like Preview Provider, API builders, and ChatGPT integration.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Azion Preview Deployment makes it possible for you to preview the behavior of your edge functions before they go to production.",
+    "meta_keywords": "edge, javascript"
+  }
+}

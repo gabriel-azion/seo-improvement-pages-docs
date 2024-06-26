@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/waf/configure-allowed-rules.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/configure-waf-allowed-rules/",
+  "suggest": {
+    "meta_keywords": "WAF Custom Allowed Rules, Edge Application Protection, Configure WAF, Azion Edge Platform, Security Configuration, Cybersecurity, Web Application Firewall, Edge Security, Allowed Rules Optimization, Application Security",
+    "meta_description": "Learn to configure WAF Custom Allowed Rules on the Azion Edge Platform for enhanced security and specific protections tailored to your edge applications.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Configuring a WAF Custom Allowed Rule allows you to instantiate specific rules for the needs of your edge application.",
+    "meta_keywords": "secure, WAF, WEB Application Firewall, cybersecurity, threats"
+  }
+}

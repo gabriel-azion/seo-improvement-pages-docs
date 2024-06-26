@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/how-to-massive-redirection.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/massive-redirect-integration/",
+  "suggest": {
+    "meta_keywords": "Massive Redirect, Azion Marketplace, domain migration, Edge Computing, marketplace integration, domain redirects, serverless integration, Edge Application, configure redirection, Edge Functions",
+    "meta_description": "Learn how to utilize Azion Marketplace's Massive Redirect for efficient domain migration and redirection directly at the edge.",
+    "meta_description_length": 126
+  },
+  "current": {
+    "meta_description": "In this document you'll learn how to use a Azion's Markletplace integration to redirect your domains.",
+    "meta_keywords": "edge computing, massive redirection, marketplace"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-firewall/update-edge-firewall.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/how-to-update-your-edge-firewall/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, update Edge Firewall, DDoS Protection, Network Layer Protection, Web Application Firewall, Edge Functions, Azion console, IP Blocking, Geo-Blocking, Secure Token",
+    "meta_description": "Guide on updating to the latest version of Edge Firewall, including new features like DDoS Protection, Network Layer Protection, and Web Application Firewall.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Learn how to update deprecated features of your Edge Firewall",
+    "meta_keywords": "edge computing"
+  }
+}

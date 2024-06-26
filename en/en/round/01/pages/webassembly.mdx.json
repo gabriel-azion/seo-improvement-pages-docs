@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-functions/webassembly.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/webassembly-on-azion-platform/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, WebAssembly, JavaScript, wasm, Edge Computing, wasmCode, Edge Application, Azion Console, Function Creation, Developer Guide",
+    "meta_description": "Discover how to create Edge Functions using JavaScript and WebAssembly on the Azion Console, perfect for developers expanding their Edge Computing applications.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Learn about the process required to create an edge function that uses a WebAssembly originated function.",
+    "meta_keywords": "javascript, edge computing, wasm, webassembly"
+  }
+}

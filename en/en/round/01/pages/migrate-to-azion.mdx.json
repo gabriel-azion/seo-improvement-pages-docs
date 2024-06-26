@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/additional-resources/migrate-to-azion/migrate-to-azion.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/migrate-to-azion/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Computing, Migrate Applications, Edge Application, Migration Guide, Application Deployment, Edge Functions, Domain Pointing, Service Plans, Integration Services",
+    "meta_description": "Discover how to migrate and deploy applications to Azion's edge platform effectively. Includes steps for setup, testing, and domain integration.",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "Learn how you can bring your applications and infrastructure to Azion.",
+    "meta_keywords": "azion, migrate, domains, edge computing"
+  }
+}

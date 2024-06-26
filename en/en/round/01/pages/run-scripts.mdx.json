@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/advanced-config/run-scripts/run-scripts.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/deploy/advanced/run-scripts/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Edge Orchestrator Agent, install Azion, edge service configuration, shell script resource, edge node setup, API guide for edge services, Edge Computing, edge node authorization, Dpkg package manager",
+    "meta_description": "Learn how to configure and install Azion CLI on edge nodes using Shell Script resources via Azion Console and API, including service binding and setup.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Install Azion CLI on your edge nodes through a resource of the type Shell Script configured on a specific edge service.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

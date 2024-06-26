@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/init-build-deploy/azion-create-deploy-application.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/azion-cli/create-application/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Platform, deploy applications, cli, build commands, initialize application, Azion Edge, edge computing, software deployment, development server",
+    "meta_description": "Learn to initialize, build, and deploy applications using Azion's Edge Platform with interactive CLI commands and comprehensive deployment options.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Create and deploy a new application from Azion's templates.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/architectures/bot-management/bot-management-architecture.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/architecture/bot-management/protect-your-applications-with-bot-management/",
+  "suggest": {
+    "meta_keywords": "Azion Bot Manager, bot management, security solutions, machine learning, bot detection, edge computing, real-time events, edge application, data stream, preventive security",
+    "meta_description": "Discover Azion's Bot Manager leveraging machine learning for advanced bot detection, ensuring robust security with real-time analytics on the edge platform.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "Use Azion Bot Manager to protect edge applications from bots, preventing malicious attacks.",
+    "meta_keywords": "architecture, secure, bot, bot management, security, firewall"
+  }
+}

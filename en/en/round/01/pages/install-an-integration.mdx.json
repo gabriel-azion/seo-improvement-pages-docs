@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/additional-resources/templates-and-integrations/install-an-integration.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/marketplace/install-an-integration/",
+  "suggest": {
+    "meta_keywords": "Azion Marketplace, Edge Functions, Edge Application integrations, Edge Firewall integrations, configuring Edge Firewall, instantiating integration, Azion integrations, Edge Computing",
+    "meta_description": "Learn how to install and configure integrations for Edge Applications and Edge Firewall in the Azion Marketplace to enhance security and functionality.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "This documentation will guide you to install an integration in an existing edge application.",
+    "meta_keywords": "marketplace, edge computing"
+  }
+}

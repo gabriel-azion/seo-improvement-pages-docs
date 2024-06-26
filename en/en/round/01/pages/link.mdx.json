@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/link-project/link.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/cli/link-command/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Application, Azion link, Edge Computing, Deploy, Development Server, Edge Command, Interactive Linking, Project Deployment, Edge Integration",
+    "meta_description": "Learn how to link and deploy projects on the Azion Edge platform, using interactive commands for optimal edge computing integration.",
+    "meta_description_length": 132
+  },
+  "current": {
+    "meta_description": "Linking an existing project to run on the Azion Edge platform.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

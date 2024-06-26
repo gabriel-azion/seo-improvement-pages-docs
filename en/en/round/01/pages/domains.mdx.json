@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/build/edge-application/domains/domains.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/edge-application/domains/",
+  "suggest": {
+    "meta_keywords": "Azion domain, custom domains, edge application, domain management, Digital Certificate, mTLS, CNAME settings, domain configuration, HTTPS domain, Azion Console",
+    "meta_description": "Explore Azion's domain management tools for edge applications, including custom domains, Digital Certificates, mTLS, and CNAME configuration.",
+    "meta_description_length": 141
+  },
+  "current": {
+    "meta_description": "Azion domains keep your edge application content cached at the edge and can be customized to fit your needs.",
+    "meta_keywords": "edge application, domains"
+  }
+}

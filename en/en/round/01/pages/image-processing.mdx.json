@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/architectures/edge-application/image-processing.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/architectures/edge-application/image-processing/",
+  "suggest": {
+    "meta_keywords": "Azion Image Processor, Edge Computing, Edge Application, Image Optimization, Cache Policies, Rules Engine, Content Delivery, Edge Cache, Resource Management, Automation",
+    "meta_description": "Explore Azion Image Processor for efficient Edge Computing solutions. Automate resource management, optimize images, and streamline content delivery with advanced cache policies.",
+    "meta_description_length": 178
+  },
+  "current": {
+    "meta_description": "Use Azion Image Processor to automate resource management, reduce load times and storage costs, and leverage the speed and reliability of the edge network.",
+    "meta_keywords": "edge, applications, web applications, api, content delivery, cdn, image processing"
+  }
+}

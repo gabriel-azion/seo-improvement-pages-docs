@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/api-graphql/limits/limits.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/graphql-api/limits/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, query limits, error responses, API performance, querying rows, field limits, Real-Time Metrics GQL, Real-Time Events GQL",
+    "meta_description": "Explore the essential limits of the GraphQL API including rows per query and fields limit, ensuring optimal performance and understanding error responses.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "To keep GraphQL API working with enhanced performance, the API has predetermined limits you must pay attention to.",
+    "meta_keywords": "graphql, api, azion, query, limits"
+  }
+}

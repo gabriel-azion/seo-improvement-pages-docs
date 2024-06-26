@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/waf/find-waf-score.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/how-to-find-waf-score/",
+  "suggest": {
+    "meta_keywords": "Web Application Firewall, WAF, Azion, real-time events, WAF queries, WAF blocked requests, edge firewall, WAF troubleshooting, WAF security, domain security",
+    "meta_description": "Explore how to use WAF queries within Azion's Real-Time Events to identify and understand requests blocked by the Web Application Firewall for enhanced security.",
+    "meta_description_length": 161
+  },
+  "current": {
+    "meta_description": "Learn how to find more information on WAF blocked requests with Azion.",
+    "meta_keywords": "web application firewall, waf, azion, waf score, real-time events, edge firewall"
+  }
+}

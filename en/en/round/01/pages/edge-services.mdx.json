@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/deploy/edge-orchestrator/edge-services.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/deploy/edge-orchestrator/edge-services/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Services, Edge Orchestrator, Edge Nodes, edge computing, orchestration platform, Azion Cells, edge configuration, Edge Firewall, Edge Functions, resource management",
+    "meta_description": "Discover how Azion Edge Services enhances edge computing with streamlined orchestration, resource management, and integration via the Azion platform.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Azion Edge Services is a module for the Edge Orchestrator product that allows orchestrated services to be managed within your own edge infrastructure.",
+    "meta_keywords": "Services, Edge Computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/build/edge-application/edge-application.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/edge-application/",
+  "suggest": {
+    "meta_keywords": "Edge Application, Edge Network, Edge Computing, Latency Reduction, Throughput Enhancement, Edge Nodes, Global Network, Azion Products, Edge Technology, Real-Time Application Development",
+    "meta_description": "Discover how Edge Application by Azion enhances user experience by reducing latency and boosting throughput on a global network of edge nodes.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Edge Application is a product that lets you build applications on Azion Edge Network, reducing latency and throughput between origin servers and users.",
+    "meta_keywords": "Edge Computing, Edge Application, edge network"
+  }
+}

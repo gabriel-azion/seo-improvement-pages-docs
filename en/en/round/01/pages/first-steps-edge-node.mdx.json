@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/orchestrator/first-steps-edge-node.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/edge-node-first-steps/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Node, Edge Orchestrator installation, Edge Node installation, Edge Computing, Edge services configuration, Authenticated Edge Nodes, Edge Node authorization, command line Azion install, provisioning Edge services, Azion platform",
+    "meta_description": "Learn to install and configure the Azion Edge Node, including authentication, service provisioning, and using Edge Orchestrator for optimal device management.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "First steps to work with Azion Edge Node.",
+    "meta_keywords": "Orchestrator, Edge Computing"
+  }
+}

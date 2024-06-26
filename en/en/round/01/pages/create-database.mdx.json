@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-sql/create-database.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/manage-databases-edge-sql/",
+  "suggest": {
+    "meta_keywords": "Edge SQL, Azion API, database management, CRUD operations, create database, list database, delete database, relational database, Azion REST API, API guide",
+    "meta_description": "Discover how to manage databases with Edge SQL through the Azion API: create, list, and delete operations in an efficient guide.",
+    "meta_description_length": 128
+  },
+  "current": {
+    "meta_description": "Learn how to create, list, and delete databases from Edge SQL using the Azion REST API.",
+    "meta_keywords": "edge sql, sql, database, crud"
+  }
+}

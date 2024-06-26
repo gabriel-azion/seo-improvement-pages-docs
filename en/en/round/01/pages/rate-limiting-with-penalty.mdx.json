@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/rate-limiting-with-penalty.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/upstash-rate-limiting-integration/",
+  "suggest": {
+    "meta_keywords": "Upstash Rate Limiting, edge computing, traffic management, DDoS protection, rate limit configuration, edge functions, network security, traffic spikes, penalty system, Azion Marketplace",
+    "meta_description": "Discover how Upstash Rate Limiting manages traffic, prevents bottlenecks, and protects from DDoS at the edge. Learn to configure rate limits with edge functions on Azion.",
+    "meta_description_length": 170
+  },
+  "current": {
+    "meta_description": "This integration allows you to control incoming traffic right at the edge and protect your applications.",
+    "meta_keywords": "marketplace, edge computing, rate limiting"
+  }
+}
