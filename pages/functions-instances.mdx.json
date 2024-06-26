@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/edite-edge-app/functions-instances.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/build/instanciar-edge-functions/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Azion Console, serverless, ativar Edge Functions, configuração de função, Azion API, instanciar função, automação Edge Application, SDKs da Azion, marketplace",
+    "meta_description": "Aprenda como instanciar e configurar Edge Functions através do Azion Console e API para melhorar a eficiência de aplicações Edge, com detalhes sobre custos e SDKs disponíveis.",
+    "meta_description_length": 175
+  },
+  "current": {
+    "meta_description": "Instancie funções serverless diretamente na sua edge application.",
+    "meta_keywords": "build"
+  }
+}

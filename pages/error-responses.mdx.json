@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/error-responses.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/error-responses/",
+  "suggest": {
+    "meta_keywords": "Edge Application, HTTP status codes, custom error pages, error handling, Azion platform, personalize error response, server error, client error, HTTP response, error caching TTL",
+    "meta_description": "Descubra como personalizar respostas de erro com Azion Edge Application, adaptando páginas com base em códigos de status HTTP e otimizando a experiência do usuário.",
+    "meta_description_length": 164
+  },
+  "current": {
+    "meta_description": "Error Responses é uma capacidade da Azion Edge Application que permite personalizar páginas de erro para os usuários com base no código de status recebido da origem.",
+    "meta_keywords": "erros, edge application, http, páginas de erro"
+  }
+}

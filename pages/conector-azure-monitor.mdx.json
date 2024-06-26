@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/data-stream/integracoes/conector-azure-monitor.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/azure-monitor-endpoint/",
+  "suggest": {
+    "meta_keywords": "Data Stream, Azure Monitor, Azion, configuring endpoints, monitoramento Azure, Real-Time Manager, Console Azion, passo a passo Azure, Workspace ID, Microsoft Sentinel",
+    "meta_description": "Saiba como configurar Azure Monitor em seu Data Stream da Azion. Encontre dicas para usar o Real-Time Manager ou o Console e otimize seus endpoints.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "Hands-on para utilizar o Azure Monitor para receber dados do Data Stream",
+    "meta_keywords": "Data Stream, connector, endpoint, azure, monitor"
+  }
+}

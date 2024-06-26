@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-dns/edge-dns.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-dns/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, DNS, DNS autoritativo, gestão de domínios, DNSSEC, redirecionamento de domínios, registros DNS, política DNS, CNAME, ANAME",
+    "meta_description": "Explore como Edge DNS da Azion oferece hospedagem eficiente e segura de domínios com gestão intuitiva, registros variados e políticas flexíveis de DNS.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Hospede domínios, zonas DNS e registros com as soluções de roteamento da Azion e Edge DNS.",
+    "meta_keywords": "Edge DNS, DNS, roteamento"
+  }
+}

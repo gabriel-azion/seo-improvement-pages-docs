@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/trabalhe-com-dominios/apontar-dominio.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/apontar-dominio-para-a-azion/",
+  "suggest": {
+    "meta_keywords": "domínios personalizados, DNS, CNAME, edge application, configuração de domínio, Azion console, API Azion, gerenciamento de DNS, certificado digital, propagação DNS",
+    "meta_description": "Guia completo para associar seu domínio personalizado com sua edge application na Azion, incluindo configuração via Azion Console e API, e gerenciamento de DNS.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Aponte o registro do seu domínio para o seu domínio Azion, garantindo uma experiência de usuário perfeita com sua edge application.",
+    "meta_keywords": "domains, custom domain, DNS, CNAME, records"
+  }
+}

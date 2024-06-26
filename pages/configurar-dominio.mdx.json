@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/trabalhe-com-dominios/configurar-dominio.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/configurar-dominio/",
+  "suggest": {
+    "meta_keywords": "Azion, domínio customizado, edge computing, DNS lookup, API Azion, edge application, cnames, domínio personalizado, Azion console, criar domínio",
+    "meta_description": "Descubra como criar e gerenciar domínios personalizados com a Azion, integrando sua edge application para otimização e controle eficaz de DNS e APIs.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Use Azion Domains para habilitar acesso à sua application por um domínio, permitindo tráfego de usuários e monitoramento de métricas.",
+    "meta_keywords": "domain, edge computing, edge network, custom domain"
+  }
+}

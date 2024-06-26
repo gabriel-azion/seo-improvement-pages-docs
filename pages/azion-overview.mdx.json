@@ -1,0 +1,12 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/azion-overview/azion-overview.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/azion-cli/visao-geral/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Edge Computing, edge applications, Azion platform, CLI for Edge, Jamstack applications, Azion SDK, command line interface, web frameworks on edge, Azion API",
+    "meta_description": "Explore como a Azion CLI simplifica a criação e o gerenciamento de edge applications diretamente do terminal, utilizando a plataforma e SDK da Azion.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Através da Azion CLI, você pode construir e realizar o deploy de edge applications utilizando a linha de comando."
+  }
+}

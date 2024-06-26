@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/automatizar/zero-touch-provisioning/zero-touch-provisioning.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/deploy/automatizar/zero-touch-provisioning/",
+  "suggest": {
+    "meta_keywords": "Edge Orchestrator, zero-touch provisioning, multi-cloud deployment, IoT deployment, automatização, segurança aprimorada, escalabilidade de rede, provisionamento automatizado, implantação on-premises, gestão de nuvem",
+    "meta_description": "Explore como o Edge Orchestrator simplifica a implantação on-premises, multi-cloud e IoT através do provisionamento automatizado, aumentando segurança e eficiência.",
+    "meta_description_length": 164
+  },
+  "current": {
+    "meta_description": "Automatize a implatação de arquivos para estruturas on-premises, multi-cloud e IoT com o Azion Edge Orchestrator.",
+    "meta_keywords": "deploy, orchestrator, provisioning, ztp"
+  }
+}

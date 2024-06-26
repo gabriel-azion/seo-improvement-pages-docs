@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/vue-boilerplate.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/vue-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Vue Boilerplate, Azion, Edge Application, Edge Functions, Edge Platform, GitHub Integration, Continuous Deployment, Single-Page Application, Vue SPA, Automate Deployment",
+    "meta_description": "Descubra como o Vue Boilerplate na Azion possibilita criar e lançar automated Vue SPAs diretamente na edge, com recursos como Edge Functions e GitHub Integration.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "O Vue Boilerplate fornece uma solução de automação para criar uma edge application Vue na Azion.",
+    "meta_keywords": "templates, guias, Azion Marketplace"
+  }
+}

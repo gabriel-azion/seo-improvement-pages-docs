@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/mongodb-template.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/mongodb-atlas/",
+  "suggest": {
+    "meta_keywords": "MongoDB Atlas, Azion Marketplace, Edge Application, Edge Functions, API configuration, deployment template, HTTPS requests, cloud database management, Azion GitHub App",
+    "meta_description": "Integre e gerencie aplicações com MongoDB Atlas no edge da Azion usando nosso template. Implante facilmente com Edge Functions e controle via API.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Este template ajuda você a implantar uma aplicação integrada com o MomgoDB Atlas no edge e gerenciá-la via API.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

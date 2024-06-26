@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/cli/cli-configurar-output.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/cli-configuracao-saida/",
+  "suggest": {
+    "meta_keywords": "CLI, Edge Applications, configuração CLI, comando edge_applications, saída detalhada, erro de execução, terminal, Azion, config.json, output control",
+    "meta_description": "Descubra como configurar saídas detalhadas do comando `edge_applications` da CLI para melhorar o monitoramento e a correção de erros em suas aplicações Edge.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "Esse guia apresentará como configurar a saída da CLI.",
+    "meta_keywords": "CLI"
+  }
+}

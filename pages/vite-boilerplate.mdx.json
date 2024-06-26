@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/vite-boilerplate.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/vue-vite-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Vue3, Vite, Azion Marketplace, GitHub Integration, Edge Applications, SPA Deployment, Edge Functions, Application Accelerator, Edge Configuration, Template Deployment",
+    "meta_description": "Descubra o Vue3/Vite Boilerplate para implantação rápida de SPAs via Azion Marketplace, com integração de GitHub, Edge Functions e Application Accelerator.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "Esse template acelera a implantação de uma aplicação baseada em Vue3/Vite.sss",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

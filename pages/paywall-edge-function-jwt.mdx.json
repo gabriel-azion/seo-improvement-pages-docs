@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/paywall-edge-function-jwt.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/paywall-edge-function-jwt/",
+  "suggest": {
+    "meta_keywords": "Edge Function JWT, Azion Marketplace, processar tokens JWT, paywall serverless, autenticação JWT, Edge Computing, configuração JWT, implementação paywall, Rules Engine, Azion Console",
+    "meta_description": "Explore como Edge Function JWT do Azion Marketplace processa e valida tokens JWT para paywalls em Edge Computing, com fácil configuração e implementação via Azion Console.",
+    "meta_description_length": 171
+  },
+  "current": {
+    "meta_description": "Edge Function JWT é uma função serverless da plataforma de Edge Computing da Azion para processamento e validação de tokens JWT.",
+    "meta_keywords": "Paywall com Edge Function JWT"
+  }
+}

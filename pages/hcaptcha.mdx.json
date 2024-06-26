@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/hcaptcha.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/hcaptcha/",
+  "suggest": {
+    "meta_keywords": "hCaptcha, segurança online, desafios CAPTCHA, proteção contra bots, Azion edge nodes, integração da Azion, configuração de segurança, Edge Computing, Edge Functions, proteção de infraestrutura",
+    "meta_description": "Descubra como a integração hCaptcha da Azion protege contra bots e melhora a segurança online, executando diretamente em edge nodes. Configure seu ambiente seguro agora.",
+    "meta_description_length": 169
+  },
+  "current": {
+    "meta_description": "A integração hCaptcha age como uma defesa contra ataques maliciosos de bots, SPAM e outros.",
+    "meta_keywords": "edge computing, captcha, hcaptcha, bot, spam"
+  }
+}

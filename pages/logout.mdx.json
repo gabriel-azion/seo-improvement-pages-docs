@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/logout/logout.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/cli/logout/",
+  "suggest": {
+    "meta_keywords": "Azion, logout, CLI, autenticação, token de segurança, help flag, comando azion, segurança de dados, gerenciamento de sessão, autenticação de usuário",
+    "meta_description": "Saiba como sair da sua conta Azion e remover o personal token com segurança usando o comando CLI 'azion logout', incluindo opções de ajuda.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "Saia da sua conta Azion e remova o personal token salvo localmente.",
+    "meta_keywords": "cli, logout, autenticação"
+  }
+}

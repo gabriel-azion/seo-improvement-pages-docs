@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/htmx-minimal.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/htmx-boilerplate/",
+  "suggest": {
+    "meta_keywords": "HTMX Boilerplate, Azion Edge Platform, Edge Functions, GitHub integration, Edge Application configuration, template deployment, continuous deployment, Azion Marketplace, application management, custom domain setup",
+    "meta_description": "Descubra como implementar e gerenciar o HTMX Boilerplate na Azion Edge Platform, incluindo configuração via GitHub e customização de domínio.",
+    "meta_description_length": 141
+  },
+  "current": {
+    "meta_description": "Implante e teste um exemplo mínimo da biblioteca HTMX na Plataforma de Edge da Azion.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

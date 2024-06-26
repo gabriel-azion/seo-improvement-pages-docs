@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/cli/cli-instalando-manualmente.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/cli-instalando-manualmente/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, instalação manual, sistemas operacionais, configuração CLI, linha de comando, downloads CLI, permissões de arquivo CLI, execução de CLI, macOs CLI, Linux CLI",
+    "meta_description": "Guia passo a passo em Português sobre como realizar a instalação e configuração do Azion CLI em diferentes sistemas operacionais.",
+    "meta_description_length": 129
+  },
+  "current": {
+    "meta_description": "Veja os passos para instalar a CLI manualmente.",
+    "meta_keywords": "CLI"
+  }
+}

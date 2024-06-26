@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/zona-configuracoes-avancadas/acessar-root-domain.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/acessar-root-domain/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, ANAME, root domain, naked domain, registro DNS, configuração de DNS, domínio, gerenciamento de DNS, console Azion, Real-Time Manager",
+    "meta_description": "Aprenda como configurar Edge DNS usando ANAME para acesso ao root domain com nosso guia detalhado, compatível com Console e Real-Time Manager da Azion.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Configure o seu Edge DNS para permitir o acesso a um endereço por meio de seu root domain.",
+    "meta_keywords": "secure, Edge DNS, domain, naked domain, root domain, aname, entry, records"
+  }
+}

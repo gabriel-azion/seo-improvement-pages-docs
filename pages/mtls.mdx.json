@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/transport-layer-security/mtls.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/mtls/",
+  "suggest": {
+    "meta_keywords": "mTLS, Trusted CA, digital certificate, Mutual Authentication, Azion Console, Real-Time Manager, Edge Application, Privacy Enhanced Mail, PEM, API integration",
+    "meta_description": "Descubra como configurar mTLS com Trusted CA em aplicações Edge usando Azion Console ou Real-Time Manager para autenticação mútua segura e validar comunicações de rede.",
+    "meta_description_length": 168
+  },
+  "current": {
+    "meta_description": "mTLS é um método que valida o digital certificate no lado do cliente e no edge.",
+    "meta_keywords": "secure, configuration, settings, domains, mtls, mutual authentication"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/visao-geral.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/visao-geral/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, Edge DNS, configurações de segurança, proteção DDoS, Edge Functions, Network Layer Protection, Web Application Firewall, regras de segurança, Azion, infraestrutura distribuída",
+    "meta_description": "Descubra como proteger aplicações e domínios usando Edge Firewall e Edge DNS da Azion, integrando segurança robusta e configurações avançadas.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Proteja suas aplicações e domínios com as capacidades de edge computing.",
+    "meta_keywords": "secure, overview, firewall"
+  }
+}

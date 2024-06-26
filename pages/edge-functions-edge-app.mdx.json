@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/edge-functions-edge-app.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/edge-functions/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Edge Computing, Azion Edge Functions, serverless, JavaScript, WebAssembly, Edge Applications, Next.js, Jamstack, SSR, Programação no Edge",
+    "meta_description": "Explore como Edge Functions da Azion otimiza aplicações serverless com JavaScript, WebAssembly e Next.js para melhor desempenho na edge.",
+    "meta_description_length": 136
+  },
+  "current": {
+    "meta_description": "O Azion Edge Functions permite que você crie aplicações serverless orientadas a eventos, na edge da rede, mais perto dos usuários.",
+    "meta_keywords": "Edge Functions, Edge Computing"
+  }
+}

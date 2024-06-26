@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/mtls/configurar-mtls.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/mtls/",
+  "suggest": {
+    "meta_keywords": "mTLS, mutual transport layer security, TLS handshake, Edge Firewall, Azion, Trusted CA, digital certificates, Edge Libraries, Edge Application, mutual authentication, configuração mTLS, certificados digitais",
+    "meta_description": "Descubra como configurar mTLS nas suas Edge Applications na Azion, incluindo detalhes sobre Trusted CA, Edge Libraries, e autenticação mútua.",
+    "meta_description_length": 141
+  },
+  "current": {
+    "meta_description": "Aprenda como configurar mTLS em sua aplicação na Azion",
+    "meta_keywords": "mutual transport layer security, mtls, tls handshake, open banking, certificados, certificados digitais"
+  }
+}

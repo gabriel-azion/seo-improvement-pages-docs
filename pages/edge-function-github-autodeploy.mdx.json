@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/edge-function-github-autodeploy.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/edge-function-github-autodeploy/",
+  "suggest": {
+    "meta_keywords": "Edge Function, GitHub AutoDeploy, Azion Marketplace, continuous deployment, GitHub integration, template configuration, manage edge application, Azion GitHub App, deploy Edge Functions, Edge Application",
+    "meta_description": "Explore como implantar Edge Functions com GitHub AutoDeploy usando o template Azion Marketplace, facilitando a integração e gestão contínua de aplicações edge.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "Este template permite implantar edge functions integradas ao GitHub Actions diretamente no edge.",
+    "meta_keywords": "templates, guias, Azion Marketplace"
+  }
+}

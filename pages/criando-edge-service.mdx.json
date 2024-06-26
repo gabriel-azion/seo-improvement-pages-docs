@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/orchestrator/criando-edge-service.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/orchestrator/criando-edge-service/",
+  "suggest": {
+    "meta_keywords": "Edge Services, Azion Console, adicionar serviço edge, configuração de edge, recursos edge, gestão edge, automação edge, edge computing",
+    "meta_description": "Aprenda como criar e configurar edge services no Azion Console, incluindo gestão automática de recursos e adaptações para maximizar a eficiência.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "Crie um edge service para ser usado em seus edge nodes.",
+    "meta_keywords": "Orchestrator, Edge Computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/gatsby-starter-kit.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/gatsby-blog-starter-kit/",
+  "suggest": {
+    "meta_keywords": "Gatsby Blog Starter Kit, Azion Marketplace, GitHub Integration, Edge Application, Edge Functions, React Framework, Continuous Integration, Blog Template Configuration, Domain Customization, Gatsby Version 5.13.2",
+    "meta_description": "Explore como criar e gerenciar sua edge application com o Gatsby Blog Starter Kit no Azion Marketplace, incluindo integração com GitHub e personalização de domínio.",
+    "meta_description_length": 164
+  },
+  "current": {
+    "meta_description": "O template inclui as configurações para criar uma nova página de blog baseada no framework Gatsby",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

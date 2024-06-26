@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/next-static-boilerplate.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/nextjs-static-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Next.js Static Boilerplate, Azion Edge Platform, Edge Functions, GitHub integration, static site deployment, single-page application, Next.js components, Next.js application management, Edge application configuration, Next.js version 14.1.4",
+    "meta_description": "Descubra como o Next.js Static Boilerplate na Azion Edge Platform simplifica a criação e implementação de SPAs com integração GitHub e Edge Functions.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "O Next.js Static Boilerplate fornece uma solução de automação para criar uma edge application Next.js estática na Azion.",
+    "meta_keywords": "templates, guias, Azion Marketplace"
+  }
+}

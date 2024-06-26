@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/logs/logs.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/cli/logs/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Edge Computing, Edge Functions, HTTP logs, real-time logging, command line interface, CLI logs, monitor Edge Applications, Azion logging, event logging",
+    "meta_description": "Monitore logs de Edge Functions e eventos HTTP em tempo real com Azion CLI. Gestão eficaz e acessível de Edge Applications.",
+    "meta_description_length": 123
+  },
+  "current": {
+    "meta_description": "Acompanhe os logs de suas edge functions e eventos https de suas edge applications através da Azion CLI.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

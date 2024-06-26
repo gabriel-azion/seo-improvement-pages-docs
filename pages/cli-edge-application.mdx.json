@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/cli/cli-edge-application.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/cli-criando-edge-application/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, criação de Edge Application, Node.js, publicação Edge, Azion Console, autorização Azion, comandos CLI, instalação Node.js, JavaScript Edge app, configuração CLI",
+    "meta_description": "Guia completo para criar e publicar uma Edge Application usando Azion CLI, incluindo instalação de Node.js, configuração e autorização no Azion Console.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Passo a passo para a publicação de uma edge application.",
+    "meta_keywords": "CLI"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/data-stream/integracoes/conector-kinesis-data-firehose.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/amazon-kinesis-endpoint/",
+  "suggest": {
+    "meta_keywords": "Amazon Kinesis Data Firehose, Azion Data Stream, AWS configuração, endpoint configuration, stream delivery, Amazon S3, Access Key, Secret Key, Azion Console, Data Stream guide",
+    "meta_description": "Guia para configurar o Amazon Kinesis Data Firehose no Azion Data Stream, incluindo configuração de endpoint, Access Key, e entrega de stream.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Hands-on para utilizar o Amazon Kinesis Data Firehose para receber dados do Data Stream",
+    "meta_keywords": "Data Stream, connector, endpoint, amazon, kinesis"
+  }
+}

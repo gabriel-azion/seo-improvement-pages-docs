@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-send-ip-through-header.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/ip-original-header/",
+  "suggest": {
+    "meta_keywords": "HTTP header, Edge Application, X-Client-IP, Rules Engine, cliente IP, Azion Console, Edge nodes, Real-Time Manager, isolamento de IP, configuração de cabeçalho",
+    "meta_description": "Descubra como adicionar o IP do cliente a um cabeçalho personalizado em uma Edge Application usando o Rules Engine da Azion, tanto no Console quanto no Real-Time Manager.",
+    "meta_description_length": 170
+  },
+  "current": {
+    "meta_description": "Quando um usuário faz uma requisição para uma edge application, o cabeçalho X-Forwarded-For guarda o endereço de IP do cliente junto a outros IPs da rota de requisição. Saiba como você pode isolar o IP do cliente em um cabeçalho dedicado.",
+    "meta_keywords": "http header, ip, client ip, edge nodes, edge application"
+  }
+}

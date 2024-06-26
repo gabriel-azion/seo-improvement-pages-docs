@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/real-time-events/analise-logs/entenda-logs.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/observe/entender-logs/",
+  "suggest": {
+    "meta_keywords": "azion, edge applications, Real-Time Events, edge functions, observability, consulta geral, consulta filtrada, data sources, performance analysis, edge behavior",
+    "meta_description": "Descubra como realizar análises de observabilidade e performance para suas edge applications e funções com consultas gerais ou filtradas utilizando azion.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "Encontre a melhor opção de como escolher variáveis para analisar seus logs.",
+    "meta_keywords": "azion, edge, observe, observability, logs, analysis"
+  }
+}

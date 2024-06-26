@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/bot-with-firewall.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/bot-manager-integration-kit/",
+  "suggest": {
+    "meta_keywords": "Bot Manager Integration, Edge Firewall, Edge Functions, Azion Marketplace, Bot Manager template, Azion Console, Deployment, Configuration, Edge Application, Real-Time Events",
+    "meta_description": "Explore o Bot Manager Integration Kit para integrar funcionalidades em um Edge Firewall existente na Azion, facilitando a implementação e gestão.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "Este template fornece uma maneira fácil de integrar a função Bot Manager em um edge firewall existente na Azion.",
+    "meta_keywords": "templates, guides, Azion Marketplace, security, edge firewall"
+  }
+}

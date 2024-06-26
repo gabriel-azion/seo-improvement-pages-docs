@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/rules-engine-edge-app.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/rules-engine/",
+  "suggest": {
+    "meta_keywords": "Edge Applications, Rules Engine, Request Phase, Response Phase, Edge Node, Application Accelerator, Azion, Comportamentos de Regra, Request and Response Rules, Operadores Lógicos",
+    "meta_description": "Descubra como o Rules Engine do Edge Application melhora a performance e o processamento localizando as regras de negócio diretamente no Edge Node da Azion.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "Você pode transferir parte da lógica das regras de negócio de sua aplicação para o Edge Node da Azion e expandir essas funcionalidades com o produto Application Accelerator.",
+    "meta_keywords": "edge applications, rules engine"
+  }
+}

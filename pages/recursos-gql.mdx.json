@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/api-graphql/recursos/recursos-gql.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/graphql-api/recursos/",
+  "suggest": {
+    "meta_keywords": "GraphQL, Azion, API, Real-Time Metrics, Real-Time Events, data filtering, data sorting, data pagination, Edge Functions, Edge Application",
+    "meta_description": "Explore como a API GraphQL da Azion potencializa o acesso a dados com recursos de filtragem, ordenação e paginação para Metrics e Events em tempo real.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Os recursos disponíveis para uso com a GraphQL são conjuntos de dados, filtrar, ordenar e paginar. Esses recursos possibilitam fácil acesso a seus dados.",
+    "meta_keywords": "graphql, api, azion, query, features"
+  }
+}

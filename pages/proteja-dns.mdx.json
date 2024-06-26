@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/proteja-dns.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/proteja-dns/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, DNS autoritativo, hospedar domínios, migração de DNS, DNSSEC, política de segurança, Azion, registrar domínio, Edge Platform, segurança de DNS",
+    "meta_description": "Descubra como hospedar e proteger seus domínios na Plataforma de Edge da Azion usando Edge DNS, com funcionalidades como DNSSEC e políticas robustas de segurança.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "Use o Edge DNS para proteger seu DNS.",
+    "meta_keywords": "edge, secure, dns, dns intelligent, dnssec"
+  }
+}

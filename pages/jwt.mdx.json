@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/jwt.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/jwt/",
+  "suggest": {
+    "meta_keywords": "JWT, Edge Computing, Edge Firewall, Azion Marketplace, Serverless, Access Token, Edge Function, JWT Integration, Edge Security, JWT Configuration",
+    "meta_description": "Explore como a Azion JWT integra tokens de acesso com Edge Computing para segurança aumentada e configuração serverless através do Marketplace.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Azion JWT é uma integração de access token no edge.",
+    "meta_keywords": "jwt, token, edge computing"
+  }
+}

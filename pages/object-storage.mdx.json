@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/api-reference/object-storage/object-storage.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/runtime/api-reference/storage/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Azion Edge Storage, Edge Computing, Storage API, JavaScript, Async Storage Operations, ReadableStream, StorageObject, Storing Data on Edge, Handling Storage Errors",
+    "meta_description": "Descubra como interagir com o Azion Edge Storage usando a Edge Functions Storage API para operações assíncronas de armazenamento, incluindo a leitura, escrita e gestão de dados.",
+    "meta_description_length": 177
+  },
+  "current": {
+    "meta_description": "A Edge Functions Storage API é uma interface que permite o acesso ao Azion Edge Storage. Através dessa interface, é possível ler e escrever dados no storage e seus buckets.",
+    "meta_keywords": "edge function, edge computing, storage, jamstack, apis"
+  }
+}

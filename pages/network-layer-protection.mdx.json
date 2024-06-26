@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-firewall/network-layer-protection.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-firewall/network-layer-protection/",
+  "suggest": {
+    "meta_keywords": "Network Layer Protection, Edge Firewall, Network Lists, IP/CIDR blocking, ASN, geolocation-based security, Azion edge computing, rules engine, network security, Real-Time Edge Processing",
+    "meta_description": "Descubra como a Network Layer Protection da Azion e Edge Firewall oferecem segurança na edge com Network Lists por IP/CIDR, ASN e geolocalização",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "Network Layer Protection da Azion permite a criação de Network Lists com base na rede (IP/CIDR), geolocalização e ASN.",
+    "meta_keywords": "network layer protection, security, edge computing, azion, edge firewall, firewall"
+  }
+}

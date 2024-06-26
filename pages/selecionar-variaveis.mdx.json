@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/data-stream/configuracoes-avancadas/selecionar-variaveis.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/observe/data-stream-selecionar-variaveis/",
+  "suggest": {
+    "meta_keywords": "Data Stream, templates personalizados, escolha de variáveis, connectors, edge application, Azion Console, API, logs, variáveis disponíveis, configuração de stream",
+    "meta_description": "Descubra como configurar o Data Stream na Azion usando templates personalizados ou pré-definidos para otimizar a transmissão de dados e logs de suas edge applications.",
+    "meta_description_length": 167
+  },
+  "current": {
+    "meta_description": "Encontre a melhor opção de como escolher variáveis para transmitir seus dados.",
+    "meta_keywords": "Data Stream, logs, variables, stream"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/build/build.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/cli/build/",
+  "suggest": {
+    "meta_keywords": "edge computing, build edge application, CLI, Azion, Next.js, React, Vue, Astro, JavaScript, TypeScript, deployment",
+    "meta_description": "Descubra como fazer a build de sua edge application com CLI, facilitando a implantação na edge com suporte a várias frameworks como Next.js, React e Vue.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Faça a build de sua edge application e prepare o projeto para a implatação no edge.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

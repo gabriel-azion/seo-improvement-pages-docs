@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/upstash-rate-limiting.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/upstash-rate-limiting/",
+  "suggest": {
+    "meta_keywords": "Upstash Rate Limit, Edge Functions, serverless environment, continuous deployment, rate limiting implementation, Azion Marketplace, request management, serverless applications, configurar edge application, limitação de taxa",
+    "meta_description": "Descubra como o template Upstash Rate Limit facilita a implementação e gestão de rate limiting em serverless com Azion Edge Functions e deployment contínuo.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "O template Upstash Rate Limit ajuda você a implementar rate limiting em um ambiente serverless.",
+    "meta_keywords": "templates, guias, Azion Marketplace"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/ponto-de-partida/comecar-com-um-template.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/comecar-com-um-template/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Application, criar aplicação, uso da Azion, templates Azion, Edge Platform, implantação, Azion CLI, Azion Console",
+    "meta_description": "Guia para criar e implantar Edge Applications na Plataforma de Edge da Azion usando templates via Azion Console ou CLI.",
+    "meta_description_length": 119
+  },
+  "current": {
+    "meta_description": "Esta documentação apresenta as opções para construir e implantar uma nova aplicação usando um template da Azion.",
+    "meta_keywords": "Azion, edge application, jornada, onboarding, templates, domínios, tráfego"
+  }
+}

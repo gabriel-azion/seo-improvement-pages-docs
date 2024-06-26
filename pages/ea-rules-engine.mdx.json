@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-rules-engine.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/rules-engine/",
+  "suggest": {
+    "meta_keywords": "Edge Application, Rules Engine, no-code solutions, Request Phase, Response Phase, Rewrite Request, Filter Response Header, Azion Edge Computing, business rules, user interfaces",
+    "meta_description": "Descubra como o Rules Engine da Azion, integrado ao Edge Application, possibilita a criação de soluções sem código, aplicando regras de negócio diretamente no edge para otimização de aplicativos.",
+    "meta_description_length": 195
+  },
+  "current": {
+    "meta_description": "Rules Engine é um recurso de Edge Application que permite que você crie soluções sem código, aplicando regras de negócio do seu aplicativo diretamente no edge.",
+    "meta_keywords": "edge computing, edge application, no-code, rules"
+  }
+}

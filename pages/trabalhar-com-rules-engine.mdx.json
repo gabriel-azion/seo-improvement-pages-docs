@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/editar-edge-firewall/trabalhar-com-rules-engine.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/trabalhar-com-rules-engine/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, Azion Rules Engine, SSL Verification, criação de regras, personalização de resposta, gerenciamento de firewall, segurança Edge, Azion Console, Real-Time Manager, API Azion",
+    "meta_description": "Aprenda a criar e gerenciar regras personalizadas no Edge Firewall da Azion utilizando o Rules Engine para segurança e compliance, com acesso via Console e API.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Integre regras em seu firewall para definir tarefas a serem executadas em cenários específicos sem alterar seu código existente.",
+    "meta_keywords": "seguro, rules engine, edge firewall, critérios, comportamento"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/guias-frameworks/framework-next.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/cli/frameworks/next/",
+  "suggest": {
+    "meta_keywords": "Next.js, Jamstack, Azion, Edge Functions, deploy, CLI Azion, desenvolvimento estático, projeto Next, plataforma Edge, inicialização projeto",
+    "meta_description": "Descubra como iniciar e implantar projetos estáticos Next.js na plataforma Edge da Azion utilizando Edge Functions e Azion CLI, otimizado para entrega rápida.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Faça o deploy de uma aplicação Jamstack com Next.",
+    "meta_keywords": "next, js, jamstack"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/data-streaming/associar-dominios.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/data-stream-associar-dominios/",
+  "suggest": {
+    "meta_keywords": "Data Stream, Azion Console, Real-Time Manager, domain association, event logging, stream configuration, SIEM, big data processing, real-time event handling, observability",
+    "meta_description": "Aprenda a associar domínios ao Data Stream no Azion Console ou Real-Time Manager para coletar e enviar eventos de domínio em tempo real para análise.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Ao associar domínios no Data Stream, os eventos relacionados aos domínios especificados serão coletados e enviados para o endpoint.",
+    "meta_keywords": "Data Stream, domains, observe, observability, stream, logs"
+  }
+}

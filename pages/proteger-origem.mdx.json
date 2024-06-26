@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/automatizar/proteger-origem.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/automarizar/origin-shield/",
+  "suggest": {
+    "meta_keywords": "Azion, Origin Shield, Edge Firewall, Rules Engine, IP bloqueio, Network List, Real-Time Manager, Console Azion, automatizar regra, segurança de aplicação",
+    "meta_description": "Saiba como usar o Origin Shield da Azion para automatizar regras no Edge Firewall, melhorando a segurança da sua aplicação com atualizações eficientes.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Crie uma regra para automatizar o uso da lista Origin Shield e bloquear IPs potencialmente prejudiciais.",
+    "meta_keywords": "edge, secure, origin shield, list, rules engine, behavior"
+  }
+}

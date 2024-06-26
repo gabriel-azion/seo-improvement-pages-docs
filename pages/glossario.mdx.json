@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/glossario/glossario.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/glossario-azion/",
+  "suggest": {
+    "meta_keywords": "Azion, edge computing, DNS, HTTP headers, Azion SDK, edge functions, API, cybersecurity, edge architecture, real-time data",
+    "meta_description": "Explore o glossário da Azion para entender conceitos cruciais de edge computing, API, DNS e segurança. Aprofunde-se com Azion SDK e funcionalidades edge.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Veja o glossário que explica os termos e conceitos da Azion.",
+    "meta_keywords": "glossary, azion, edge, computing"
+  }
+}

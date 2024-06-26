@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/compatibilidade/frameworks.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/devtools/azion-edge-runtime/compatibilidade-frameworks/",
+  "suggest": {
+    "meta_keywords": "Azion, Vulcan, web frameworks, Edge Runtime, Edge Computing, Next.js, Angular, React, Vue, Gatsby",
+    "meta_description": "Descubra como Vulcan da Azion adapta diversos web frameworks como Next.js, Angular e React para otimização no Edge Runtime.",
+    "meta_description_length": 123
+  },
+  "current": {
+    "meta_description": "Compatibilidade entre a Azion e web frameworks através do Vulcan.",
+    "meta_keywords": "web frameworks, jamstack"
+  }
+}

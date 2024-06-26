@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/configuracoes-avancadas/multiple-origins.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/build/configure-multiplas-origens/",
+  "suggest": {
+    "meta_keywords": "Azion, Load Balancer, Edge Application, balanceamento de carga, configuração de origem, Round Robin, servidor primário, servidor secundário, servidor de backup, gerenciamento de tráfego",
+    "meta_description": "Descubra como configurar um Load Balancer para Edge Application na Azion, facilitando o gerenciamento eficaz de múltiplas origens e tráfego.",
+    "meta_description_length": 140
+  },
+  "current": {
+    "meta_description": "Evite sobrecarga de servidor e congestionamento de tráfego entre origens, data centers ou provedores de nuvem através dos algoritmos de balanceamento de carga fornecidos pela Azion.",
+    "meta_keywords": "build"
+  }
+}

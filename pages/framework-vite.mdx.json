@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/guias-frameworks/framework-vite.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/cli/frameworks/vite/",
+  "suggest": {
+    "meta_keywords": "Vite, Jamstack, deploy, Azion Edge Platform, Edge Functions, iniciar projeto, desenvolvimento local, implantação, CLI Vite, Guia Vite",
+    "meta_description": "Aprenda a iniciar e implantar um projeto Jamstack usando Vite na Azion Edge Platform, com passos detalhados desde o setup até o desenvolvimento.",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "Faça o deploy de uma aplicação Jamstack com Vite.",
+    "meta_keywords": "vite, js, jamstack"
+  }
+}

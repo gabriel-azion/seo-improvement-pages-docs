@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/api-graphql/recursos/accounting-campos.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/graphql-api/recursos/campos-gql-accounting/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, dados contabilizados, Accounting API, detalhes contábeis, cliente Azion, métricas de produtos, conjuntos de dados, Azion Edge Functions, período contábil, produto identificado",
+    "meta_description": "Explore detalhadamente cada campo da API GraphQL de Accounting na Azion, incluindo métricas por produto, períodos e dados contabilizados.",
+    "meta_description_length": 137
+  },
+  "current": {
+    "meta_description": "Veja as descrições para todos os campos de cada conjunto de dados da API GraphQL de Accounting.",
+    "meta_keywords": "graphql, api, azion, fields, accounting"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-firewall/web-application-firewall/waf-custom-allowed-rules.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-firewall/web-application-firewall/custom-allowed-rules/",
+  "suggest": {
+    "meta_keywords": "WAF, Custom Allowed Rules, Web Application Firewall, Edge Firewall, segurança de aplicativos, regras internas WAF, falsos positivos, ataque de SQL Injection, XSS, RFI, Directory Traversal, proteção de aplicativos",
+    "meta_description": "Descubra como as Custom Allowed Rules do Web Application Firewall aprimoram a segurança no Edge Firewall, prevenindo falsos positivos e ataques específicos.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "Otimize a segurança de suas edge applications com Custom Allowed Rules para WAF."
+  }
+}

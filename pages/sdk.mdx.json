@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/automatizar/sdk.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/automarizar/sdk/",
+  "suggest": {
+    "meta_keywords": "Azion SDK, Go SDK, Edge Firewall, API Azion, segurança, programação Go, ferramentas desenvolvedores, integração API, gestão recursos, aplicação programável",
+    "meta_description": "Explore como o Azion SDK para Go facilita a interação e gestão de recursos em Edge Firewall através de aplicações programáveis. Ideal para desenvolvedores.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "O Azion SDK para a linguagem Go facilita a interação com as APIs da Azion, capacitando os desenvolvedores a gerenciar eficientemente os recursos de segurança por meio de aplicações programáveis.",
+    "meta_keywords": "edge, segurança, sdk"
+  }
+}

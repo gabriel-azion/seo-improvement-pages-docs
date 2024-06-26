@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/deploy/edge-orchestrator/credenciais.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/deploy/credenciais/",
+  "suggest": {
+    "meta_keywords": "credenciais, Edge Orchestrator, gerar token, autenticar serviços, Azion Console, copiar token, editar credencial, deletar token, autenticação Edge",
+    "meta_description": "Saiba como gerar e gerenciar suas credenciais no Edge Orchestrator através do Azion Console, incluindo opções para copiar, editar e deletar tokens.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Você pode gerar a credencial necessária para usar e autenticar os serviços do Edge Orchestrator.",
+    "meta_keywords": "credentials, add credential"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/bot-with-tor.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/bot-manager-and-tor-block-starter-kit/",
+  "suggest": {
+    "meta_keywords": "Bot Manager, TOR Block Starter Kit, edge firewall, Edge Functions, Network Layer Protection, Azion Marketplace, security templates, Azion IP Tor Exit Nodes, domain protection, edge application",
+    "meta_description": "Descubra como implantar o Bot Manager and TOR Block Starter Kit da Azion para proteger domínios com edge firewall, Edge Functions e Network Layer Protection.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "Implante um pacote de segurança básico para proteger seus domínios contra bots mal-intencionados e requisições de Tor Exit Nodes.",
+    "meta_keywords": "templates, guides, Azion Marketplace, security, edge firewall"
+  }
+}

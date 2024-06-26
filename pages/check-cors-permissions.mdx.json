@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-cors/check-cors-permissions.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/cross-origin-resource-sharing-cors/",
+  "suggest": {
+    "meta_keywords": "CORS, Edge Computing, HTTP headers, cross-origin requests, Azion Console, Real-Time Manager, Rules Engine, Access-Control-Allow-Origin, HTTP methods, security configurations",
+    "meta_description": "Explore how to enable CORS for non-complex and complex HTTP requests using Azion's Console and Real-Time Manager through detailed step-by-step guides.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Cross-Origin Resource Sharing (CORS) é um mecanismo que se utiliza de cabeçalhos HTTP para dar permissão de acesso a determinados recursos que estão em uma origem diferente do documento em uso.",
+    "meta_keywords": "cors, edge computing, Cross-Origin Resource Sharing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/zona-configuracoes-avancadas/adicionar-registro-txt-lets-encrypt.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/registro-lets-encrypt/",
+  "suggest": {
+    "meta_keywords": "Let's Encrypt, DNS Challenge, Edge DNS, TXT Records, Certbot, Azion Console, ACME Challenge, Domain Validation, SSL/TLS Certificate, DNS Configuration",
+    "meta_description": "Guia completo sobre como configurar registro TXT para Let's Encrypt com o Edge DNS da Azion, simplificando a validação do certificado SSL/TLS.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Ao criar um certificado Let's Encrypt externamente, como ao usar a ferramenta oficial Certbot do Let's Encrypt, para um hostname hospedado no Edge DNS, é necessário adicionar o registro TXT exigido para o desafio DNS.",
+    "meta_keywords": "secure, Edge DNS, registro, certificado, domain, let's encrypt"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/api-graphql/recursos/events-campos.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/graphql-api/recursos/campos-gql-real-time-events/",
+  "suggest": {
+    "meta_keywords": "graphql, api, azion, fields, events, Edge Applications, Real-Time Metrics, Data Stream, Web Application Firewall, Edge Firewall, Load Balancer",
+    "meta_description": "Explore a API GraphQL do Azion para Edge Applications, Data Stream e eventos, incluindo detalhes de campos e recursos para uma performance otimizada.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Veja as descrições de todos os campos de cada conjunto de dados da API GraphQL do Real-Time Events.",
+    "meta_keywords": "graphql, api, azion, fields, events"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/device-groups.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/device-groups/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Computing, Device Groups, User-Agent, HTTP request headers, Rules Engine, Adaptive Delivery, Mobile Device Identification, Edge Application, Cache Policies",
+    "meta_description": "Explore como o Device Groups da Azion permite identificar e gerenciar dispositivos para personalização e políticas de cache através de Edge Application, utilizando Rules Engine e Adaptive Delivery.",
+    "meta_description_length": 197
+  },
+  "current": {
+    "meta_description": "Device Groups pode ser usado para gerenciar a entrega de conteúdo e definir comportamentos específicos de acordo com os dispositivos que acessam sua aplicação.",
+    "meta_keywords": "Azion, edge computing, edge application, adaptive delivery, rules engine, user-agent, device"
+  }
+}

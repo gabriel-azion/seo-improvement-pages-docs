@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/next-pages-config.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/nextjs-pages-configurations/",
+  "suggest": {
+    "meta_keywords": "Next.js, Azion Marketplace, GitHub Integration, Edge Functions, Application Accelerator, Edge Application Management, Edge Storage, Azion Console, Deployment, SPA Deployment, Application Configuration",
+    "meta_description": "Descubra como implantar rapidamente uma aplicação Next.js com o template Next.js Pages + Configurations no Azion Marketplace, incluindo GitHub integration e Edge Functions.",
+    "meta_description_length": 172
+  },
+  "current": {
+    "meta_description": "Esse template [description]",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

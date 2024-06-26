@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/waf/verificar-modo-waf.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/como-verificar-modo-do-seu-waf/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, Web Application Firewall, WAF Rule Set, Learning Mode, Blocking Mode, Edge Application, Rules Engine, Operation Modes, Network Layer Protection, Secure Configuration",
+    "meta_description": "Descubra como configurar e modificar os modos de operação Learning e Blocking do WAF Rule Set no Edge Firewall para maximizar a proteção da sua Edge Application.",
+    "meta_description_length": 161
+  },
+  "current": {
+    "meta_description": "Aprenda a verificar e alterar o modo de operação das configurações do WAF.",
+    "meta_keywords": "edge firewall, web application firewall, learning, blocking, operation modes"
+  }
+}

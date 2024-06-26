@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/guias-linguagens/lang-wasm.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/desenvolvimento-azion/linguagens/wasm/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, JavaScript, WebAssembly, programação edge computing, criação function edge, wasmCode, código WAT, implementation Edge Functions, guide Edge Application",
+    "meta_description": "Explore como implementar Edge Functions com WebAssembly em JavaScript, incluindo detalhes sobre configuração no Azion Console e integração em Edge Applications.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Aprenda sobre o processo necessário para a criação de uma edge function que utiliza uma função gerada por WebAssembly.",
+    "meta_keywords": "javascript, edge computing, wasm, webassembly"
+  }
+}

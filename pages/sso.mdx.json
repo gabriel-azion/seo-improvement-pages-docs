@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/contas/sso.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/gestao-de-contas/single-sign-on/",
+  "suggest": {
+    "meta_keywords": "Azion Console, SSO, Autenticação de Usuários, Identity Provider, IdP, Provedor de Serviços, SAML, OpenID Connect, Segurança, Configuração de SSO",
+    "meta_description": "Explore como configurar SSO utilizando Azion Console com opções como IdP externo, SAML e OpenID Connect para maior segurança e eficiência.",
+    "meta_description_length": 138
+  },
+  "current": {
+    "meta_description": "O Azion Console possibilita que o account owner possa configurar o login dos seus usuários entre duas opções de autenticação de conta, SSO da Azion ou um Identity Provider externo de sua preferência.",
+    "meta_keywords": "contas, autenticação de usuários"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/crossdomain-error-in-jw-player/crossdomain-error-in-jw-player.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/erro-de-crossdomain-xml-no-jw-player/",
+  "suggest": {
+    "meta_keywords": "erro de crossdomain, JW Player, M3U8, Azion Console, CNAME, DNS, ticket de ocorrência, streaming ao vivo, problema de acesso, suporte técnico",
+    "meta_description": "Saiba como resolver o erro de crossdomain no JW Player, incluindo cadastro de CNAME no Azion Console e ajuste de DNS. Abra um ticket se persistir.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Descubra aqui quais são as causas mais comuns do erro de crossdomain no JW Player e as ações mais indicadas para ficar ligado."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/api-graphql/visao-geral/visao-geral-gql.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/graphql-api/visao-geral/",
+  "suggest": {
+    "meta_keywords": "GraphQL, API, Azion, Real-Time Metrics, Real-time Events, data querying, API optimization, performance metrics, GraphQL queries, security threats analysis",
+    "meta_description": "Explore como as APIs GraphQL da Azion otimizam o acesso e a análise de dados com métricas em tempo real e segurança aprimorada, tudo através de consulta eficiente.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "A Graphic Query Language (GraphQL) funciona como uma alternativa às APIs REST, permitindo que você receba seus dados de acordo com suas necessidades. A GraphQL traz autonomia para o usuário solicitar os dados que deseja e receber exatamente o que foi solicitado através de uma resposta em JSON.",
+    "meta_keywords": "graphql, api, azion"
+  }
+}

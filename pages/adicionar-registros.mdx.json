@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/editar-zona/adicionar-registros.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/adicionar-registros/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, Configuração DNS, Registros DNS, Gerenciamento DNS, Console Azion, Real-Time Manager, API Azion, Tipos de Registros DNS, Segurança DNS, Políticas de DNS",
+    "meta_description": "Aprenda como gerenciar e configurar registros no Edge DNS usando o Console Azion ou Real-Time Manager e otimize a segurança e performance do seu domínio.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Adicione registros ao seu domínio do Edge DNS.",
+    "meta_keywords": "Edge DNS, secure, records, zone"
+  }
+}

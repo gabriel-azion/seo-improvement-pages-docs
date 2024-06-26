@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-firewall/network-lists.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-firewall/network-layer-protection/network-lists/",
+  "suggest": {
+    "meta_keywords": "Network Lists, Edge Firewall, Network Layer Protection, bloqueio IP, ASN, geolocalização, Azion, security, proteção de rede, gestão de acesso",
+    "meta_description": "Descubra como usar Network Lists para melhorar a segurança com o Edge Firewall da Azion, gerenciando acesso por IP, ASN e geolocalização.",
+    "meta_description_length": 137
+  },
+  "current": {
+    "meta_description": "Crie e gerencie allowlists, blocklists e graylists com Network Lists.",
+    "meta_keywords": "network layer protection, network list, edge computing, azion, security"
+  }
+}

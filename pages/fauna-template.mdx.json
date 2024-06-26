@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/fauna-template.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/fauna-template/",
+  "suggest": {
+    "meta_keywords": "Fauna DB, Edge Application, Azion Marketplace, Edge Functions, Application Acceleration, GitHub Integration, Deployment, Edge Computing, Template Management, Edge Configuration",
+    "meta_description": "Implante e gerencie sua Edge Application com o template Fauna DB no Azion Marketplace. Integração total com GitHub e suporte a Application Acceleration.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Este template ajuda você a implantar e gerenciar uma edge application integrada com a Fauna no edge.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

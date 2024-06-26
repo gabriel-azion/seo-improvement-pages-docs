@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-functions/serverless-functions.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/funcoes-serverless/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Azion Edge, serverless computing, Edge Application, programar funções, Azion Marketplace, criar Edge Function, configurar Edge Function, Azion Console, instanciar função",
+    "meta_description": "Descubra como criar, configurar e instanciar Edge Functions na plataforma de Edge da Azion para otimizar aplicações serverless.",
+    "meta_description_length": 127
+  },
+  "current": {
+    "meta_description": "O Edge Functions é um serviço da plataforma de Edge da Azion que permite que você programe e execute funções sem servidor, sem a necessidade de provisionar ou gerenciar servidores.",
+    "meta_keywords": "serveless, edge functions"
+  }
+}

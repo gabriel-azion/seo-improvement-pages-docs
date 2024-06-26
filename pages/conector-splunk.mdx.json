@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/data-stream/integracoes/conector-splunk.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/splunk-endpoint/",
+  "suggest": {
+    "meta_keywords": "Configuração Splunk, Azion Data Stream, Endpoint Splunk, Splunk HTTP Event Collector, Console Azion, Real-Time Manager, Connector Splunk, Integração Splunk",
+    "meta_description": "Aprenda como configurar um endpoint Splunk no Azion Data Stream, incluindo a criação e ativação de tokens HEC e escolha entre Console ou Real-Time Manager.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "Hands-on para configurar o Splunk para receber dados do Data Stream.",
+    "meta_keywords": "Data Stream, connector, endpoint, splunk"
+  }
+}

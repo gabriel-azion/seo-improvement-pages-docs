@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/other/rules-engine/rules-engine.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/cli/rules-engine-crud/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Edge Computing, Rules Engine, criar, atualizar, excluir, CLI commands, JSON configuration, Edge application management, interactive CLI usage, command flags",
+    "meta_description": "Gerencie regras de Edge Computing eficientemente com Azion CLI. Crie, atualize, e gerencie regras com integração fácil e comandos robustos.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "Crie, liste, descreva, atualize e exclua suas regras de Rules Engine de sua application através da Azion CLI.",
+    "meta_keywords": "cli,edge computing, rules engine, low code"
+  }
+}

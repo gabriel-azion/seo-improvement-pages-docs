@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/observe/real-time-events/real-time-events.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/observe/real-time-events/",
+  "suggest": {
+    "meta_keywords": "Real-Time Events, Azion products, data sources, edge computing, application performance, debugging investigations, real-time data analysis, event logs, API usage, data storage, data retrieval",
+    "meta_description": "Explore Real-Time Events to analyze application performance, conduct investigations, and handle real-time data across various Azion products using extensive data sources.",
+    "meta_description_length": 170
+  },
+  "current": {
+    "meta_description": "Real-Time Events é um produto do Observe que permite que você visualize eventos de seus produtos e serviços Azion em tempo real.",
+    "meta_keywords": "edge computing, events, data, logs, raw data"
+  }
+}

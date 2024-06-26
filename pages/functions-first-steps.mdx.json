@@ -1,0 +1,12 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-functions/functions-first-steps.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/edge-functions/primeiros-passos/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Azion Edge Runtime, desenvolvimento Edge, Edge Application, JavaScript, APIs Edge, Edge developer, criar Edge Functions, editar Edge Functions, debuggar Edge Functions",
+    "meta_description": "Explore como desenvolver e integrar Edge Functions na Azion Platform, utilizando o Azion Edge Runtime para criar, editar e debuggar aplicações Edge.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "Primeiros passos para ter sucesso desenvolvendo edge functions na plataforma de edge da Azion."
+  }
+}

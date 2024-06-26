@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-mitigate-httpoxy.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/como-mitigar-vulnerabilidade-httpoxy/",
+  "suggest": {
+    "meta_keywords": "HTTPoxy, Edge Application, Rules Engine, proteção de aplicações, segurança em CGI, Azion Console, configurar Edge Application, bloquear cabeçalho HTTP Proxy, mitigação de vulnerabilidade, Application Accelerator",
+    "meta_description": "Descubra como mitigar a vulnerabilidade HTTPoxy em aplicações web usando o Rules Engine da Azion para configurar e proteger suas Edge Applications.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "HTTPoxy é uma vulnerabilidade de aplicações web causada por requisições HTTP nocivas. Saiba como proteger sua aplicação de ataques usando o Azion Rules Engine.",
+    "meta_keywords": "edge computing, security, httpoxy"
+  }
+}

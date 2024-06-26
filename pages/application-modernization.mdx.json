@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/arquiteturas/edge-application/application-modernization.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/arquiteturas/edge-application/modernizacao-de-aplicacoes/",
+  "suggest": {
+    "meta_keywords": "Azion, edge computing, serverless, microsserviços, Edge Application, Edge Cache, aplicações modernas, migração de aplicações, Edge Functions, arquitetura de edge",
+    "meta_description": "Explore como a Azion transforma aplicações com edge computing, utilizando serverless, Edge Functions e Edge Cache para desempenho otimizado e escalabilidade.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "Descubra como a Azion possibilita a modernização de aplicações por meio de uma abordagem serverless e arquitetura de microsserviços.",
+    "meta_keywords": "edge, aplicações, aplicações web, api, entrega de conteúdo, cdn, serverless, Azion"
+  }
+}

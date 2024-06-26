@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-delete-edge-application.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/excluir-edge-application/",
+  "suggest": {
+    "meta_keywords": "Excluir Edge Application, Azion Edge Computing, Gerenciar Edge Applications, Interface do Usuário Azion, Azion Real-Time Manager, Configuração de Edge Application, Exclusão de Application, Azion Console",
+    "meta_description": "Aprenda como gerenciar e excluir suas Edge Applications na Azion usando o Console ou o Real-Time Manager. Guia passo a passo detalhado.",
+    "meta_description_length": 135
+  },
+  "current": {
+    "meta_description": "Você pode excluir uma edge application na Azion.",
+    "meta_keywords": "edge computing, edge applications"
+  }
+}

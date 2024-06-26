@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-firewall/edge-functions-for-edge-firewall/edge-functions-firewall.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-firewall/edge-functions/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Edge Firewall, JavaScript security code, request and response headers, Azion Edge Runtime, Edge Application, secure edge computing, firewall rules, GeoIP, TLS metadata",
+    "meta_description": "Descubra como utilizar Edge Functions no Edge Firewall para incrementar a segurança, dinamismo e customizar lógica de negócios na plataforma Azion.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Com Edge Functions em JavaScript em seu Edge Firewall você pode impulsionar a sua proteção, ter mais dinamismo e implementar a lógica necessária para o seu negócio.",
+    "meta_keywords": "edge functions, edge computing"
+  }
+}

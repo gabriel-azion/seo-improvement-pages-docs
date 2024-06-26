@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/responsabilidade-compartilhada/responsabilidade-compartilhada.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/responsabilidade-compartilhada/",
+  "suggest": {
+    "meta_keywords": "Azion, responsabilidade compartilhada, Plataforma de Edge, segurança de aplicações, conformidade, PCI DSS, SOC 2, gerenciamento de vulnerabilidades, segurança física, cloud services",
+    "meta_description": "Explore como a Plataforma de Edge da Azion gerencia segurança de aplicações e conformidade sob um modelo de responsabilidade compartilhada.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "Este documento destaca os papéis e responsabilidades de cada parte quando as organizações usam a Plataforma de Edge da Azion.",
+    "meta_keywords": "azion, responsabilidade compartilhada"
+  }
+}

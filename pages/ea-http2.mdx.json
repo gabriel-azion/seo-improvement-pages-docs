@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-http2.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/http2/",
+  "suggest": {
+    "meta_keywords": "HTTP/2, performance de sites, otimizações de desenvolvimento web, multiplexação de requisições, compressão de cabeçalhos, server push, priorização de recursos, técnicas de otimização HTTP/1.x, Azion, upgrade de protocolo HTTP",
+    "meta_description": "Descubra como o HTTP/2, implementado pela Azion, melhora a performance de sites com compressão de cabeçalhos, server push e mais, substituindo antigas práticas de otimização.",
+    "meta_description_length": 174
+  },
+  "current": {
+    "meta_description": "HTTP2",
+    "meta_keywords": "HTTP2"
+  }
+}

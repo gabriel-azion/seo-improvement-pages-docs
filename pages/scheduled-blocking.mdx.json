@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/scheduled-blocking.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/scheduled-blocking/",
+  "suggest": {
+    "meta_keywords": "Scheduled Blocking, Azion Marketplace, serverless, Edge Firewall, security, edge computing, function integration, access control, Scheduled Block, Edge Functions",
+    "meta_description": "Descubra como utilizar o Scheduled Blocking da Azion para controlar o acesso à sua aplicação. Integração simples e eficaz via Marketplace.",
+    "meta_description_length": 138
+  },
+  "current": {
+    "meta_description": "Scheduled Blocking permite controlar o acesso ao seu aplicativo com base em um cronograma, de acordo com suas necessidades.",
+    "meta_keywords": "edge computing, scheduled block, security"
+  }
+}

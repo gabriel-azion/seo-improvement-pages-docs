@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/contas/multi-factor-authentication.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/gestao-de-contas/multi-factor-authentication/",
+  "suggest": {
+    "meta_keywords": "Autenticação Multifatorial, MFA, segurança de conta, Google Authenticator, Microsoft Authenticator, acesso remoto seguro, autenticação de dois fatores, proteção de login, Azion Console, gestão de segurança",
+    "meta_description": "Descubra como a Autenticação Multifatorial (MFA) no Azion Console aumenta a segurança da conta, usando aplicativos como Google e Microsoft Authenticator para login seguro.",
+    "meta_description_length": 171
+  },
+  "current": {
+    "meta_description": "Multi-Factor Authentication (MFA) é um método eletrônico de verificação usado para proteger acessos de login.",
+    "meta_keywords": "Camada de segurança, segurança de acesso, autenticação em duas etapas"
+  }
+}

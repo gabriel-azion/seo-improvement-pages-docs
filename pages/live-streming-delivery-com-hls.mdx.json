@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/arquiteturas/live-streaming-delivery/live-streming-delivery-com-hls.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/arquitetura/live-streaming-delivery/live-streaming-delivery-com-hls/",
+  "suggest": {
+    "meta_keywords": "Edge Computing, live streaming delivery, transcodificação em tempo real, streaming adaptativo, armazenamento em cache, plataformas de entrega de conteúdo, Azion Edge Network, HLS, performance de streaming, soluções de streaming",
+    "meta_description": "Explore como a Edge Computing otimiza o live streaming com transcodificação em tempo real e tecnologias como HLS na Azion Edge Network para uma entrega eficiente.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "Esta arquitetura aproveita recursos avançados como transcodificação em tempo real, streaming adaptativo de taxa de bits e armazenamento em cache inteligente, possibilitando experiências impecáveis para os espectadores.",
+    "meta_keywords": "architecture, content delivery, hls, edge computing"
+  }
+}

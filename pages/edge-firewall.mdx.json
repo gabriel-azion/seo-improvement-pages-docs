@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-firewall/edge-firewall.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-firewall/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, Edge Computing, Network Security, Web Application Firewall, DDoS Protection, Edge Functions, Network Layer Protection, Security Rules, IP Blocklists, Azion Platform",
+    "meta_description": "Descubra o Edge Firewall da Azion, uma solução abrangente de segurança para Edge Computing que protege aplicativos contra ameaças, incluindo DDoS e controle de IP.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "O Azion Edge Firewall é um produto de segurança que protege desde a camada de rede até a camada de aplicação.",
+    "meta_keywords": "Rules Engine, Edge Computing, Edge Applications, Security"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/l2-caching.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/tiered-cache/",
+  "suggest": {
+    "meta_keywords": "Tiered Cache, Edge Application, Azion, Edge Computing, cache settings, Edge Cache, Real-Time Purge, TTL settings, cache layers, Azion sales contact",
+    "meta_description": "Descubra o Tiered Cache da Azion, uma camada de cache extra no Edge Application que reduz latência e custos enquanto otimiza a performance em diversas regiões.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "O Tiered Cache estabelece uma camada extra de cache entre o edge e seus servidores de origem, reduzindo efetivamente a latência e minimizando as despesas com infraestrutura.",
+    "meta_keywords": "caching, edge, edge cache, edge computing, l2, layer 2, cache layer, purge cache"
+  }
+}

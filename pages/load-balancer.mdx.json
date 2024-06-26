@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/load-balancer.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/load-balancer/",
+  "suggest": {
+    "meta_keywords": "Load Balancer, Edge Computing, Traffic Distribution, Origin Servers, Round-Robin, Least Connections, IP Hash, Server Role, Traffic Management, High Availability",
+    "meta_description": "Descubra como o Load Balancer equilibra tráfego entre origens e garante alta disponibilidade e desempenho em seu Edge Application.",
+    "meta_description_length": 130
+  },
+  "current": {
+    "meta_description": "Load Balancer permite que o tráfego para suas origens, data centers ou provedores de cloud seja balanceado, evitando o congestionamento de rede e a sobrecarga de seus servidores.",
+    "meta_keywords": "Load Balancer, edge computing"
+  }
+}

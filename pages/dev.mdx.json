@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/dev-command/dev.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/azion-cli/dev-comando/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Edge Computing, Edge Applications, Local Development Environment, Edge Dev Command, Edge Firewall, CLI Dev Command, Edge Functions, Build Edge Application, Local Server",
+    "meta_description": "Aprenda a configurar um ambiente local de desenvolvimento de Edge Apps usando o Azion CLI, com suporte para Edge Firewall e Edge Functions.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "Inicialize um ambiente de desenvolvimento local através da Azion CLI.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

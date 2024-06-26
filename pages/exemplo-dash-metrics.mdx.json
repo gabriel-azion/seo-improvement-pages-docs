@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/grafana/exemplo-dash-metrics.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/real-time-metrics/metrics-dash/",
+  "suggest": {
+    "meta_keywords": "Grafana, GraphQL, dashboard creation, real-time analytics, data visualization, performance metrics, API metrics, Grafana Cloud, HTTP metrics, observability solutions",
+    "meta_description": "Explore how to create robust Grafana dashboards using GraphQL API from Real-Time Metrics for detailed observability and performance analytics.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Utilize este JSON parar criar um dashboard no Grafana com dados da API GraphQL do Real-Time Metrics.",
+    "meta_keywords": "graphql, grafana, data, observability, application"
+  }
+}

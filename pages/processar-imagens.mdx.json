@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/configuracoes-avancadas/processar-imagens.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/build/processar-imagens/",
+  "suggest": {
+    "meta_keywords": "Image Processor, Edge Application, otimização de imagens, Application Accelerator, economia de largura de banda, redução de custos, processamento de imagem em URL, configurações de cache, cache de edge, política de expiração de cache",
+    "meta_description": "Explore como o Image Processor e Application Accelerator otimizam suas imagens no Edge para melhorar a eficiência de entrega e reduzir custos.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Modifique tamanhos da imagem, filtros, marcas d'água, formatos e processe imagens diretamente no edge usando uma única query na URL com o Image Processor.",
+    "meta_keywords": "build"
+  }
+}

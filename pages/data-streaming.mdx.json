@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/observe/data-streaming/data-streaming.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/observe/data-stream/",
+  "suggest": {
+    "meta_keywords": "Data Stream, Real-Time Events, Edge Computing, logs management, data analysis, observability, Azion platforms, streaming data, SIEM, big data",
+    "meta_description": "Discover how Data Stream enhances your data handling capabilities in real-time by integrating with various Big Data and SIEM platforms, leveraging Azion's powerful edge computing technology.",
+    "meta_description_length": 190
+  },
+  "current": {
+    "meta_description": "Data Stream é um produto de Observe que permite que você alimente suas plataformas de stream, SIEM e big data com os logs de eventos de suas aplicações na Azion em tempo real.",
+    "meta_keywords": "data, streaming, edge computing, stream, observe, observability, observabilidade, logs, events, eventos"
+  }
+}

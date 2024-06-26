@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/configurar-node/desvincular-service/unbind-service.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/desvincular-servico/",
+  "suggest": {
+    "meta_keywords": "Desvincular Edge Service, Azion Console, API Azion, Gerenciar Edge Nodes, Deletar Serviço Edge, token pessoal, Edge Node ID, API requisição DELETE, Azion API documentação, Serviço Edge",
+    "meta_description": "Aprenda como desvincular um edge service de um edge node utilizando o Azion Console e a API Azion, incluindo comandos para gerenciar e deletar serviços.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Desvincule um service de um edge node para seus recursos não serem mais provisionados.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/link-project/link.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/azion-cli/link-comando/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Application, CLI, Command Link, JavaScript, TypeScript, Develop Server Azion, Deploy Project, Edge Computing, Command Flags",
+    "meta_description": "Aprenda a vincular seu projeto com uma Edge Application na Azion usando o CLI. Inclui opções de deploy, development e presets como JavaScript, TypeScript.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "Vincule um projeto existente a uma edge application na Azion.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

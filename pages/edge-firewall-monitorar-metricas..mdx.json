@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/troubleshoot/edge-firewall-monitorar-metricas..mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/troubleshoot/edge-firewall-monitorar-metricas/",
+  "suggest": {
+    "meta_keywords": "observe, métricas, Web Application Firewall, Edge Firewall, real-time metrics, real-time events, GraphQL API, monitoramento, WAF, segurança",
+    "meta_description": "Explore o monitoramento avançado com Web Application Firewall e Edge Firewall através de real-time metrics, GraphQL API e real-time events.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "Você pode monitorar continuamente suas aplicações através dos produtos de observabilidade da Azion.",
+    "meta_keywords": "observe, métricas, aplicações, seguro"
+  }
+}

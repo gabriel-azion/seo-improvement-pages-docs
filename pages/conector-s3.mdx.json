@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/data-stream/integracoes/conector-s3.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/amazon-s3-endpoint/",
+  "suggest": {
+    "meta_keywords": "Amazon S3, Data Stream, IAM, AWS configuração, endpoint Amazon S3, gestão Amazon S3, Azion configuração, S3 bucket, chave de acesso AWS, Real-Time Events",
+    "meta_description": "Aprenda a configurar Amazon S3 como endpoint para receber dados do Data Stream na Azion, incluindo criação de bucket, gestão de IAM e monitoramento de eventos em tempo real.",
+    "meta_description_length": 173
+  },
+  "current": {
+    "meta_description": "Hands-on para configurar um Amazon S3 para receber dados do Data Stream.",
+    "meta_keywords": "Data Stream, connector, endpoint, amazon, s3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/servicos/security-response-team.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/servicos/security-response-team/",
+  "suggest": {
+    "meta_keywords": "Security Response Team, SRT, DDOS Protection, Enterprise Service Plans, Mission Critical, Security Management, 24x7 Support, Incident Tracking, DDoS Attack Response, Workload Failures",
+    "meta_description": "O SRT é um serviço gerenciado 24x7, projetado para controlar e mitigar falhas de workload e ataques DDoS, disponível para Planos Enterprise e Mission Critical.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "Serviço gerenciado que autoriza a Azion a impor medidas técnicas disponíveis na plataforma da Azion para controlar ou mitigar ataques DDoS, mesmo que tais medidas possam resultar em uma degradação do desempenho.",
+    "meta_keywords": "services, integration, security response team"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/configurar-node/criar-service/criar-service.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/criar-edge-service/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Services, Configurar Edge Service, Azion API, Azion Console, Criar Serviço Edge, Edge Orchestrator, Deploy Edge Service, Edge Nodes, Gerenciar Edge Service",
+    "meta_description": "Aprenda a criar e gerenciar Edge Services via Azion Console e API para otimizar a performance em Edge Nodes com recursos detalhados e guias úteis.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Crie um edge service para trabalhar em conjunto com seus edge nodes.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

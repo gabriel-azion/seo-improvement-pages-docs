@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/edge-functions-instances.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/edge-functions-instances/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Edge Application, serverless, instanciando funções, funções no edge, execução serverless, Azion Edge, Edge computing, scalability, Edge Firewall",
+    "meta_description": "Descubra como instanciar e executar Edge Functions no Edge Application da Azion, garantindo escalabilidade e resposta rápida em edge computing.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Instancie funções serverless em sua edge application  diretamente no edge.",
+    "meta_keywords": "edge functions, edge computing"
+  }
+}

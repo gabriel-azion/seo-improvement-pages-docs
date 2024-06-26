@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/sdks/go-sdk/go-sdk.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/sdk/go/",
+  "suggest": {
+    "meta_keywords": "SDK Azion, Go SDK, Golang API, instalação SDK Go, exemplo iDNS, desenvolvimento Go, integração Azion API, gerenciamento DNS, SDK Azion GitHub, biblioteca Go",
+    "meta_description": "Explore como utilizar o SDK da Azion para Go, incluindo instalação, exemplos práticos de integração com APIs Azion e gerenciamento de zonas iDNS.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "O Azion SDK para a linguagem Go facilita o uso dos serviços das APIs da Azion, fornecendo ferramentas que simplificam o desenvolvimento de aplicações em Go.",
+    "meta_keywords": "SDK, Go, Golang, development"
+  }
+}

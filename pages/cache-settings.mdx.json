@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/cache-settings.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/cache-settings/",
+  "suggest": {
+    "meta_keywords": "configurações de cache, Edge Cache, TTL cache, política de cache, cache dinâmico, cache estático, Optimization of Large Files, Advanced Cache Key, cache por Query String, cache por Cookie, Adaptive Delivery",
+    "meta_description": "Explore como configurar cache dinâmico e estático, TTL, política de cache, Advanced Cache Key, e Adaptive Delivery para Edge Application.",
+    "meta_description_length": 137
+  },
+  "current": {
+    "meta_description": "Configure o TTL do cache, fragmentação de arquivos grandes, entrega adaptável e regras de cache para sua aplicação.",
+    "meta_keywords": "cache settings, edge cache, edge, edge application"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/configurar-node/logs/watch-logs.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/verificar-logs/",
+  "suggest": {
+    "meta_keywords": "Edge Orchestrator, edge node, logs, verificar logs, comando edge, edge services, installation logs, update logs, terminal edge",
+    "meta_description": "Aprenda a verificar e gerenciar os logs do Edge Orchestrator e edge services no seu edge node, utilizando comandos essenciais no terminal.",
+    "meta_description_length": 138
+  },
+  "current": {
+    "meta_description": "Verifique os logs do edge node e dos triggers dos the edge services.",
+    "meta_keywords": "deploy, orchestrator, logs"
+  }
+}

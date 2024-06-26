@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/unlink/unlink.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/cli/comando-unlink/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Computing, azion unlink, CLI, comando azion, desvinculação de projeto, Edge platform, script de automação",
+    "meta_description": "Aprenda a usar o comando 'azion unlink' para desconectar seu projeto da Plataforma de Edge Computing da Azion, simplificando a gestão de projetos.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Desvinculando um projeto existente da Plataforma de Edge Computing da Azion.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, computação de borda"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-functions/WebAssembly.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/webassembly-na-plataforma-azion/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, WebAssembly, JavaScript, criação de função, desenvolvimento Edge, instanciar Edge Application, código WAT, Azion Console, funcionalidade em Edge, processamento Edge",
+    "meta_description": "Descubra como criar e instanciar Edge Functions usando JavaScript e WebAssembly no Azion Console, explorando codigo WAT e processos em Edge.",
+    "meta_description_length": 140
+  },
+  "current": {
+    "meta_description": "Saiba mais sobre o processo necessário para a criação de uma edge function que utiliza uma função originada de um arquivo WebAssembly.",
+    "meta_keywords": "javascript, edge computing, wasm, webassembly"
+  }
+}

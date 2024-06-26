@@ -1,0 +1,12 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/intelligent-dns/run-dig-command.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/executar-o-comando-dig/",
+  "suggest": {
+    "meta_keywords": "comando dig, DNS, Azion Edge DNS, consulta DNS, BIND, instalar dig Windows, dig Linux, consulta domínio, servidores DNS, latência DNS",
+    "meta_description": "Aprenda a utilizar o comando dig para consultas DNS em várias plataformas, teste zonas no Azion Edge DNS e otimize sua configuração de rede.",
+    "meta_description_length": 140
+  },
+  "current": {
+    "meta_description": "Veja aqui como encontrar servidores DNS utilizando comando DIG em diferentes plataformas Windows, Linux ou MAC OS X. Conheça o suporte Azion!"
+  }
+}

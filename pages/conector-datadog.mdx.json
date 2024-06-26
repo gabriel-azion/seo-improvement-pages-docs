@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/data-stream/integracoes/conector-datadog.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/datadog-endpoint/",
+  "suggest": {
+    "meta_keywords": "Data Stream, Datadog, Configuração de Endpoint, Azion Console, Integração Datadog, Logs Analytics, API Keys, Real-Time Manager, Guias Azion, Configurar Datadog",
+    "meta_description": "Saiba como configurar o Data Stream para enviar dados ao Datadog, usando o Azion Console ou Real-Time Manager. Inclui passos para API Keys e Endpoint.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Hands-on para configurar o Datadog para receber dados do Data Stream.",
+    "meta_keywords": "Data Stream, connector, endpoint, datadog"
+  }
+}

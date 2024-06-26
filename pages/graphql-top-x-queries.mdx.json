@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/graphql/graphql-top-x-queries.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/graphql-query-top-x/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, Top X queries, data analytics, requestUri aggregation, Postman GraphQL queries, API data querying, http queries, time range filtering, data grouping, sorting data results",
+    "meta_description": "Descubra como usar a GraphQL API para realizar Top X queries, agregar dados via requestUri, e filtrar resultados com Postman, visualizando grandes volumes de dados.",
+    "meta_description_length": 164
+  },
+  "current": {
+    "meta_description": "As queries Top X costumam ser utilizadas para realizar consultas e análises sobre dados. Elas têm a finalidade de visualizar a utilização de recursos e ferramentas e ter uma visão sobre determinadas condições que são mais ou menos utilizadas.",
+    "meta_keywords": "graphql, top x, query, queries"
+  }
+}

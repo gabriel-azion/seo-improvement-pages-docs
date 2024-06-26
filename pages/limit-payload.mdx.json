@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/limit-payload.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/limit-payload-size/",
+  "suggest": {
+    "meta_keywords": "Limite Payload Size, serverless, edge function, Azion Marketplace, Content-Length header, Edge Firewall, Configure Edge Function, Edge Application, Rules Engine, Install Integration",
+    "meta_description": "Descubra como integrar e configurar a função 'Limite Payload Size' no Azion Marketplace para gerenciar payloads e aumentar a segurança com serverless na edge.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Esta integração usa uma edge function para avaliar os dados de uma request e negar payloads que excedam o limite pré-definido.",
+    "meta_keywords": "payload, limit, request, serverless, edge"
+  }
+}

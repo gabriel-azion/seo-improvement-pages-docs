@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/graphql/query-postman.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/consultar-graphql-postman/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, Postman requisições, Azion personal token, autenticação API, criar token, headers Postman, Azion API, consulta GraphQL",
+    "meta_description": "Aprenda como rodar requisições da GraphQL API usando o Postman, criando um personal token na Azion e configurando headers. Veja passo a passo.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Você pode rodar requisições da GraphQL direitamente no Postman e receber respostas.",
+    "meta_keywords": "graphql, api, query, postman"
+  }
+}

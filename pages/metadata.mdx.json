@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/api-reference/metadata/metadata.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/edge-application/edge-functions/runtime/api-reference/metadata/",
+  "suggest": {
+    "meta_keywords": "edge functions, edge firewall, metadata access, network list, Edge Computing, GeoIP, TCP, TLS, remote IP, security management",
+    "meta_description": "Explore como as Edge Functions e Edge Firewall gerenciam o acesso e segurança através de metadata, incluindo GeoIP e TLS, para aplicativos Edge.",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "As edge functions, no Edge Firewall, possuem acesso a um conjunto de metadados que podem ser utilizados para filtrar e controlar o acesso à sua aplicação, além de aplicar lógicas específicas para diferentes cenários.",
+    "meta_keywords": "edge function, edge computing, edge firewall, security"
+  }
+}

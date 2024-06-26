@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/rate-limit-with-penalty.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/upstash-rate-limiting-integration/",
+  "suggest": {
+    "meta_keywords": "Upstash Rate Limiting, Edge Firewall, Edge Functions, traffic management, DDoS protection, rate limit configuration, Azion Marketplace, network security, API rate limiting, request blocking",
+    "meta_description": "Descubra como o Upstash Rate Limiting, através de Edge Functions e Edge Firewall, aprimora a segurança da rede, gerencia o tráfego e protege contra DDoS.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Essa integração permite que você controle o tráfego de entrada diretamente no edge da rede.",
+    "meta_keywords": "marketplace, edge computing, rate limiting"
+  }
+}

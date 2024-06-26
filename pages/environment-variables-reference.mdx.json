@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/environment-variables-reference/environment-variables-reference.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/edge-functions/environment-variables/",
+  "suggest": {
+    "meta_keywords": "variáveis de ambiente, segurança de dados, configuração de software, Azion edge functions, gerenciamento de configuração, conformidade regulatória, Azion API, Azion CLI, flexibilidade de implantação, portabilidade de aplicativos",
+    "meta_description": "Explore como as variáveis de ambiente aumentam a segurança e a flexibilidade de projetos de software, com detalhes sobre o gerenciamento e conformidade na plataforma Azion.",
+    "meta_description_length": 172
+  },
+  "current": {
+    "meta_description": "As variáveis de ambiente são um aspecto crucial do desenvolvimento e implantação de software. Elas são usadas para armazenar informações confidenciais ou definições de configuração que não devem ser codificadas na base de código.",
+    "meta_keywords": "edge function, edge computing, edge firewall, security"
+  }
+}

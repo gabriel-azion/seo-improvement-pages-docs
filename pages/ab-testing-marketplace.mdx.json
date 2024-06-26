@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/ab-testing-marketplace.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/ab-testing-marketplace/",
+  "suggest": {
+    "meta_keywords": "Testes A/B, Marketplace, Azion Console, Edge Functions, Configuração A/B, Aplicação Edge, Integração A/B Testing, Marketplace Azion, Seller Dashboard, Azion produtos",
+    "meta_description": "Descubra como configurar e implementar testes A/B com a integração do Marketplace no Azion Console, utilizando Edge Functions para otimizar aplicações Edge.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "Utilização da integração A/B testing através do Marketplace da Azion.",
+    "meta_keywords": "Testes A/B, Marketplace"
+  }
+}

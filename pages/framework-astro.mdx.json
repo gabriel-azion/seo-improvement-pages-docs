@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/guias-frameworks/framework-astro.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/cli/frameworks/astro/",
+  "suggest": {
+    "meta_keywords": "Astro, Azion, Edge Functions, Jamstack, desenvolvimento local, implantação, CLI, Node.js, deploys, aplicação estática",
+    "meta_description": "Descubra como desenvolver e implementar uma aplicação Jamstack usando Astro e Azion Edge Functions, abrangendo desde a configuração inicial até a implantação.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Faça o deploy de uma aplicação Jamstack com Astro.",
+    "meta_keywords": "astro, js, jamstack"
+  }
+}

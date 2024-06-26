@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/configurar-node/trabalhar-variaveis/trabalhar-com-variaveis.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/trabalhar-com-variaveis/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Orchestrator, Variáveis, Edge Services, Edge Nodes, API Azion, Controle de Ambiente, Gestão de Recursos, Personal Tokens, Deploy Orchestrator",
+    "meta_description": "Descubra como gerenciar variáveis de forma eficaz em Edge Nodes e Edge Services usando o Azion Console e API, no contexto do Edge Orchestrator.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Como trabalhar com variáveis em seus edge nodes e edge services.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

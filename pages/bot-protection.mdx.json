@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/bot-protection.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/bot-manager/",
+  "suggest": {
+    "meta_keywords": "Azion Bot Manager, Edge Functions, Edge Firewall, serverless integration, bot traffic detection, malicious bot prevention, bot score rules, Marketplace integration, cybersecurity, bot management actions",
+    "meta_description": "Discover how Azion Bot Manager, a serverless integration in the Marketplace using Edge Functions, analyzes requests to prevent malicious bot activities.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Azion Bot Manager analisa requisições recebidas e atribui uma pontuação com base em regras e comportamentos para identificar e prevenir possíveis atividades maliciosas.",
+    "meta_keywords": "bot, protection, cibersegurança, edge computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/hexo-boilerplate.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/hexo-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Hexo Boilerplate, Single-Page Application, SPA deployment, GitHub integration, Edge Functions, Azion Marketplace, template configuration, edge computing, Azion Console, custom domain setup",
+    "meta_description": "Aprenda a configurar e gerenciar seu Hexo Boilerplate para SPA diretamente no edge com Edge Functions e automatização através do Az֠ion Console.",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "O Hexo Boilerplate permite que você crie e execute uma Single-Page Application (SPA) baseada em Hexo diretamente no edge.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

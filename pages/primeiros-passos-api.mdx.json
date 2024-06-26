@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/recursos-adicionais/developer-tools/primeiros-passos-api.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/devtools/primeiros-passos-api/",
+  "suggest": {
+    "meta_keywords": "API Azion, API RESTful Azion, requisições HTTP, personal token, Postman Azion, método HTTP, automação API, documentação Azion, Azion Console, criar conta Azion",
+    "meta_description": "Explore a documentação da API RESTful da Azion, incluindo métodos HTTP, requisitos, e integração com Postman. Crie e gerencie sua configuração eficientemente.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Conheça os endpoints e métodos oficiais da API RESTful da Azion.",
+    "meta_keywords": "azion, rest api, restful api, azion restful api"
+  }
+}

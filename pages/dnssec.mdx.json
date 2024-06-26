@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-dns/dnssec.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-dns/compatibilidade-dnssec/",
+  "suggest": {
+    "meta_keywords": "DNSSEC, Edge DNS, segurança DNS, autenticação criptográfica, integridade de dados, Azion Edge, DNS autoritativo, configuração DNSSEC, chave pública DNS, protocolo DNS",
+    "meta_description": "Descubra como a Azion suporta DNSSEC em sua plataforma Edge DNS para garantir autenticação criptográfica e integridade de dados em todo o tráfego DNS.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "A plataforma de Edge da Azion é compatível com a especificação DNS Security Extensions (DNSSEC) suportando sua utilização nos sites e aplicações aceleradas pela Azion.",
+    "meta_keywords": "azion, Edge DNS, DNSSEC, compatibilidade com DNSSEC, extensão de segurança DNSSEC"
+  }
+}

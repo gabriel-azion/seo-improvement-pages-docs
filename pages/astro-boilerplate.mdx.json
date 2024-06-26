@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/astro-boilerplate.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/astro-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Astro Boilerplate, Azion Edge Application, GitHub Integration, Edge Functions, Template Deployment, Custom Domain Configuration, SPA, Continuous Deployment, Edge Hosting, Azion Platform",
+    "meta_description": "Descubra como criar e implantar o Astro Boilerplate na Azion para executar SPA diretamente nas edges, integrado ao GitHub para deployment contínuo.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "O Astro Boilerplate fornece uma solução de automação para criar uma edge application Astro na Azion.",
+    "meta_keywords": "templates, guias, Azion Marketplace"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/avancado/desinstalar-node/desinstalar-node.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/avancado/desinstalar-agent/",
+  "suggest": {
+    "meta_keywords": "desinstalar Edge Orchestrator, remover edge node, Azion Edge Orchestrator, exclusão de edge node, Azion API, gerenciamento de edge node, Azion console",
+    "meta_description": "Guia para desinstalar o Azion Edge Orchestrator e excluir edge nodes. Inclui passos práticos via console e API, além de links úteis para documentação.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Desinstale o Edge Orchestrator de um edge node e remova-o da listagem de edge nodes disponíveis.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

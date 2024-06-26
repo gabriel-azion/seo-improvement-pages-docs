@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/content-azion-secure-token.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure-token-marketplace/",
+  "suggest": {
+    "meta_keywords": "Secure Token, Azion Marketplace, serverless, Edge Computing, acesso restrito, integração Secure Token, controle de acesso, autenticação, processamento de tokens, segurança de conteúdo",
+    "meta_description": "Descubra a integração Secure Token no Azion Marketplace, ideal para controle de acesso e segurança de conteúdos via processamento serverless em Edge Computing.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "Secure Token é uma função serverless da Plataforma de Edge Computing da Azion para o processamento e validação de tokens que pode ser empregada no controle de acesso a conteúdos restritos ou personalizados, tais como aulas, vídeos e imagens.",
+    "meta_keywords": "token"
+  }
+}

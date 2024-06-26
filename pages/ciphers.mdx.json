@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/transport-layer-security/ciphers.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/cifras/",
+  "suggest": {
+    "meta_keywords": "Azion, HTTPS, TLS, cifras, configuração TLS, Console Azion, Real-Time Manager, Edge Application, segurança HTTPS, protocolo HTTPS",
+    "meta_description": "Aprenda a configurar HTTPS para sua aplicação Edge na Azion, incluindo seleção de cifras TLS e versão mínima no Console ou Real-Time Manager.",
+    "meta_description_length": 141
+  },
+  "current": {
+    "meta_description": "Ataques de segurança podem explorar vulnerabilidades específicas de cifras TLS; você pode selecionar quais cifras sua aplicação HTTPS suporta.",
+    "meta_keywords": "secure, configuration, settings, domains"
+  }
+}

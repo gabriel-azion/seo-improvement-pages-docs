@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/edge-application-proxy.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/edge-application-proxy-template/",
+  "suggest": {
+    "meta_keywords": "Azion Marketplace, Edge Application Proxy, Edge Application, Bypass Cache, Cache Settings, Cache Rules, Rules Engine, Application Accelerator, Template Deployment, Edge Computing",
+    "meta_description": "Descubra como configurar e gerenciar a Edge Application Proxy na Azion usando o template for bypassing cache settings, ideal para otimizar a entrega de conteúdo.",
+    "meta_description_length": 161
+  },
+  "current": {
+    "meta_description": "O template inclui configurações que adicionam uma camada de regras para ignorar todas as configurações de cache para uma rota específica de URL.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

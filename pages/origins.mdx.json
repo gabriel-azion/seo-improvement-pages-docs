@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/origins.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/origins/",
+  "suggest": {
+    "meta_keywords": "Edge Application, Host header, HMAC authentication, Edge Storage, Load Balancer, Single Origin, Origin Path, Origin Protocol Policy, Edge Computing, Azion plataforma",
+    "meta_description": "Descubra como personalizar a origem do seu Edge Application na Azion, incluindo configurar Host header, Load Balancer e Edge Storage para melhor eficiência.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "O Azion Origins permite que você personalize as origens de seu conteúdo, o cabeçalho Host e as credenciais de autenticação HMAC.",
+    "meta_keywords": "Single origin, edge computing"
+  }
+}

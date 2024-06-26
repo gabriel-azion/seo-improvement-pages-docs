@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/update/update.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/cli/update/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Edge Applications, Edge Functions, Update Commands, CLI Flags, Edge Storage, Edge Cache, Application Acceleration, Runtime Environment, Deployment Updates",
+    "meta_description": "Descubra como usar o Azion CLI para atualizar Edge Applications, Edge Functions e mais, com flags detalhadas e opções de configuração.",
+    "meta_description_length": 134
+  },
+  "current": {
+    "meta_description": "Atualize suas edge applications, edge functions e outros recursos através da Azion CLI.",
+    "meta_keywords": "cli, edge, update, development"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/gerencie-contas/gerenciar-perfis/personal-token.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/personal-tokens/",
+  "suggest": {
+    "meta_keywords": "Personal Tokens, Azion Console, Azion API, Azion CLI, api azion, criar token, revogar token, autenticação Azion, segurança Azion, gestão de tokens",
+    "meta_description": "Saiba como criar e gerenciar Personal Tokens no Azion Console para usar serviços como Azion API e CLI, garantindo segurança e eficiência.",
+    "meta_description_length": 137
+  },
+  "current": {
+    "meta_description": "Descubra como usar Personal Tokens no Azion Console.",
+    "meta_keywords": "conta, Azion Console, token, personal token"
+  }
+}

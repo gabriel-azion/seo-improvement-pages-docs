@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/cli/cli-auto-complete.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/cli-auto-complete/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Autocomplete, CLI Autocomplete, comando rápido, desenvolvimento de projetos, azioncli, instalar Autocomplete, comandos Azion, produtividade CLI, comandos rápidos",
+    "meta_description": "Explore como o recurso Autocomplete da Azion CLI melhora sua produtividade, permitindo comandos rápidos e fáceis para eficiência no desenvolvimento de projetos.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Aprenda sobre a funcionalidade de autocomplete da CLI.",
+    "meta_keywords": "CLI"
+  }
+}

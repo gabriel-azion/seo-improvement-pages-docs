@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/ipqs.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/ip-address-reputation/",
+  "suggest": {
+    "meta_keywords": "IP Address Reputation, IPQualityScore, Edge Firewall, Azion Marketplace, API Key, Edge Functions, servidor serverless, proteção de IP, reputação de IP, segurança online",
+    "meta_description": "Explore como usar a integração IP Address Reputation via Azion Marketplace para proteger seu site com Edge Functions e IPQualityScore.",
+    "meta_description_length": 134
+  },
+  "current": {
+    "meta_description": "A integração IP Address Reputation, da IPQS, protege seu site contra IPs maliciosos.",
+    "meta_keywords": "edge computing, IPQualityScore, IP Address Reputation"
+  }
+}

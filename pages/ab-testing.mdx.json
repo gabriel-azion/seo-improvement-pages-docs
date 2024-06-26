@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/ab-testing.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/ab-testing/",
+  "suggest": {
+    "meta_keywords": "A/B Testing, edge function, serverless, Azion Marketplace, traffic distribution, user experience, teste A/B, edge computing, JSON configuration, Azion Console",
+    "meta_description": "Explore como o A/B Testing no Azion Marketplace, utilizando funções serverless em edge computing, melhora a experiência do usuário e otimiza a distribuição de tráfego.",
+    "meta_description_length": 167
+  },
+  "current": {
+    "meta_description": "A/B Testing é uma função serverless disponível no Marketplace da Azion.",
+    "meta_keywords": "edge computing, test a/b"
+  }
+}

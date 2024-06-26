@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/waiting-room.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/waiting-room/",
+  "suggest": {
+    "meta_keywords": "Upstash Waiting Room, Edge Firewall, gerenciar tráfego, integração de sala de espera, marketplace Azion, configuração Edge Firewall, Edge Functions, regras de acesso, controle de tráfego, integrações Azion",
+    "meta_description": "Integre a Upstash Waiting Room para gerenciar picos de tráfego usando Edge Firewall e Edge Functions da Azion, melhorando a performance de suas aplicações.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "Gerencie picos de tráfego e evite sobrecarga em seus sites e aplicações usando uma sala de espera.",
+    "meta_keywords": "edge firewall, marketplace, securança, integrações"
+  }
+}

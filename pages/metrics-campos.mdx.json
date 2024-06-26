@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/api-graphql/recursos/metrics-campos.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/graphql-api/recursos/campos-gql-real-time-metrics/",
+  "suggest": {
+    "meta_keywords": "Azion, Real-Time Metrics, GraphQL API, Edge Functions, API dados, métricas, HTTP, caching, DNS, Data Stream",
+    "meta_description": "Descubra os campos e métricas detalhados para a API de Real-Time Metrics e outros serviços de Edge Computing da Azion.",
+    "meta_description_length": 118
+  },
+  "current": {
+    "meta_description": "Veja as descrições para todos os campos de cada conjunto de dados da API GraphQL do Real-Time Metrics.",
+    "meta_keywords": "graphql, api, azion, fields, metrics"
+  }
+}

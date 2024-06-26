@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/trabalhe-com-dominios/migrar-ns.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/migrar-ns-para-a-azion",
+  "suggest": {
+    "meta_keywords": "Azion, Edge DNS, nameservers, DNS management, DNS zones, domain resolution, nameservers redirecionamento, hospedagem DNS, registrar DNS, autoritative nameservers",
+    "meta_description": "Migre e gerencie seus DNS com nameservers autoritativos da Azion, assegurando controle e confiabilidade excepcionais no redirecionamento das resoluções DNS.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "Migre seus nameservers autoritativos para a Azion para um controle e confiabilidade aprimorados das configurações do seu DNS no edge.",
+    "meta_keywords": "domains, nameserver, DNS, resolution, ANAME, zones"
+  }
+}

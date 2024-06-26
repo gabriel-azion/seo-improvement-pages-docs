@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/guias-linguagens/lang-javascript.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/desenvolvimento-azion/linguagens/javascript/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Azion Edge Runtime, JavaScript, Edge Application, desenvolvimento edge, Azion Console, criar edge function, APIs edge, integração JavaScript, debugar edge functions",
+    "meta_description": "Descubra como criar e implementar Edge Functions com o Azion Edge Runtime, usando JavaScript no Azion Console para desenvolvimento eficaz em Edge Application.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Siga o passso a passo para desenvolver uma edge function.",
+    "meta_keywords": "serverless functions, edge, javascript"
+  }
+}

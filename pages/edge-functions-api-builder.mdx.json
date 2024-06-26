@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-functions/edge-functions-api-builder.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/edge-functions/api-builder/",
+  "suggest": {
+    "meta_keywords": "ChatGPT, Edge Functions, API, Azion, OpenAI API, JavaScript, Edge Application, Edge Computing, Preview Deployment, handleRequest",
+    "meta_description": "Explore o passo a passo para criar APIs utilizando Edge Functions e ChatGPT na Azion, integrando chaves OpenAI APIs e validando uma Preview.",
+    "meta_description_length": 140
+  },
+  "current": {
+    "meta_description": "Saiba mais sobre o processo necessário para criar uma API com Edge Functions e ChatGPT, e tenha a resposta apresentada no Azion Preview Deployment.",
+    "meta_keywords": "ChatGPT, AI, javascript"
+  }
+}

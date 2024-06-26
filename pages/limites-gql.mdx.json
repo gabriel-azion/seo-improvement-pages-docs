@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/api-graphql/limites/limites-gql.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/graphql-api/limites/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, limites de query, performance de API, campos por query, mensagens de erro, Real-Time Metrics, Real-Time Events, limitação de API, restrições de API, documentação GraphQL",
+    "meta_description": "Explore como manter a performance da API GraphQL com limites definidos de queries e campos, incluindo detalhes sobre mensagens de erro e documentação.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Para manter seu desempenho, API GraphQL possui limites pré-definidos que devem ser levados em consideração durante seu uso.",
+    "meta_keywords": "graphql, api, azion, query, limits"
+  }
+}

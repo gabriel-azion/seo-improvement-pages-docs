@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/preview/preview.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/edge-application/edge-functions/runtime-api/preview-deployment/",
+  "suggest": {
+    "meta_keywords": "Azion Preview Deployment, Edge Functions, Preview Provider, Edge Computing, HTTP methods, API, JavaScript, Deployment, JSON response, Content-Type",
+    "meta_description": "Descubra como o Azion Preview Deployment otimiza Edge Functions com visualizações em tempo real, testes de API e integração com JavaScript.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "O Azion Preview Deployment possibilita que você visualize o comportamento de suas funções de borda antes de elas irem para produção.",
+    "meta_keywords": "edge, javascript"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/devtools/tools-code-editor.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/desenvolvimento-azion/code-editor/",
+  "suggest": {
+    "meta_keywords": "editor de código Azion, Monaco editor, Edge Functions, IntelliSense, Syntax highlighting, debugging, VS Code, desenvolvimento edge, integração ChatGPT, visualização de código",
+    "meta_description": "Explore o editor de código da Azion para Edge Functions, baseado no Monaco, com recursos como IntelliSense, debugging e integração com ChatGPT.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "O editor de código para Edge Functions é uma boa maneira para iniciar o desenvolvimento no edge.",
+    "meta_keywords": "edge, javascript"
+  }
+}

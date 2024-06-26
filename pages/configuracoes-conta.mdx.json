@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/contas/configuracoes-conta.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/gestao-de-contas/account-settings/",
+  "suggest": {
+    "meta_keywords": "Azion, Account Settings, Account Profile, Authentication Settings, Address Information, Multi-Factor Authentication, Social Login, Account Security, Azion Console, Delete Account",
+    "meta_description": "Gerencie as configurações de sua conta no Azion Console, incluindo perfil, autenticação e informações de endereço. Ative opções de segurança como MFA e Social Login.",
+    "meta_description_length": 165
+  },
+  "current": {
+    "meta_description": "Você pode editar as informações gerais de sua conta na área de Account Settings, localizada no menu superior direito do Azion Console.",
+    "meta_keywords": "edge computing, azion, account, account settings"
+  }
+}

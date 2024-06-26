@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/recursos-adicionais/templates-e-integracoes/usar-um-template-via-rtm.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/usar-um-template-via-azion-console/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Application, Templates, Configuração, Deployment, GitHub, Plataforma de Edge",
+    "meta_description": "Aprenda a criar e configurar Edge Applications na Azion usando templates pré-projetados para otimizar seu deployment com diferentes opções de integração.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Esta documentação ajudará você a criar uma nova edge application na Azion usando templates.",
+    "meta_keywords": "Azion, edge application, jornada, onboarding, templates, domínios, tráfego"
+  }
+}

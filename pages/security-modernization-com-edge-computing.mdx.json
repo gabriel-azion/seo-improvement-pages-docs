@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/arquiteturas/security-modernization/security-modernization-com-edge-computing.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/arquitetura/modernizacao-da-seguranca/modernizacao-da-seguranca-com-edge-computing/",
+  "suggest": {
+    "meta_keywords": "Edge Computing, Edge Firewall, Segurança, Edge Functions, proteção de aplicações, arquitetura de segurança, DDoS Protection, WAF, Network Layer Protection, observabilidade em tempo real",
+    "meta_description": "Descubra como o Edge Computing e o Edge Firewall impulsionam a proteção de aplicações com DDoS Protection, WAF e moderna observabilidade em tempo real.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Os recursos de edge computing podem lhe ajudar proteger suas aplicações e seu conteúdo, beneficiando-se de uma lógica moderna e produtos de observabilidade.",
+    "meta_keywords": "arquitetura, segurança, edge firewall"
+  }
+}

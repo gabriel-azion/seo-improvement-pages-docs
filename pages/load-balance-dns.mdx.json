@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/zona-configuracoes-avancadas/load-balance-dns.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/balanceamento-de-carga-dns/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, balanceamento de carga DNS, registros DNS, atribuição de pesos, gestão de tráfego, política Weighted, Azion Console, Real-Time Manager, configuração de DNS, Azure API",
+    "meta_description": "Aprenda como configurar e otimizar o balanceamento de carga usando o Edge DNS da Azion, atribuindo pesos para gestão eficiente do tráfego de rede.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Realize um balanceamento de carga DNS atribuindo diferentes pesos aos registros configurados no Edge DNS.",
+    "meta_keywords": "dns, Edge DNS, balanceamento de carga, registros"
+  }
+}

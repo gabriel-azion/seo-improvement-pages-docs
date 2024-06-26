@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/arquiteturas/edge-application/serverless-apps.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/arquiteturas/edge-application/serverless-applications/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Computing, serverless, Edge Functions, Edge Application, entrega de conteúdo, Edge Cache, escalabilidade, Edge Firewall, Application Acceleration",
+    "meta_description": "Explore como a Azion maximiza a entrega de conteúdo com Edge Computing e Edge Functions para aplicações serverless, garantindo escalabilidade e eficiência.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "Utilize a plataforma da Azion para criar aplicações serverless. Substitua as CDNs legadas por conteúdo edge-native para melhorar a velocidade, confiabilidade e eficiência de custo.",
+    "meta_keywords": "edge, aplicações, aplicações web, api, entrega de conteúdo, cdn, serverless, Azion"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-configure-ports/custom-ports.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/configurar-portas/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Application, configuração de portas, HTTP, HTTPS, portas personalizadas, portas de origem, portas de entrega, gerenciamento de portas, Real-Time Manager, Azion Console",
+    "meta_description": "Aprenda a configurar portas de origem e entrega com Azion Edge Application usando HTTP e HTTPS, otimizando o controle e a entrega de conteúdo.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Configure combinações de portas HTTP e HTTPS de entrega e origem com Azion Edge Application.",
+    "meta_keywords": "azion, origin, domains, http, https, custom ports, custom, default"
+  }
+}

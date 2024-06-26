@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/store/edge-sql/edge-sql.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/store/edge-sql/",
+  "suggest": {
+    "meta_keywords": "Edge SQL, Azion, banco de dados distribuído, SQL serverless, gestão de banco de dados, consultas SQL, arquitetura principal-réplica, API REST, edge function, low-latency queries",
+    "meta_description": "Descubra o Edge SQL da Azion, a solução de banco de dados distribuído ideal para aplicações serverless, oferencendo APIs REST e edge functions para gestão e consultas rápidas.",
+    "meta_description_length": 175
+  },
+  "current": {
+    "meta_description": "Explore o Edge SQL, uma solução de banco de dados distribuído da Azion. Você pode gerenciar bancos de dados, executar consultas e garantir resiliência de dados.",
+    "meta_keywords": "edge sql, sql, banco de dados, distribuído, queries"
+  }
+}

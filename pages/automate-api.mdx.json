@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/automatizar/automatizar-api/automate-api.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/deploy/automatizar/api/",
+  "suggest": {
+    "meta_keywords": "API Azion, gestão de recursos, automação Edge, documentação API, API Credenciais, API Edge Nodes, API Edge Services, OpenAPI Azion, desenvolvimento API, Edge Computing",
+    "meta_description": "Explore a API da Azion para automação eficiente em Edge Computing, incluindo APIs de Credenciais, Edge Nodes e Edge Services.",
+    "meta_description_length": 125
+  },
+  "current": {
+    "meta_description": "Automatize o gerenciamento de credenciais, edge services, recursos e edge nodes através da API da Azion.",
+    "meta_keywords": "deploy, orchestrator, logs"
+  }
+}

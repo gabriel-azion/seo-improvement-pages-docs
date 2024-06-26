@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-sql/criar-query.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/criar-tabelas-edge-sql/",
+  "suggest": {
+    "meta_keywords": "Edge SQL, CRUD operações, API REST Azion, criação de tabela, inserção de dados, consulta SQL, banco de dados Edge, integração API, gestão de dados, programação SQL",
+    "meta_description": "Descubra como gerenciar bancos de dados Edge SQL com a API REST da Azion, incluindo criação de tabela e inserção de dados eficazes.",
+    "meta_description_length": 131
+  },
+  "current": {
+    "meta_description": "Aprenda como criar e listar tabelas e adicionar dados em bancos de dados Edge SQL usando a API REST da Azion.",
+    "meta_keywords": "edge sql, sql, query, crud, dados, banco de dados"
+  }
+}

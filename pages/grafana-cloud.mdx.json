@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/grafana/grafana-cloud.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/graphql-grafana-cloud/",
+  "suggest": {
+    "meta_keywords": "Azion GraphQL API, Grafana Cloud, GraphQL Data Source, Azion plugin Grafana, Grafana plugin installation, custom dashboard Grafana, Azion data visualization, configurar data source Grafana, criar dashboard Grafana, importar dashboard Grafana",
+    "meta_description": "Descubra como usar a Azion GraphQL API para visualizar dados no Grafana Cloud, instalar plugins, configurar data sources e criar dashboards personalizados.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "Com a Azion GraphQL API, você pode visualizar seus dados no Grafana Cloud usando o GraphQL Data Source e adicionando queries com os conjuntos de dados e variáveis disponíveis.",
+    "meta_keywords": "graphql, grafana, data, observability"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/guides.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/",
+  "suggest": {
+    "meta_keywords": "guías, how-to, configurar Edge Application, personalizar interface, Azion, cache policies, mTLS, HTTP headers, Edge Storage, WAF settings, Edge Functions, serverless, troubleshooting Azion, Edge Application templates, Edge Computing",
+    "meta_description": "Explore guías detalladas sobre cómo configurar y personalizar Edge Applications en Azion, incluidas políticas de cache, WAF, y funciones serverless.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "Guias how-to para uso da plataforma Azion e seus produtos.",
+    "meta_keywords": "guias, how-to"
+  }
+}

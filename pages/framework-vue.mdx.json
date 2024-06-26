@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/guias-frameworks/framework-vue.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/cli/frameworks/vue/",
+  "suggest": {
+    "meta_keywords": "vue, jamstack, deploy vue, vue.js framework, Azion Edge Functions, JavaScript frameworks, desenvolvimento web, CLI Azion, Edge Deployment, plataformas de desenvolvimento",
+    "meta_description": "Descubra como implementar e gerenciar projetos Vue na plataforma Edge da Azion, abarcando desde a inicialização até a implantação com Edge Functions.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Faça o deploy de uma aplicação Jamstack com Vue.",
+    "meta_keywords": "vue, js, jamstack"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/application-acceleration.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/application-accelerator/",
+  "suggest": {
+    "meta_keywords": "Application Accelerator, Edge Computing, Edge Application, Cache Settings, Rules Engine, HTTP Methods Cache, Advanced Cache Key, Dynamic Content Management, Protocol Optimizations, Edge Performance",
+    "meta_description": "Explore como o Application Accelerator otimiza desempenho de aplicações via Edge Computing, protocolos avançados e cache dinâmico.",
+    "meta_description_length": 130
+  },
+  "current": {
+    "meta_description": "Application Accelerator acelera aplicações web e APIs através da otimização de protocolo e do gerenciamento de requisitos de conteúdo dinâmico.",
+    "meta_keywords": "Application Accelerator, Serveless, Edge Computing"
+  }
+}

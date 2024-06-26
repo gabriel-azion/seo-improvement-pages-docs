@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/real-time-events/analise-logs/investigue-requisicoes.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/observe/investigar-requisicoes-api-graphql/",
+  "suggest": {
+    "meta_keywords": "azion, edge, investigação, API GraphQL, Real-Time Events, segurança de aplicações, monitoramento, bloqueio de países, User-Agent, Edge Firewall",
+    "meta_description": "Explore como usar a API GraphQL de Real-Time Events da Azion para monitorar e bloquear acessos indesejados, garantindo a segurança de suas aplicações.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Realize uma investigação sobre requisições que são possíveis ataques com a API GraphQL de Real-Time Events.",
+    "meta_keywords": "azion, edge, observe, observabilidade, logs, investigação, ataques"
+  }
+}

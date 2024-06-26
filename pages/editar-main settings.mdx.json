@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/editar-edge-firewall/editar-main settings.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/edge-firewall-definir-main-settings/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, Configuração de Edge Firewall, Domínios de Edge Firewall, Módulos de Segurança, Proteção DDoS, Edge Functions, Firewall de Aplicação Web, Debug de Regras, Interface de Usuário Azion, Gerenciamento de Firewall",
+    "meta_description": "Aprenda a configurar seu Edge Firewall na Azion, incluindo domínios e módulos como Proteção DDoS e Edge Functions, para uma segurança otimizada.",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "Personalize os domínios e os módulos de seu edge firewall.",
+    "meta_keywords": "secure, edge firewall, configuration, settings, domains"
+  }
+}

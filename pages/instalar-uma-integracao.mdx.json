@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/recursos-adicionais/templates-e-integracoes/instalar-uma-integracao.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/marketplace/instalar-uma-integracao/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Application, Edge Functions, Marketplace, Instalar Integrações, Configuração de Edge, Rules Engine, Edge Firewall, Integração de Segurança, Gerenciamento de Integração",
+    "meta_description": "Guia definitivo para instalar e gerenciar integrações em Edge Applications via Marketplace da Azion, incluindo configurações de Edge Firewall e funções.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Esta documentação lhe guiará para instalar uma integração em uma edge application existente.",
+    "meta_keywords": "Azion, edge application, integrações, marketplace"
+  }
+}

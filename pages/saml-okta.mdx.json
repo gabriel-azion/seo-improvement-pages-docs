@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/idp/saml-okta.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/sso-okta-saml/",
+  "suggest": {
+    "meta_keywords": "Okta, SAML, Identity Provider, Azion Console, Single Sign-On, SSO Management, IdP Configuration, Okta Admin, SAML Application, SAML Configuration",
+    "meta_description": "Guia completo para configurar Okta como Identity Provider (IdP) SAML para acesso ao Azion Console, incluindo criação, configuração e gerenciamento de SSO.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "Guia para configurar a aplicação personalizada Okta como um IdP para o Azion Console.",
+    "meta_keywords": "accounts, users authentication, SAML, okta"
+  }
+}

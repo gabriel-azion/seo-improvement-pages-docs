@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/real-time-events/analise-logs/adicione-filtros.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/observe/adicionar-filtros-events/",
+  "suggest": {
+    "meta_keywords": "Azion, Real-Time Manager, SQL, análise de dados, observabilidade, consulta SQL, variáveis de dados, filtragem de dados, logs de eventos, interfaces de usuário",
+    "meta_description": "Explore como usar o Real-Time Manager da Azion para análises precisas, utilizando SQL para ótima observabilidade e gestão de dados.",
+    "meta_description_length": 131
+  },
+  "current": {
+    "meta_description": "Filtre sua análise com as variáveis e os tipos de dados específicos que você deseja receber.",
+    "meta_keywords": "azion, edge, observe, observability, logs, analysis"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/proteja-aplicacao.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/proteja-aplicacao/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, proteção de aplicações, Azion Edge, configuração de firewall, segurança Edge, Edge Functions, automatizar edge firewall, Azion API, Terraform Azion, SDK Go",
+    "meta_description": "Explore como o Edge Firewall da Azion pode proteger suas aplicações contra ameaças online, com ferramentas para configuração e automação de segurança Edge.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "Use o Edge Firewall para proteger suas aplicações.",
+    "meta_keywords": "edge, secure, aplicação"
+  }
+}

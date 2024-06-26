@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/automatizar/terraform.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/automarizar/terraform/",
+  "suggest": {
+    "meta_keywords": "Azion Terraform provider, automação Terraform, segurança Terraform, gerenciamento de infraestrutura, Edge Firewall, WAF Rules, Edge DNS, DNSSEC, integração Terraform, código aberto",
+    "meta_description": "Explore o Azion Terraform Provider para gerenciar sua infraestrutura com segurança e eficácia, utilizando automação e integração líderes do Terraform.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "O Azion Terraform Provider é um projeto de código aberto, registrado na HashiCorp. Através do SDK Azion para Go, o provider se comunica com as APIs da Azion, para que você possa gerenciar sua infraestrutura hospedada na plataforma da Azion, localmente, como código.",
+    "meta_keywords": "edge, security"
+  }
+}

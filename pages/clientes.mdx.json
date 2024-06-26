@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/contas/clientes.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/gestao-de-contas/contas/",
+  "suggest": {
+    "meta_keywords": "Azion Console, Clients, Account owner, Add client, Client management, Account settings, Client settings, Manage clients, Client accounts, Grupo de empresas",
+    "meta_description": "Explore como o Azion Console facilita a gestão e criação de contas tipo Clients dentro de um grupo de empresas, agilizando seus processos empresariais.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "O Azion Console permite a você criar contas distintas, chamadas de Clients, para cada uma das afiliadas ao seu grupo de empresas.",
+    "meta_keywords": "accounts, clients, groups"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/contas/social-login.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/gestao-de-contas/social-login/",
+  "suggest": {
+    "meta_keywords": "Social Login, autenticação de usuários, login único, Azion, Google, GitHub, facilidade de acesso, dispositivo móvel, criar uma conta, segurança",
+    "meta_description": "Descubra como usar o Social Login na Azion para acesso rápido e seguro com contas Google e GitHub, simplificando autenticação e registro.",
+    "meta_description_length": 137
+  },
+  "current": {
+    "meta_description": "O Social Login é uma forma de login único que usa informações existentes de uma rede social para entrar em sites de terceiros sem que haja a necessidade de criar uma nova conta de login.",
+    "meta_keywords": "social login, contas, autenticação de usuários"
+  }
+}

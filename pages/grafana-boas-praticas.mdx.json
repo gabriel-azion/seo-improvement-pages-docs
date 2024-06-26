@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/real-time-events/integracoes/grafana-boas-praticas.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/observe/boas-praticas-grafana/",
+  "suggest": {
+    "meta_keywords": "Azion, Grafana, dashboards personalizados, best practices Grafana, Time series charts, configuração de dashboards, Grafana plugins, integração Grafana, visualização de dados, analytics",
+    "meta_description": "Explore práticas recomendadas e personalização de dashboards usando o plugin da Azion para Grafana, com integração e configuração detalhada para melhores análises.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "Ao usar o data source plugin da Azion no Grafana, você pode utilizar algumas boas práticas para obter melhores resultados.",
+    "meta_keywords": "azion, edge, observe, observability, logs, grafana, analytics"
+  }
+}

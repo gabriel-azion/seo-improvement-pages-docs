@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/contas/personal-tokens.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/gestao-de-contas/personal-tokens/",
+  "suggest": {
+    "meta_keywords": "Personal Tokens, Azion Console, API Azion, CLI, autenticação, segurança token, criação de token, expiração de token, gerenciamento de tokens, acesso API",
+    "meta_description": "Crie e gerencie Personal Tokens no Azion Console para uso seguro em APIs e CLI. Aprenda sobre a criação, expiração e segurança do token.",
+    "meta_description_length": 136
+  },
+  "current": {
+    "meta_description": "Você pode criar um Personal Token de autenticação de longa duração no Azion Console para chamar as APIs da Azion ou para executar comandos na command-line interface (CLI).",
+    "meta_keywords": "personal token"
+  }
+}

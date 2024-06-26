@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/waf/encontrar-score-waf.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/como-encontrar-score-de-requisicoes-bloqueadas-pelo-waf/",
+  "suggest": {
+    "meta_keywords": "WAF Azion, Real-Time Events, edge application security, WAF queries, WAF configuration, WAF troubleshooting, Azion Console, Real-Time Manager, WAF scoring system, WAF block requests",
+    "meta_description": "Descubra como usar o WAF da Azion para analisar e gerenciar a segurança de edge applications através do Console e Real-Time Events, otimizando as configurações e queries do WAF.",
+    "meta_description_length": 177
+  },
+  "current": {
+    "meta_description": "Aprenda como encontrar mais informações sobre requisições bloqueadas pelo WAF na Azion.",
+    "meta_keywords": "web application firewall, waf, azion, waf score, real-time events, edge firewall"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/deploy-service/deploy-service.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/deploy/implantar-servico/",
+  "suggest": {
+    "meta_keywords": "Edge Orchestrator, gerenciamento de edge, implantação de serviços, Azion API, credenciais edge, instalação de orchestrator agent, criar edge service, autorizar edge node, vincular edge service, gerenciar recursos edge",
+    "meta_description": "Gerencie e implante serviços em tempo real com o Edge Orchestrator. Crie, autorize e vincule edge services e nodes com eficiência usando recursos da Azion.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "Orquestre seus serviços em sua rede de edge nodes.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

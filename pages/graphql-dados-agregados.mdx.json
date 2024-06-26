@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/graphql/graphql-dados-agregados.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/graphql-dados-agregados/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, agregação de dados, análise de dados, processamento analítico, consulta GraphQL, requisições GraphQL, Postman GraphQL, dados HTTP, bytesSent, tsRange",
+    "meta_description": "Aprenda como utilizar a GraphQL API para agregação e análise de dados HTTP, incluindo requisições de exemplo e guias passo-a-passo.",
+    "meta_description_length": 131
+  },
+  "current": {
+    "meta_description": "Os dados agregados podem ser considerados dados estruturados que foram agrupados de alguma forma — eles sofrem algumas alterações para permitir um processamento analítico que busca uma análise segmentada.",
+    "meta_keywords": "graphql, aggregated, data"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/graphql/graphql-metadados.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/graphql-metadados/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, metadados GraphQL, consulta de metadados, tutorial GraphQL, Postman GraphQL, Introspection Query, datasets GraphQL, tipos de dados GraphQL, API Azion",
+    "meta_description": "Explore como utilizar a GraphQL API para consultar metadados, incluindo datasets como dataStreamedMetrics e httpMetrics, através de Introspection Query no Postman.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "Metadados são informações relevantes sobre o escopo de dados da API GraphQL que nos auxiliam a compreender melhor  o relacionamento e a utilidade desses no processo de consulta.",
+    "meta_keywords": "graphql, metadata"
+  }
+}

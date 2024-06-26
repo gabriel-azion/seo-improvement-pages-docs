@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/compatibilidade/node.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/devtools/azion-edge-runtime/compatibilidade/node/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Runtime, Node.js, Node polyfills, Edge Functions, JavaScript APIs, compatibilidade, código exemplo, Node Runtime API, Vulcan polyfills, Azion samples",
+    "meta_description": "Descubra a compatibilidade avançada do Azion Edge Runtime com Node.js, incluindo suporte a Node polyfills e APIs JavaScript dentro das Edge Functions.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Compatibilidade entre a Azion e o Node.js.",
+    "meta_keywords": "node, jamstack"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-test-locally.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/testar-edge-application-atraves-do-arquivo-hosts/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Application, Edge DNS, Configurar Domínio, Arquivo Hosts, Staging, Testar Aplicação, CNAME Configuração, DNS Cache, Anônimo Navegador",
+    "meta_description": "Descubra como testar e preparar sua Edge Application na Azion usando o arquivo hosts e DNS Edge antes de fazer a migração do domínio.",
+    "meta_description_length": 133
+  },
+  "current": {
+    "meta_description": "Ao alterar a resolução de nome do seu dispositivo no arquivo hosts em etc/hosts, você pode testar sua edge application antes de apontar seu domínio para a Azion.",
+    "meta_keywords": "stage, host, hostname, domain, etc, hosts, name resolution, test"
+  }
+}

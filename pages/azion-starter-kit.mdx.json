@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/azion-starter-kit.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/azion-starter-kit/",
+  "suggest": {
+    "meta_keywords": "Azion Starter Kit, Edge Application, Edge Functions, Bot Manager, Edge Computing, Azion Marketplace, Template Configuration, Cache Rules, Image Processor, Edge Firewall",
+    "meta_description": "Explore o Azion Starter Kit para iniciar rapidamente na Plataforma Edge da Azion, incluindo Edge Application, Edge Functions, e mais para otimização e segurança.",
+    "meta_description_length": 161
+  },
+  "current": {
+    "meta_description": "Este template acelera a criação de um stack de edge básico para explorar a plataforma da Azion e seus recursos.",
+    "meta_keywords": "templates, guides, Azion Marketplace, securança, bot protection, edge computing"
+  }
+}

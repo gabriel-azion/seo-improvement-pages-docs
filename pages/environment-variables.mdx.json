@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/api-reference/environment-variables/environment-variables.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/edge-application/edge-functions/runtime/api-reference/environment-variables/",
+  "suggest": {
+    "meta_keywords": "edge functions, edge computing, variáveis de ambiente, Azion CLI, gerenciamento de variáveis, interação com API, autenticação de serviço, acesso a dados, javascript fetch, integração de back-end",
+    "meta_description": "Descubra como utilizar edge functions e variáveis de ambiente para aprimorar a interação e autenticação com APIs e serviços de back-end através da Azion CLI.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "A interface de Variáveis de Ambiente pode ser usada dentro de edge functions para acessar variáveis de ambiente. Você pode usar essas variáveis para interagir com sistemas de back-end, como bancos de dados, APIs privadas ou qualquer serviço autenticado.",
+    "meta_keywords": "edge function, edge computing"
+  }
+}

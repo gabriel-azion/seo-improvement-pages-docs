@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/data-stream/integracoes/conector-standard-http-https-post.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/observe/conector-standard-https-post/",
+  "suggest": {
+    "meta_keywords": "Data Stream, HTTP/HTTPS POST, Azion Real-Time Manager, Configurar Endpoint, Data Stream Connector, Stream Configuration, Azion API, Data Transmission, Custom Headers, Endpoint Setup",
+    "meta_description": "Aprenda a configurar um endpoint HTTP/HTTPS POST no Data Stream da Azion, incluindo opções de cabeçalhos personalizados e integração via API para eficiente transmissão de dados.",
+    "meta_description_length": 177
+  },
+  "current": {
+    "meta_description": "Passos para configurar um conector HTTP/HTTPS POST para receber dados do Data Stream.",
+    "meta_keywords": "Data Stream, connector, endpoint, http, https, post"
+  }
+}

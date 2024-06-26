@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/gerencie-contas/gerenciar-contas/mfa.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/multi-factor-authentication/",
+  "suggest": {
+    "meta_keywords": "Multi-Factor Authentication, Azion Console, MFA habilitação, MFA mobile app, Segurança de acesso, MFA para usuários, autenticador app, código QR MFA, exigir MFA, login MFA, resetar MFA",
+    "meta_description": "Saiba como habilitar e gerenciar Multi-Factor Authentication (MFA) no Azion Console para reforçar a segurança de acesso à sua conta.",
+    "meta_description_length": 132
+  },
+  "current": {
+    "meta_description": "Descubra como usar Multi-Factor Authentication no Azion Console.",
+    "meta_keywords": "account, mfa, access, log in"
+  }
+}

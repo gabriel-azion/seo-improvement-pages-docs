@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/firewall-configuracoes-avancadas/tune-waf.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/tune-waf/",
+  "suggest": {
+    "meta_keywords": "WAF Tuning, Edge Firewall, criar regra permitida, Azion Console, Real-Time Manager, filtrar ataques, WAF Rules, IP Address, Network List, Domain analysis",
+    "meta_description": "Descubra como realizar WAF Tuning no Edge Firewall via Azion Console ou Real-Time Manager, criar regras e filtrar ataques eficazmente.",
+    "meta_description_length": 134
+  },
+  "current": {
+    "meta_description": "Filtre possíveis ataques no seu WAF e crie uma regra permitida a partir dos resultados que você recebe.",
+    "meta_keywords": "secure, waf, edge firewall, tune"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/firewall-configuracoes-avancadas/bloquear-redes-tor.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/bloquear-redes-tor/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Firewall, Tor Exit Nodes, Rules Engine, Network Security, IP Blocking, Edge Computing, Behavior Configuration, API Usage, Real-Time Manager",
+    "meta_description": "Saiba como configurar o Edge Firewall da Azion utilizando o Rules Engine para bloquear IPs da lista Azion IP Tor Exit Nodes, melhorando a segurança da rede.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "Configure um comportamento usando o Rules Engine para bloquear todas as requisições provenientes de IPs contidos na network list Azion IP Tor Exit Nodes.",
+    "meta_keywords": "edge, secure, tor, exit nodes, list, rules engine, behavior"
+  }
+}

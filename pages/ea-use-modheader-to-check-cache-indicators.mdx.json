@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-use-modheader-to-check-cache-indicators.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/verificar-tempo-de-cache-da-pagina/",
+  "suggest": {
+    "meta_keywords": "Edge Computing, ModHeader, cache headers, Google Chrome extensions, debug cache, edge applications, cache indicators, HTTP headers, cache configuration, cache status",
+    "meta_description": "Aprenda a depurar aplicações Edge usando extensão ModHeader do Google Chrome para ver indicadores como status e configuração do cache.",
+    "meta_description_length": 134
+  },
+  "current": {
+    "meta_description": "Você pode fazer o debug de requisições para edge applications criando cabeçalhos que irão retornar indicadores de cache com a extensão ModHeader para Google Chrome.",
+    "meta_keywords": "edge computing, cache"
+  }
+}

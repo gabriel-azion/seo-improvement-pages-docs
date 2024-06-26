@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/react-boilerplate.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/react-boilerplate/",
+  "suggest": {
+    "meta_keywords": "React Boilerplate, Azion Marketplace, Edge Functions, Single-Page Application, React SPA, Automatização, GitHub Integration, Azion Edge Network, Azion GitHub App, Deployment Automation",
+    "meta_description": "Descubra como criar sua React Single-Page Application com automação integral na Azion usando o React Boilerplate, com suporte para integração GitHub e funções Edge.",
+    "meta_description_length": 164
+  },
+  "current": {
+    "meta_description": "O React Boilerplate fornece uma solução de automação para criar uma edge application React na Azion.",
+    "meta_keywords": "templates, guias, Azion Marketplace"
+  }
+}

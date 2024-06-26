@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/cli/cli-conhecendo-macos.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/cli-executando-macos/",
+  "suggest": {
+    "meta_keywords": "CLI, macOS, AzionCLI, Configuração de CLI, Segurança e Privacidade, Preferências do Sistema, Comandos CLI, Tokens de Acesso, Azion, Permitir Aplicativos",
+    "meta_description": "Aprenda a configurar e executar o AzionCLI em macOS, incluindo ajustes de segurança e gerenciamento de tokens para o acesso permanente.",
+    "meta_description_length": 135
+  },
+  "current": {
+    "meta_description": "Executando a CLI no sistema operacional macOS.",
+    "meta_keywords": "CLI"
+  }
+}

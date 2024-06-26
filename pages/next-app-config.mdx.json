@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/next-app-config.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/nextjs-app-configurations/",
+  "suggest": {
+    "meta_keywords": "Next.js, Edge Application, GitHub Integration, Edge Functions, Edge Storage, Application Acceleration, Azion Marketplace, Template Configuration, SPA Deployment, Continuous Development",
+    "meta_description": "Descubra como implementar rapidamente uma aplicação Next.js com o template da Azion, integrando GitHub, Edge Functions e Application Acceleration para desempenho otimizado.",
+    "meta_description_length": 172
+  },
+  "current": {
+    "meta_description": "Esse template cria uma aplicação Next.js com configurações personalizadas e App Router",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

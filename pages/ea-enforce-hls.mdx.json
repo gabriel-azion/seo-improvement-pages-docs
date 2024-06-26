@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-enforce-hls.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/implementar-cache-hls/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Platform, HLS Cache Policy, Edge Computing, Rules Engine Azion, Edge Application, Streaming Content Delivery, Configurar Cache HLS, Edge Cache Settings, Tiered Cache, Edge Network",
+    "meta_description": "Guia completo para configurar políticas de cache HLS na Azion Edge Platform, incluindo ajustes no Rules Engine para otimização de entrega de conteúdo streaming.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Este guia abrange o passo a passo para implementar cache HLS, gerenciando o cache de chunks e playlists e configurando regras no Rules Engine.",
+    "meta_keywords": "architecture, content delivery, hls, edge computing"
+  }
+}

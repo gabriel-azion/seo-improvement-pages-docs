@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/configurar-node/vincular-service/vincular-service.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/vincular-servico/",
+  "suggest": {
+    "meta_keywords": "Edge Services, Azion Edge, vincular edge node, gerenciamento de edge service, Azion API, configurar edge node, console Azion, Edge Orchestrator, automação edge, API integração",
+    "meta_description": "Descubra como gerenciar e configurar Edge Services com a Azion, utilizando tanto o Azion Console quanto via API para uma automação eficiente no edge.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Edge services permite que serviços sejam orquestrados nos seus edge nodes. Para isso, você precisa criar um serviço e vinculá-lo a um edge node.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

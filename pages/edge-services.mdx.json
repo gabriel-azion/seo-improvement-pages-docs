@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/deploy/edge-orchestrator/edge-services.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/deploy/edge-orchestrator/edge-services/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Services, Edge Orchestrator, Edge Computing, Edge Nodes, Azion Console, Orquestração Edge, Gatilhos de Serviço, Instalação de Serviços, Edge Resources, Edge Applications",
+    "meta_description": "Descubra o Azion Edge Services, parte do Edge Orchestrator para gerenciar e orquestrar serviços nos Edge Nodes via Azion Console, otimizando uso de recursos e configurações.",
+    "meta_description_length": 173
+  },
+  "current": {
+    "meta_description": "O Azion Edge Services é um módulo do produto Edge Orchestrator que permite o gerenciamento de serviços orquestrados em sua própria infraestrutura Edge, habilitando o cadastro de recursos e demais configurações via Azion Console e a criação e customização de serviços para que possam ser orquestrados nos Edge Nodes definidos",
+    "meta_keywords": "Edge Services, Edge Computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/debugging/debugging.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/debugging/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, debugging, serverless, Azion Data Stream, debug logs, Edge computing, console.log, log management, application development, error tracking",
+    "meta_description": "Explore como utilizar Edge Functions para debug e gerenciamento eficaz de logs com o Azion Data Stream, melhorando a observabilidade e desenvolvimento.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Debug é um processo que possibilita aos desenvolvedores depurar mensagens de log ou valores de variáveis.",
+    "meta_keywords": "edge functions, edge computing, serverless, debug"
+  }
+}

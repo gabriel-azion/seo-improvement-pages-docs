@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/grafana/exemplo-dash-data-transferred.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/real-time-metrics/data-transferred-dash/",
+  "suggest": {
+    "meta_keywords": "Grafana, GraphQL, Real-Time Metrics, Data Transferred, Edge Applications, Dashboard Creation, Metrics Visualization, API, Azion, Observability",
+    "meta_description": "Saiba como usar o Grafana para visualizar métricas de Data Transferred em Edge Applications usando GraphQL na plataforma Azion.",
+    "meta_description_length": 127
+  },
+  "current": {
+    "meta_description": "Você pode utilizar o exemplo JSON para criar um dashboard no Grafana com as métricas de Data Transferred do Real-Time Metrics.",
+    "meta_keywords": "graphql, grafana, data, observability, application"
+  }
+}

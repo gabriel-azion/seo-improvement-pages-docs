@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/next-pages-middleware.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/nextjs-pages-middleware/",
+  "suggest": {
+    "meta_keywords": "Next.js, middleware, Azion Marketplace, edge application, GitHub integration, Edge Storage, Edge Functions, application deployment, Pages Router, SPA optimization",
+    "meta_description": "Descubra como implantar rapidamente uma aplicação Next.js com Pages Router, middleware e configurações personalizadas usando o template Azion Marketplace.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "Esse template permite que você implante rapidamente uma aplicação Next.js com Pages Router, um middleware e configurações personalizadas.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/fingerprint.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/fingerprint/",
+  "suggest": {
+    "meta_keywords": "Azion Fingerprint, Edge Functions, JavaScript integração, script de nível de navegador, proteção de dispositivos, gestão de identidade digital, fingerprint de sessão, autenticação de dispositivos, edge computing, cybersegurança",
+    "meta_description": "Descubra como o Azion Fingerprint e Edge Functions melhoram a autenticação de dispositivos através de scripts de navegador e gestão de sessões, elevando a segurança em edge computing.",
+    "meta_description_length": 183
+  },
+  "current": {
+    "meta_description": "A integração permite que você capture dados de dispositivos e rede para melhor identificar os dispositivos que acessam suas aplicações.",
+    "meta_keywords": "proteção, cybersecurança, edge computing"
+  }
+}

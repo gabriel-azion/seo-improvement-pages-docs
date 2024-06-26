@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/domains/domains.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/domains/",
+  "suggest": {
+    "meta_keywords": "Azion, Domains, Edge Application, Digital Certificates, TLS, CNAME, mTLS, Edge Computing, DNS Management, HTTPS",
+    "meta_description": "Explore como Azion Domains aprimora suas Edge Applications com gerenciamento de DNS, HTTPS via Digital Certificates e suporte a mTLS.",
+    "meta_description_length": 133
+  },
+  "current": {
+    "meta_description": "Domains Azion mantêm o conteúdo de suas edge applications em cache no edge e podem ser personalizados para atender às suas necessidades.",
+    "meta_keywords": "domains, edge computing"
+  }
+}

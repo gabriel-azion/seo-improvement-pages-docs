@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/real-time-events/integracoes/grafana-plugin-custom-table.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/observe/azion-plugin-grafana-personalizar-tabela-logs/",
+  "suggest": {
+    "meta_keywords": "Azion Grafana, Grafana dashboards, Azion data source, personalizar dashboard, visualização de dados, integrar Grafana, Grafana query examples, Grafana visualization types, Grafana best practices, Azion plugin",
+    "meta_description": "Aprenda a personalizar e otimizar dashboards no Grafana integrando o plugin da Azion para uma análise eficaz e detalhada dos dados de suas aplicações.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "O data source plugin da Azion no Grafana permite que você visualize os dados de suas aplicações existentes na Azion em um dashboard do Grafana.",
+    "meta_keywords": "azion, edge, observe, observability, logs, grafana, analytics"
+  }
+}

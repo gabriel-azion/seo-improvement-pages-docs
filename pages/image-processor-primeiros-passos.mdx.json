@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/image-processor-primeiros-passos.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/image-processor/",
+  "suggest": {
+    "meta_keywords": "Image Processor, Edge Computing, Azion Console, Edge Application, WEBP image conversion, cache policy, query string optimization, image optimization, user interface configurations, advanced cache key",
+    "meta_description": "Aprenda a configurar o Image Processor na Azion para otimização de imagens, incluindo ajustes de cache e conversão para WEBP, através do Console ou Real-Time Manager.",
+    "meta_description_length": 166
+  },
+  "current": {
+    "meta_description": "Otimize, redimensione, recorte e aplique filtros em suas imagens automaticamente, proporcionando mais velocidade e dinamismo à experiência do seu usuário nas suas aplicações web.",
+    "meta_keywords": "Image Processor, edge computing"
+  }
+}

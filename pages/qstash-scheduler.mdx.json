@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/qstash-scheduler.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/qstash-edge-function-scheduler/",
+  "suggest": {
+    "meta_keywords": "QStash EdgeFunction Scheduler, Azion Marketplace, Edge Functions, Scheduled Tasks, Automatic Deployment, GitHub Integration, Serverless Execution, Edge Application Management, Task Scheduling, Upstash Integration",
+    "meta_description": "Descubra o QStash EdgeFunction Scheduler no Azion Marketplace para gerenciar edge functions eficientemente, agendar tarefas e integrar-se com GitHub para deployment automático.",
+    "meta_description_length": 176
+  },
+  "current": {
+    "meta_description": "O template QStash EdgeFunction Scheduler foi projetado para configurar e gerenciar uma edge function personalizada, que recebe um agendamento configurado pelo usuário e o despacha através do QStash.",
+    "meta_keywords": "templates, guias, Azion Marketplace"
+  }
+}

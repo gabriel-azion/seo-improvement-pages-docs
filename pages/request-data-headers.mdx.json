@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/request-data-headers.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/process-request-data-into-headers/",
+  "suggest": {
+    "meta_keywords": "Azion Marketplace, Edge Functions, Process Request Data, serverless integration, Edge Firewall, curl commands, configuration guide, request body validation, regex validation, Headers Conversion",
+    "meta_description": "Descubra como interromper requisições com campos vazios e validar padrões via regex usando a função serverless no Azion Marketplace. Configure facilmente com o Edge Firewall.",
+    "meta_description_length": 174
+  },
+  "current": {
+    "meta_description": "Esta função interrompe uma requisição se qualquer body request estiver vazio, usando regex para validar a existência e o padrão do campo.",
+    "meta_keywords": "request, data, headers, edge"
+  }
+}

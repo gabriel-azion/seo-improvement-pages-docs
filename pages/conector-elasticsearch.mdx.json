@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/data-stream/integracoes/conector-elasticsearch.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/elasticsearch-endpoint/",
+  "suggest": {
+    "meta_keywords": "Elasticsearch, Data Stream, Azion, criar deployment Elastic Cloud, configurar Elasticsearch, API Key Elasticsearch, copiar endpoint, Real-Time Manager, Console Azion, guia Elasticsearch",
+    "meta_description": "Aprenda a configurar o Elasticsearch como endpoint no Azion Data Stream, incluindo criação de deployment e configuração no Real-Time Manager ou Console.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Guia para usar Elasticsearch para receber dados do Azion Data Stream.",
+    "meta_keywords": "Data Stream, connector, endpoint, elastisearch"
+  }
+}

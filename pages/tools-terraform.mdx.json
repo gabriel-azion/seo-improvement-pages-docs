@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/devtools/tools-terraform.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/desenvolvimento-azion/terraform-provider/",
+  "suggest": {
+    "meta_keywords": "Azion Terraform Provider, Terraform, infraestrutura como código, SDK Azion, código aberto, APIs Azion, gerenciamento de infraestrutura, Terraform Registry, código, Azion",
+    "meta_description": "Explora o Azion Terraform Provider, uma ferramenta integrada ao Terraform para gerenciar infraestruturas usando código através do SDK Azion no projeto de código aberto.",
+    "meta_description_length": 168
+  },
+  "current": {
+    "meta_description": "O Azion Terraform Provider é um projeto de código aberto que utiliza o SDK da Azion (Go) para se comunicar com as APIs da Azion, permitindo o gerenciamento de sua infraestrutura usando código.",
+    "meta_keywords": "edge, javascript"
+  }
+}

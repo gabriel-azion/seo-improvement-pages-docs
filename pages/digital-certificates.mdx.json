@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/transport-layer-security/digital-certificates.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/certificado-digital/",
+  "suggest": {
+    "meta_keywords": "certificado digital, Certificate Authority, CSR, Azion, Let's Encrypt, TLS, certificados TLS, configuração de domínio, segurança digital, proteção de dados",
+    "meta_description": "Descubra como gerar e registrar certificados digitais na Azion, incluindo CSR e Let's Encrypt, para proteção e conformidade de dados.",
+    "meta_description_length": 133
+  },
+  "current": {
+    "meta_description": "Adicione um certificado a sua conta para aumentar segurança e confiabilidade.",
+    "meta_keywords": "secure, configuration, settings, domains"
+  }
+}

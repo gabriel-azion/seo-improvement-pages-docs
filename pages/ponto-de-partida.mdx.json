@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/ponto-de-partida/ponto-de-partida.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/ponto-de-partida/",
+  "suggest": {
+    "meta_keywords": "Azion, edge application, Edge Computing, Edge Platform, onboarding, Edge Network, criar edge application, templates, domínios, tráfego",
+    "meta_description": "Explore Edge Computing na Azion: comece criando edge applications com templates, configure domínios e monitore o tráfego com Real-Time Metrics.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Esta documentação vai te auxiliar no processo do ponto de partida para dar seus primeiros passos na Azion.",
+    "meta_keywords": "Azion, edge application, jornada, onboarding, templates, domínios, tráfego"
+  }
+}

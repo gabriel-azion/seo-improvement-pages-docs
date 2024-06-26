@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/describe/describe.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/cli/describe/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, edge applications, edge functions, cache settings, origins, variables, edge storage, rules engine, describe command, CLI flags",
+    "meta_description": "Descubra como utilizar o Azion CLI para gerenciar edge applications, functions, cache e muito mais com opções detalhadas de descrição e configuração.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Acesse informações sobre suas edge applications, edge functions e outros recursos através da Azion CLI.",
+    "meta_keywords": "cli, edge, describe, development"
+  }
+}

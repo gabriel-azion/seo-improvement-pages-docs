@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/fauna-marketplace.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/fauna/",
+  "suggest": {
+    "meta_keywords": "Fauna, Edge Computing, Edge Application, GraphQL, API Segura, Serverless, Azion Marketplace, integração Fauna, configurar Edge Function, Edge Function",
+    "meta_description": "Descubra como integrar Fauna com Edge Application na Azion, usando Edge Functions para um desempenho serverless, GraphQL e APIs seguras.",
+    "meta_description_length": 136
+  },
+  "current": {
+    "meta_description": "Fauna é um banco de dados transacional flexível, amigável e que vem como uma API segura e escalável com suporte nativo à GraphQL.",
+    "meta_keywords": "edge computing, fauna, database, banco de dados, fauna, graphql"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/main-settings.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/main-settings/",
+  "suggest": {
+    "meta_keywords": "HTTP3, HTTPS, TLS cifras, protocolo QUIC, HTTP delivery, Edge Application, suporte HTTP3, protocolo TLS, porta HTTPS, Azion Edge",
+    "meta_description": "Explore opções de protocolo, incluindo HTTP, HTTPS e HTTP/3 suportados por Azion Edge para entrega segura via TLS e portas definidas.",
+    "meta_description_length": 133
+  },
+  "current": {
+    "meta_description": "Personalize a entrega de sua aplicação com a variedade de opções de protocolo da Azion, incluindo suporte para HTTP, HTTPS e HTTP/3 para uma melhor experiência do usuário e proteja a conexão com cifras TLS.",
+    "meta_keywords": "delivery, ports, http, http3, http2, protocol, tls, encryption, protocolo, porta, entrega"
+  }
+}

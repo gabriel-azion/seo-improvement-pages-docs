@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/edge-application.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/",
+  "suggest": {
+    "meta_keywords": "Edge Application, Edge Network, Azion Edge, Performance Optimization, Edge Cache, Edge Functions, Real-Time Purgage, Loading Balancer, Edge Deployment, HTTP/HTTPS Optimization, Tiered Cache",
+    "meta_description": "Descubra como Edge Application da Azion reduz a latência e melhora a transferência na Edge Network, otimizando a performance com Edge Cache e funções de real-time.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "Edge Application é um produto que permite que você crie aplicações na Edge Network da Azion, reduzindo latência e a taxa de transferência entre servidores de origem e usuários.",
+    "meta_keywords": "Edge Computing, Edge Application, edge network"
+  }
+}

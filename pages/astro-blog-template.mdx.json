@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/astro-blog-template.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/astro-blog-starter-kit/",
+  "suggest": {
+    "meta_keywords": "Astro Blog Starter Kit, Azion Marketplace, GitHub integration, Edge Functions, Edge Application management, criar página de blog, implementação automatizada, personalização de template, Azion Console, configuração de domínio",
+    "meta_description": "Descubra como criar e gerenciar seu blog com o Astro Blog Starter Kit na Azion, integrando facilmente com GitHub e customizando através do Azion Console.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Este template contém as configurações para criar uma nova página de blog com base no framework Astro.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

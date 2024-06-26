@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/troubleshoot/testar-zona.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/secure/testar-zona/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, DNS troubleshooting, DNS command tools, DIG command, HOST command, NSLOOKUP command, DNS configuration, Azion DNS servers, domain name resolution, network administration tools",
+    "meta_description": "Aprenda a configurar e testar seu Edge DNS com comandos DIG, HOST e NSLOOKUP, utilizando servidores da Azion para eficaz resolução de nomes.",
+    "meta_description_length": 140
+  },
+  "current": {
+    "meta_description": "Você pode testar suas zonas para verificar se estão processando as informações corretamente.",
+    "meta_keywords": "secure, Edge DNS, zone, test, dig, host, nslookup"
+  }
+}

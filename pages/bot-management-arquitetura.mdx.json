@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/arquiteturas/bot-management/bot-management-arquitetura.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/arquitetura/gerenciamento-de-bots/proteja-edge-applications-com-bot-management/",
+  "suggest": {
+    "meta_keywords": "gerenciamento de bots, Azion Bot Manager, segurança de edge, detecção de bots, prevenção de fraudes, experiência do usuário, proteção edge, segurança bot, score de requisição, Edge Firewall",
+    "meta_description": "Descubra como o Azion Bot Manager aprimora a segurança em edge applications, utilizando análises avançadas para detecção e prevenção de bots.",
+    "meta_description_length": 141
+  },
+  "current": {
+    "meta_description": "Utilize o Azion Bot Manager para proteger edge applications de bots, prevenindo ataques maliciosos.",
+    "meta_keywords": "arquitetura, secure, bot, bot management, security, firewall"
+  }
+}

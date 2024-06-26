@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/arquiteturas/edge-firewall/waap-arquitetura.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/arquitetura/edge-firewall/web-application-and-api-protection-waap/",
+  "suggest": {
+    "meta_keywords": "WAAP, Azion, proteção de aplicações, segurança de APIs, Edge Firewall, OWASP Top 10, ataques de dia zero, proteção contra bots, DDoS Protection, Web Application Firewall",
+    "meta_description": "Explore a solução WAAP da Azion para segurança avançada de aplicações e APIs, com recursos integrados como Edge Firewall e DDoS Protection.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "Utilize a solução WAAP da Azion para proteger aplicações e APIs contra ameaças cibernéticas do OWASP Top 10, ataques de dia zero e bots.",
+    "meta_keywords": "arquitetura, secure, firewall, waap, proteção de aplicações e APIs, waf"
+  }
+}

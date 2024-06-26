@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/angular-boilerplate.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/angular-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Angular Boilerplate, Azion Marketplace, Edge Functions, Angular SPA, GitHub Integration, Automated Deployment, Edge Application, Azion Console, Configurar Domínio, Edge Platform",
+    "meta_description": "Explore o Angular Boilerplate na Azion Marketplace para automatizar e executar Angular SPA na Edge Platform com integração GitHub e deployment automático.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "O Angular Boilerplate fornece uma solução de automação para criar uma edge application Angular na Azion.",
+    "meta_keywords": "templates, guias, Azion Marketplace"
+  }
+}

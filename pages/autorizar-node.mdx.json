@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/configurar-node/autorizar-node/autorizar-node.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/autorizar-edge-node/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Node, API Azion, Autorizar Edge Node, Edge Services, Deploy Orchestrator Agent, Azion Console, API Token, OpenAPI Azion, Edge Orchestrator",
+    "meta_description": "Saiba como autorizar um Edge Node na Azion para acesso a Edge Services. Utilize o Azion Console or API Azion com tokens e OpenAPI para configuração.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "Autorize um edge node na plataforma para começar a orquestrar serviços e recursos no edge.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/api-reference/network-list/network-list.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/edge-application/edge-functions/runtime/api-reference/network-list/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Edge Firewall, Network List, IP Address Verification, Security Implementation, Azion Platform, Error Handling, Security Best Practices, Network List Management, Edge Security",
+    "meta_description": "Descubra como as Edge Functions utilizam a Azion.networkList.contains para checar IPs em Network Lists específicas, aprimorando a segurança no Edge Firewall.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "A interface Azion.networkList.contains pode ser usada por edge functions no Edge Firewall para verificar se um endereço IP está listado em uma network list específica. Se o endereço IP informado estiver listado na network list, ela retornará true e a lógica de implementação desejada poderá prosseguir.",
+    "meta_keywords": "edge function, edge computing, edge firewall, security"
+  }
+}

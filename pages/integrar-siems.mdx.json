@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/automatizar/integrar-siems.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/automarizar/integrar-siems/",
+  "suggest": {
+    "meta_keywords": "Data Stream, WAF, SIEM, Edge Applications, Azion Console, Real-Time Manager, API Integration, Endpoint Configuration, Security Information, Event Management",
+    "meta_description": "Integre o seu Web Application Firewall (WAF) com plataformas SIEM usando o Data Stream da Azion para aprimorar a segurança e monitoramento das suas edge applications.",
+    "meta_description_length": 166
+  },
+  "current": {
+    "meta_description": "Use o Data Stream para integrar o seu Web Application Firewall (WAF) com plataformas de SIEM.",
+    "meta_keywords": "edge, secure, waf, siem, logs, Data Stream"
+  }
+}

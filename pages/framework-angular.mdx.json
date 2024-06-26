@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/guias-frameworks/framework-angular.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/cli/frameworks/angular/",
+  "suggest": {
+    "meta_keywords": "Angular, Jamstack, Azion Edge Functions, Deployment, Angular CLI, desenvolvimento local, Node.js, Edge Computing, plataforma Azion, CLI Angular",
+    "meta_description": "Saiba como implantar projetos Angular na plataforma da Azion usando Edge Functions. Explore a configuração, o desenvolvimento local e a implantação eficiente.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Faça o deploy de uma aplicação Jamstack com Angular.",
+    "meta_keywords": "angular, js, jamstack"
+  }
+}

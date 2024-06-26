@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/build/edge-application/edge-app-primeiros-passos.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/edge-application/primeiros-passos/",
+  "suggest": {
+    "meta_keywords": "Edge Application, Edge Functions, Edge Cache, Azion Console, Application Accelerator, Load Balancer, Cache Settings, Device Groups, Rules Engine, Edge Computing",
+    "meta_description": "Explore como configurar e otimizar sua Edge Application no Azion Console, incluindo módulos como Edge Functions, Cache e Load Balancer.",
+    "meta_description_length": 135
+  },
+  "current": {
+    "meta_description": "See the first steps for Edge Application.",
+    "meta_keywords": "edge application, web, api, cache, edge cache, edge computing, build"
+  }
+}

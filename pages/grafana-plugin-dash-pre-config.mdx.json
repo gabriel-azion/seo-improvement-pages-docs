@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/real-time-metrics/integracoes/grafana-plugin-dash-pre-config.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/azion-plugin-grafana-dash-pre-configurado/",
+  "suggest": {
+    "meta_keywords": "Azion, Grafana, Edge Application, plugin da Azion, configurar Grafana, dashboards de Grafana, dados em tempo real, métricas de desempenho, Real-Time Metrics, configuração de Grafana",
+    "meta_description": "Descubra como configurar e utilizar o plugin da Azion no Grafana para visualizar métricas de desempenho e dados em tempo real de suas Edge Applications.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "O data source plugin da Azion no Grafana permite que você visualize os dados de suas aplicações existentes na Azion em um dashboard do Grafana.",
+    "meta_keywords": "azion, edge, observe, observability, logs, grafana, analytics"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/debugging-functions-graphql/debugging-functions-graphql.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/debugging-functions-graphql/",
+  "suggest": {
+    "meta_keywords": "debugging, functions, GraphQL API, debugging processo, Postman GraphQL, requisições GraphQL, tsRange, API troubleshooting, código erro, solução de erros",
+    "meta_description": "Aprenda como utilizar o processo de debugging com a GraphQL API para identificar e solucionar erros em functions, usando a plataforma Postman.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Você pode utilizar o processo de debugging para identificar erros em suas functions.",
+    "meta_keywords": "functions, debugging, runtime, graphql, api"
+  }
+}

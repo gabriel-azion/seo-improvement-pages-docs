@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-enable-gzip.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/gzip-compression/",
+  "suggest": {
+    "meta_keywords": "Azion, gzip compression, Edge Application, MIME type, rules engine, Real-Time Manager, Azion Console, web performance optimization, Content-Encoding gzip, tipos MIME suportados",
+    "meta_description": "Aprenda a habilitar a compressão gzip na Azion para otimizar a performance da web em Edge Applications, usando o Rules Engine no Real-Time Manager ou Console.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Com a compressão gzip, a Azion proporciona renderização de página e downloads mais rápidos para seus usuários.",
+    "meta_keywords": "azion, gzip, mime type, media type"
+  }
+}

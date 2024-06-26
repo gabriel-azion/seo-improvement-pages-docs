@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/send-messages-to-a-queue.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/send-messages-to-a-queue/",
+  "suggest": {
+    "meta_keywords": "Edge Computing, mensageria, Azion Marketplace, Send messages, queue management, Edge Functions, integration setup, message processing, queue installation, AMQP, SQS, Kafka-REST",
+    "meta_description": "Explore como instalar e configurar a integração Send messages to a queue no Azion Marketplace, incluindo suporte para AMQP, SQS e Kafka-REST com Edge Functions.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "A integração Send messages to a queue da Azion é uma solução integrada de mensageria que reúne os três principais clientes do mercado.",
+    "meta_keywords": "edge computing, mensageria, sqs, rabbitmq, kafka-rest"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/content-targeting.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/segmentacao-conteudo/",
+  "suggest": {
+    "meta_keywords": "Edge Computing, Content Targeting, Azion Marketplace, serverless functions, content segmentation, cookie management, dynamic content delivery, content management application, user experience optimization, performance enhancement",
+    "meta_description": "Explore how Content Targeting via Azion Marketplace enhances user experiences through dynamic content delivery using cookie management and serverless Edge Computing functions.",
+    "meta_description_length": 175
+  },
+  "current": {
+    "meta_description": "Segmentação de conteúdo utilizando cookies e lógicas de edge computing.",
+    "meta_keywords": "Edge Computing, segmentacao de conteudo, cookies"
+  }
+}

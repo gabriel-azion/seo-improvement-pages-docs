@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/configs/azion-config-js.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/cli/configs/azion-config-js/",
+  "suggest": {
+    "meta_keywords": "azion, configuração, edge application, JavaScript, processo de build, arquivo de configuração, cache settings, rules engine, network list, Edge Computing",
+    "meta_description": "Explore como configurar sua edge application com azion.config.js, abrangendo settings de cache, engine de regras e network list.",
+    "meta_description_length": 128
+  },
+  "current": {
+    "meta_description": "Aprenda como personalizar as configurações da sua edge application usando o arquivo azion.config.js. Esta documentação fornece explicações detalhadas das propriedades de configuração.",
+    "meta_keywords": "azion, configuração, javascript, processo de build"
+  }
+}

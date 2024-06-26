@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/ai-integration/ai-integration.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/edge-application/edge-functions/runtime-api/ai-integration/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, ChatGPT, code editor, API integration, code generation, code explanation, code refactoring, developer productivity, JavaScript development, API key setup",
+    "meta_description": "Explore como Edge Functions Code Editor integra ChatGPT para refatoração, geração e explicação de código, melhorando a produtividade do desenvolvedor.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Edge Functions Code Editor é integrado às APIs do ChatGPT, habilitando um conjunto de recursos diretamente dentro do editor, como refatoração e prompt de geração de código.",
+    "meta_keywords": "edge, javascript, chatgpt, code editor"
+  }
+}

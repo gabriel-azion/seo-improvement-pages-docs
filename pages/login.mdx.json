@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/login/login.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/cli/login/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, autenticação, login Azion, CLI tokens, comandos CLI, salvar personal token, comando azion login, ajudar CLI, uso CLI, gerenciamento de conta Azion",
+    "meta_description": "Faça login na conta da Azion com CLI, salvar personal token e usar comandos como 'azion login' para gerenciamento eficiente e seguro.",
+    "meta_description_length": 133
+  },
+  "current": {
+    "meta_description": "Faça login na sua conta da Azion e salve um personal token localmente para autorizar comandos na CLI.",
+    "meta_keywords": "cli, login, autenticação"
+  }
+}

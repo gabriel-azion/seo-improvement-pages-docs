@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/gerencie-contas/criar-conta.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/contas/criar-uma-conta/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Computing, criar conta, Sign Up, Social Login, Azion Console, verificar email, Edge Platform",
+    "meta_description": "Aprenda a criar uma conta na plataforma Edge da Azion com email ou Social Login e inicie a configuração no Azion Console.",
+    "meta_description_length": 121
+  },
+  "current": {
+    "meta_description": "Configurações básicas para criar uma conta na Azion usando um endereço de email e através do Social Login.",
+    "meta_keywords": "edge computing, azion, criar conta, email, social login, signup"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/orchestrator/edge-node-first-steps.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/orchestrator/edge-node-primeiros-passos/",
+  "suggest": {
+    "meta_keywords": "Edge Orchestrator, Azion Edge Node, Installação Edge, Autenticação Edge, Token Edge Node, Azion Console, Gerenciamento Edge Node, Serviços Edge, Download Edge Orchestrator, Comando Edge Node",
+    "meta_description": "Guia de instalação e gerenciamento do Azion Edge Node, incluindo configuração de Edge Orchestrator, autenticação via token e autorização via Azion Console.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "Primeiros passos para trabalhar com o Azion Edge Node.",
+    "meta_keywords": "Orchestrator, Edge Computing"
+  }
+}

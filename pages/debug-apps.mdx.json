@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/troubleshoot/debug-apps.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/troubleshooting/debug-aplicacoes/",
+  "suggest": {
+    "meta_keywords": "debugging, edge application, edge functions, error identification, rules engine, debugging process, Data Stream, graphql, linkbutton, processo de debugging",
+    "meta_description": "Entenda o processo de debugging para edge applications e edge functions, otimizando a identificação de erros e monitoramento.",
+    "meta_description_length": 125
+  },
+  "current": {
+    "meta_description": "Faça debugging para conferir e identificar erros em suas aplicações.",
+    "meta_keywords": "observe, debug, debugging, applications, functions, build"
+  }
+}

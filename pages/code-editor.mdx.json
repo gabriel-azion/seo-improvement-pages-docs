@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/azion-edge-runtime/code-editor/code-editor.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/edge-application/edge-functions/runtime-api/code-editor/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, editor de código, Azion, Monaco Code Editor, VS Code, integração ChatGPT, desenvolvimento edge, APIs JavaScript, preview deployment, debugging",
+    "meta_description": "Descubra o editor de código Edge Functions da Azion, com recursos do Monaco Code Editor como VS Code e integração com ChatGPT para um desenvolvimento inovador.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "O novo editor de código de Edge Functions é a melhor maneira de começar a desenvolver suas edge functions na plataforma da Azion.",
+    "meta_keywords": "edge, javascript, code editor, vscode"
+  }
+}

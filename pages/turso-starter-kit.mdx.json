@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/templates/turso-starter-kit.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/turso-starter-kit/",
+  "suggest": {
+    "meta_keywords": "Turso Starter Kit, Turso database integration, Edge Functions, Azion Marketplace, application deployment, Azion edge application, LibSQL SDK, GitHub integration, Azion GitHub App, database management",
+    "meta_description": "Descubra como o Turso Starter Kit pode simplificar a integração de bancos de dados usando LibSQL SDK para funções de edge na Azion, facilitando a gestão e atualizações contínuas.",
+    "meta_description_length": 178
+  },
+  "current": {
+    "meta_description": "Este template acelera a integração de um banco de dados Turso, criado usando a LibSQL SDK da Turso, em uma edge function.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

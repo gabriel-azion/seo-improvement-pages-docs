@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/observe/siem/siem.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/siem-azion/",
+  "suggest": {
+    "meta_keywords": "SIEM Azion, Real-Time Metrics, Real-Time Events, Dashboards, Alertas, Segurança de Aplicações, Observabilidade, Acessos de Bots, Saúde de Aplicações, Degradação de Aplicações",
+    "meta_description": "Explore a visibilidade das suas aplicações com o SIEM Azion, utilizando Real-Time Metrics e Events para segurança, alertas personalizados e observabilidade avançada.",
+    "meta_description_length": 165
+  },
+  "current": {
+    "meta_description": "Analise dados a partir de dashboards com dados agregados e brutos.",
+    "meta_keywords": "siem, observe, observability, metrics, data, events"
+  }
+}

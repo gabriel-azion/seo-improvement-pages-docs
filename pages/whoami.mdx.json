@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/devtools/cli/azion-cli/comandos/whoami/whoami.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/devtools/cli/whoami/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, whoami Azion, usuário logado, cli de edge computing, comandos Azion, configuração CLI, help command, flags CLI",
+    "meta_description": "Descubra quem está logado na Azion CLI com o comando whoami. Aprenda sobre opções locais e como usar flags para uma personalização rápida.",
+    "meta_description_length": 138
+  },
+  "current": {
+    "meta_description": "O comando whoami da Azion CLI exibe o email do usuário que está logado.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

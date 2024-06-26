@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/configurar-node/provisionar-arquivos/provisionar-arquivos.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/provisionar-arquivos/",
+  "suggest": {
+    "meta_keywords": "deploy, orchestrator, Azion API, Edge Services, Edge Resources, configuração de edge, automação de edge, shell script em edge, Azion Console, gerenciamento de edge",
+    "meta_description": "Aprenda a configurar e gerenciar Edge Services e Resources através do Azion Console e API para automatizar tarefas em seus edge nodes.",
+    "meta_description_length": 134
+  },
+  "current": {
+    "meta_description": "Para orquestrar seus serviços nos seus edge nodes, primeiro, você precisa configurar todos os arquivos que serão provisionados.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

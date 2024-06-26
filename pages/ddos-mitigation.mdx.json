@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-firewall/ddos-protection/ddos-mitigation.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-firewall/ddos-protection/ddos-mitigation/",
+  "suggest": {
+    "meta_keywords": "proteção DDoS, Edge da Azion, detecção de ameaças, segurança de rede, mitigação automática, ataques DNS, MANRS, análise de tráfego, spoofing IP, técnicas de mitigação",
+    "meta_description": "Descubra como a Edge da Azion oferece proteção DDoS avançada com detecção e bloqueio de ameaças em tempo real, garantindo segurança robusta e baixa latência.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "A plataforma de Edge da Azion conta com mecanismos nativos ou programáveis de detecção e bloqueio automatizado de ameaças, passíveis de serem integrados a serviços de segurança e bases de inteligências de terceiros para uma proteção completa e de baixa latência.",
+    "meta_keywords": "ddos, protection, atacks, security, mitigation"
+  }
+}

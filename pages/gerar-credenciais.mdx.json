@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/configurar-node/gerar-credenciais/gerar-credenciais.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/gerar-credentials/",
+  "suggest": {
+    "meta_keywords": "Edge Orchestrator, Azion API, Gerar Token, Credenciais Azion, Gerenciamento de Credenciais, Automação Edge, Instalação Edge Orchestrator, Azion Console, Configuração de Edge, Orquestração de Serviços",
+    "meta_description": "Aprenda a gerar credenciais e instalar o Edge Orchestrator Agent usando o Azion Console e a Azion API para orquestrar eficientemente seus serviços.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Gere suas credenciais para a instalação do Edge Orchestrator Agent e comece a orquestrar seus serviços.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

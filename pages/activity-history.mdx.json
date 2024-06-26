@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/contas/activity-history.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/gestao-de-contas/activity-history/",
+  "suggest": {
+    "meta_keywords": "Azion, Activity History, Account Activities, User Accountability, Data Stream Integration, Account Anomalies, Decision Making Support, Transparency in Operations, Support Team Contact, Activity Tracking",
+    "meta_description": "Explore o Activity History no Azion Console para rastrear atividades da conta, identificar ações de usuários, integrar com Data Stream e garantir transparência e accountability.",
+    "meta_description_length": 177
+  },
+  "current": {
+    "meta_description": "No Azion Console, você pode acessar o histórico de todas as atividades realizadas na conta por todos os usuários conectados a ela desde a criação da conta.",
+    "meta_keywords": "edge computing, azion, activity history"
+  }
+}

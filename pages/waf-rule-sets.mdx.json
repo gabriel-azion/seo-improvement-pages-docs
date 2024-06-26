@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-firewall/web-application-firewall/waf-rule-sets.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-firewall/web-application-firewall/rule-sets/",
+  "suggest": {
+    "meta_keywords": "Web Application Firewall, WAF Rule Sets, Edge Firewall, Threat Protection, Rules Engine, Real-Time Metrics, Threat Type Configuration, Security Monitoring, Edge Computing, Attack Prevention",
+    "meta_description": "Explore como configurar o Web Application Firewall (WAF) para proteção máxima em Edge Computing com rule sets detalhados, monitoramento de ameaças e integração do Rules Engine.",
+    "meta_description_length": 176
+  },
+  "current": {
+    "meta_description": "Defina seus rule sets de proteção contra ameaças com o Web Application Firewall (WAF) da Azion.",
+    "meta_keywords": "WAF Rule Sets, Edge Computing, Security"
+  }
+}

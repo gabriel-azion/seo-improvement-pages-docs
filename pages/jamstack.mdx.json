@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/arquiteturas/jamstack/jamstack.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/arquitetura/jamstack/implantacao-aplicacoes-jamstack/",
+  "suggest": {
+    "meta_keywords": "Jamstack, arquitetura de sites, performance de sites, escalabilidade, segurança, Azion Edge Computing, Edge Application, Edge Cache, APIs em JavaScript, experiência do desenvolvedor",
+    "meta_description": "Descubra como Jamstack e Azion melhoram a performance de sites usando Edge Computing, Edge Application e Edge Cache para soluções rápidas, seguras e escaláveis.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Use Azion e Jamstack para melhorar as capacidades dos sites com soluções resilientes, seguras e escaláveis.",
+    "meta_keywords": "arquitetura, construção, desenvolvimento, jamstack"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/secure-jornada/troubleshoot/intelligent-dns-monitorar-metricas.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/troubleshoot/edge-dns-monitorar-metricas/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, Real-Time Metrics, produtos de observabilidade, monitorar aplicações, métricas agregadas, hospedar domínios, DNS seguro, WAF, GraphQL API, serviço de DNS",
+    "meta_description": "Explore como utilizar o Edge DNS e produtos de observabilidade da Azion para garantir um monitoramento eficaz e seguro de suas aplicações em tempo real.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Você pode monitorar continuamente suas aplicações através dos produtos de observabilidade da Azion.",
+    "meta_keywords": "observe, métricas, aplicações, seguro, Edge DNS"
+  }
+}

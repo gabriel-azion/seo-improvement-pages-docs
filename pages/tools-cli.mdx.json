@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/devtools/tools-cli.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/desenvolvimento-azion/cli/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, gerenciamento de serviços, plataforma Edge, comandos simples, Next.js, Vue, Angular, desenvolvimento, instalação de CLI, customização CLI",
+    "meta_description": "Explore a Azion CLI para gerenciar aplicações na Plataforma Edge com comandos simples. Suporta Next.js, Vue e Angular. Saiba como instalar e customizar.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "A Azion CLI é uma ferramenta de código aberto que possibilita o gerenciamento dos serviços e recursos na plataforma da Azion.",
+    "meta_keywords": "CLI"
+  }
+}

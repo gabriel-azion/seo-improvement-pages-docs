@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/hosting-edge-site/hosting-edge-site.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/hospedagem-edge-site/",
+  "suggest": {
+    "meta_keywords": "Edge Computing, Edge Functions, Azion, Serverless, Edge Sites, Edge Nodes, Data Stream, SIEM, Edge Application, Hello World Function, Edge Function Hello De Mundo, Hospedagem Edge, Configuração Edge Function",
+    "meta_description": "Descubra como a Edge Computing com funções serverless na Azion permite criar e gerenciar Edge Sites com alta disponibilidade e baixa latência, utilizando Edge Functions Hello World e Data Stream.",
+    "meta_description_length": 195
+  },
+  "current": {
+    "meta_description": "Hospedando um Edge Site",
+    "meta_keywords": "Hospedagem, Edge Site"
+  }
+}

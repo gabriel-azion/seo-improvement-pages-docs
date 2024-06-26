@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/marketplace/integrations/send-event-endpoint.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/send-event-to-endpoint/",
+  "suggest": {
+    "meta_keywords": "Azion Marketplace, Send Event to Endpoint, Edge Functions, serverless, HTTP endpoint, Rules Engine, Edge Firewall, Configure Integration, JSON Args, S3 connection",
+    "meta_description": "Descubra como usar a integração Send Event to Endpoint no Marketplace da Azion para transmitir dados para um endpoint HTTP, configurar Edge Firewall e muito mais.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "A integração transmite dados de uma requisição para um endpoint HTTP.",
+    "meta_keywords": "edge functions, marketplace azion"
+  }
+}

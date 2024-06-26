@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/devtools/local-dev.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/build/desenvolvimento-azion/local-dev/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, desenvolvimento edge, teste local, fluxo de desenvolvimento, deploy progressivo, colaboração desenvolvimento, criação aplicações, adaptação edge, servidor local, depuração eficiente",
+    "meta_description": "Explore como o Azion CLI facilita a execução e teste de aplicações no edge, acelerando a criação, depuração e colaboração em desenvolvimento.",
+    "meta_description_length": 141
+  },
+  "current": {
+    "meta_description": "Através da Azion CLI, é possível executar sua aplicação no edge localmente, trazendo benefícios para o seu desenvolvimento.",
+    "meta_keywords": "edge, javascript"
+  }
+}

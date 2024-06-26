@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/build-jornada/desenvolva-com-azion/guias-frameworks/framework-react.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/cli/frameworks/react/",
+  "suggest": {
+    "meta_keywords": "React, Jamstack, Azion Edge Platform, Edge Functions, Deploy React Application, Static Site Generator, Azion CLI, Development Server, Local Deployment, React Project Deployment",
+    "meta_description": "Aprenda a implantar uma aplicação React com Jamstack na Azion Edge Platform usando Edge Functions. Guia completo desde a criação até a implantação.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Faça o deploy de uma aplicação Jamstack com React.",
+    "meta_keywords": "react, js, jamstack"
+  }
+}

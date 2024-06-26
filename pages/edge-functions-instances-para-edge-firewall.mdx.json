@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-firewall/edge-functions-instances-para-edge-firewall.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-firewall/edge-functions-instances/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Edge Firewall, Serverless, Edge Computing, Behavior Rules, Edge Nodes, Azion, Rules Engine, Edge Application, Scalability",
+    "meta_description": "Ative Edge Functions para executar funções serverless na rede de Edge Nodes da Azion, melhorando resposta e escalabilidade.",
+    "meta_description_length": 123
+  },
+  "current": {
+    "meta_description": "Execute funções serveless em nossa robusta rede distribuída de Edge Nodes, respondendo a eventos mais próximos do usuário final, garantindo maior escalabilidade e disponibilidade.",
+    "meta_keywords": "Edge Functions Instances, Edge Computing"
+  }
+}

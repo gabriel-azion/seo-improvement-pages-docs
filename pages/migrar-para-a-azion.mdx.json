@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/recursos-adicionais/migrar-para-a-azion/migrar-para-a-azion.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/migrar-para-a-azion/",
+  "suggest": {
+    "meta_keywords": "migrar aplicações, Azion, edge application, Edge Functions, template Hello World, domínio personalizado, infraestrutura, passo a passo, serviços de armazenamento, apontar domínio",
+    "meta_description": "Guia completo para migrar sua aplicação para a Azion, abrangendo desde a criação de edge applications até o apontamento de domínios, com suporte técnico especializado.",
+    "meta_description_length": 167
+  },
+  "current": {
+    "meta_description": "Aprenda como você pode trazer suas aplicações e infraestrutura para a Azion.",
+    "meta_keywords": "azion, migrar, domains, staging, domínio"
+  }
+}

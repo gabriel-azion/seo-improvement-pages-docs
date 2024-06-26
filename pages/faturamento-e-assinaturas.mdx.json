@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/gerencie-contas/gerenciar-contas/faturamento-e-assinaturas.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/billing-and-subscriptions/",
+  "suggest": {
+    "meta_keywords": "Billing and Subscriptions, Azion Console, métodos de pagamento, histórico de pagamentos, gestão de faturas, Edge Applications, Edge Functions, configuração de conta, Azion produtos, gerenciamento de assinaturas",
+    "meta_description": "Explore como gerenciar Billing and Subscriptions no Azion Console para faturas, métodos e histórico de pagamentos, e gerencie suas assinaturas de Edge Services.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Descubra como usar Billing and Subscriptions no Azion Console.",
+    "meta_keywords": "faturamento, assinaturas, pagamento"
+  }
+}

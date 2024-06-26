@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/guias/edge-application/ea-clone-edge-application.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/clonar-edge-application/",
+  "suggest": {
+    "meta_keywords": "Edge Application, clonar Edge Application, gerenciar Edge Application, Azion Edge Applications, criação de Edge Application, configuração Edge Application, Azion RTM, guia Edge Application",
+    "meta_description": "Saiba como clonar e gerenciar Edge Applications na Azion, garantindo a mesma configuração eficaz em todas as instâncias clonadas.",
+    "meta_description_length": 129
+  },
+  "current": {
+    "meta_description": "Você pode clonar uma edge application para replicar as mesmas configurações em uma nova application.",
+    "meta_keywords": "edge computing, edge applications"
+  }
+}

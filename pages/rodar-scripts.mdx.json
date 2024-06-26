@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/deploy-jornada/avancado/rodar-scripts/rodar-scripts.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/guias/deploy/avancado/rodar-scripts/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, Edge Orchestrator, Edge Services, Shell Script, Deploy Edge Node, API Usage, Update Edge Service, Azion Console, CLI Installation, Edge Computing",
+    "meta_description": "Aprenda a instalar e configurar a Azion CLI nos seus edge nodes usando Shell Script e gerencie edge services pelo Azion Console ou via API para orquestração eficaz.",
+    "meta_description_length": 164
+  },
+  "current": {
+    "meta_description": "Instale a Azion CLI em seus edge nodes através de um resource do tipo Shell Script configurado dentro de um serviço específico.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

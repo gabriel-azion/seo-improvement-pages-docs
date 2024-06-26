@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/observe-jornada/monitorar-aplicacoes.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/observe/monitorar-aplicacoes/",
+  "suggest": {
+    "meta_keywords": "Real-Time Metrics, Edge Application, métricas em tempo real, Edge Functions, Edge Firewall, monitoramento de aplicações, análise de desempenho, Edge Computing, data stream, gráficos de métricas",
+    "meta_description": "Monitore aplicações em tempo real com Real-Time Metrics, utilizando Edge Application, Edge Functions e Edge Firewall para análise detalhada e segurança.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Use Real-Time Metrics para visualizar dados e monitorar suas aplicações.",
+    "meta_keywords": "azion, edge, observe, observabilidade, métricas, gráficos"
+  }
+}

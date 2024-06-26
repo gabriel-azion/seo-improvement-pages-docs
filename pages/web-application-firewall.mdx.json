@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/pt-br/pages/menu-principal/referencia/secure/edge-firewall/web-application-firewall.mdx",
+  "url": "https://www.azion.com/pt-br/documentacao/documentacao/produtos/secure/edge-firewall/web-application-firewall/",
+  "suggest": {
+    "meta_keywords": "Web Application Firewall, WAF, Edge Firewall, SQL Injection, XSS, RFI, Learning Mode, Blocking Mode, Tuning WAF, WAF Rule Set, Edge Computing",
+    "meta_description": "Descubra o Web Application Firewall (WAF) da Azion para proteção contra SQL Injection, XSS, RFI e outras ameaças, com modos de aprendizagem e bloqueio eficazes.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Proteja suas aplicações contra ameaças como SQL Injection, Remote File Inclusion (RFI), Cross-Site Scripting (XSS) e outras com Azion Web Application Firewall.",
+    "meta_keywords": "web application firewall, waf, security, secure, edge computing"
+  }
+}
