@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-test-locally.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/stage-edge-application-through-hosts-file/",
+  "suggest": {
+    "meta_keywords": "Azion, edge node IP, hosts file configuration, CNAME configuration, domain staging, DNS resolution, test application on edge, domain point to Azion, configure custom domain, edit hosts file",
+    "meta_description": "Learn how to stage and test your application on the edge using Azion by configuring your hosts file for DNS resolution before officially pointing your domain.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "By changing your device's name resolution in the hosts file under etc/hosts, you can test your application on the edge before pointing your domain to Azion.",
+    "meta_keywords": "stage, host, hostname, domain, etc, hosts, name resolution, test"
+  }
+}

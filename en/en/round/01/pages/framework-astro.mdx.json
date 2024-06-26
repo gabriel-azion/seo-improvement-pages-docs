@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/develop-with-azion/frameworks/framework-astro.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/cli/frameworks/astro/",
+  "suggest": {
+    "meta_keywords": "Astro, Edge Functions, Azion platform, Jamstack, static site generator, Edge Application, project deployment, Azion CLI, local development server, Edge Computing",
+    "meta_description": "Learn how to initialize and deploy an Astro project on the Azion platform using Edge Functions, featuring guides on setting up with the Azion CLI and managing deployments.",
+    "meta_description_length": 171
+  },
+  "current": {
+    "meta_description": "Build with Astro.",
+    "meta_keywords": "astro, js, jamstack"
+  }
+}

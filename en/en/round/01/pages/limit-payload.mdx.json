@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/limit-payload.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/limit-payload-size/",
+  "suggest": {
+    "meta_keywords": "Limit Payload Size, Edge Firewall, serverless integration, Azion Marketplace, block payloads, configure integration, secure Edge, function instantiation, payload validation, Content-Length header",
+    "meta_description": "Discover how to limit payload size with an Edge Firewall function at Azion Marketplace. Ensure secure, efficient payload validation and handling.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "The integration uses an edge function to check the Content-Length header of request data and block payloads exceeding a set limit.",
+    "meta_keywords": "payload, requisition, limit, edge"
+  }
+}

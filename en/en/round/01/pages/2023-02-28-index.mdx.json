@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/runtime-apis/structured-clone/2023-02-28-index.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/edge-application/edge-functions/runtime-apis/javascript/structured-clone/",
+  "suggest": {
+    "meta_keywords": "Structured Clone Algorithm, JavaScript, DataCloneError, object duplication, postMessage, IndexedDB, Worker communication, JavaScript Objects, Property Descriptors, Prototype Chain",
+    "meta_description": "Explore the Structured Clone Algorithm in JavaScript, essential for duplicating objects and handling exceptions like DataCloneError, useful in various APIs.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "The structured clone algorithm is a mechanism in JavaScript that can be used to duplicate complex objects. It's commonly used when invoking structuredClone() or when transferring data between Workers via postMessage(), storing objects with IndexedDB, or copying objects for other APIs. When cloning an object, the algorithm recursively traverses through the input object while keeping track of previously visited references in a map to avoid getting stuck in infinite loops.",
+    "meta_keywords": "JavaScript Runtime APIs"
+  }
+}

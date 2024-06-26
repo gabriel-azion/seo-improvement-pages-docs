@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/accounts/users-management.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/accounts/users-management/",
+  "suggest": {
+    "meta_keywords": "Users Management, Azion Console, Account Owner, Add Users, Multi-Factor Authentication, User Roles, Security Settings, User Profiles, Team Permissions, User Access Control",
+    "meta_description": "Explore Azion Console's Users Management feature for adding, modifying, and securing user access with roles, MFA, and team permissions.",
+    "meta_description_length": 135
+  },
+  "current": {
+    "meta_description": "The Users Management functionality on Azion Console gives you tools to efficiently manage users in your account.",
+    "meta_keywords": "Users"
+  }
+}

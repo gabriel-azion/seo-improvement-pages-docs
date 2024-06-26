@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/build-with-edge-app/build-with-edge-apps.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/build/build-an-application/",
+  "suggest": {
+    "meta_keywords": "Edge Application, Edge Computing, Azion Edge, Application Deployment, TLS Encryption, Edge Functions, Configure Edge Application, Automate Edge, Edge Security, Application Configuration",
+    "meta_description": "Explore how to deploy and configure your Edge Applications with Azion's comprehensive tools, enhancing security, automation, and performance.",
+    "meta_description_length": 141
+  },
+  "current": {
+    "meta_description": "Boost the performance of your applications with Azion Edge Application.",
+    "meta_keywords": "build, edge application, edge network, edge computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/work-with-domains/migrate-ns.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/migrate-ns-to-azion/",
+  "suggest": {
+    "meta_keywords": "Edge DNS, DNS management, nameservers, DNS resolution, Azion DNS zones, authoritative nameservers, DNS records, domain management",
+    "meta_description": "Leverage Azion Edge DNS to efficiently manage DNS zones and records, enhancing reliability and control over your domain's DNS settings.",
+    "meta_description_length": 135
+  },
+  "current": {
+    "meta_description": "Migrate your authoritative nameservers to Azion for improved control and reliability of your DNS settings at the edge.",
+    "meta_keywords": "domains, nameserver, DNS, resolution, ANAME, zones"
+  }
+}

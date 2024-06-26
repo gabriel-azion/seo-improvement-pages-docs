@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-firewall/mtls.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-firewall/mtls/",
+  "suggest": {
+    "meta_keywords": "mutual transport layer security, mTLS, digital certificates, TLS handshake, open banking, HTTPS, secure connections, trusted CA, Edge Application, Azion mTLS configuration",
+    "meta_description": "Explore how mTLS ensures secure transactions in Edge Applications at Azion, using digital certificates and TLS for robust mutual authentication.",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "Understand how mTLS works at Azion.",
+    "meta_keywords": "mutual transport layer security, mtls, tls handshake, open banking, certificates, digital certificates"
+  }
+}

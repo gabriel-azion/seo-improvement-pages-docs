@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/runtime-apis/writable-stream/2023-03-30-index.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/edge-application/edge-functions/runtime-apis/javascript/writable-stream/",
+  "suggest": {
+    "meta_keywords": "WritableStream, Streams API, JavaScript, streaming data, web development, backpressure mechanism, data stream handling, WritableStream methods, WritableStream properties, web APIs",
+    "meta_description": "Explore the WritableStream interface of the Streams API, crucial for handling data streaming with backpressure, properties, and methods in web development.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "The WritableStream interface is a part of the Streams API that provides a standardized way to write streaming data to a sink(destination). It comes with its own queuing and backpressure mechanism to ensure that the data is written in an efficient way.",
+    "meta_keywords": "JavaScript Runtime APIs"
+  }
+}

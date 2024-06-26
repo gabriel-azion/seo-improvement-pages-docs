@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/request-data-into-header.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/process-request-data-into-headers/",
+  "suggest": {
+    "meta_keywords": "Azion Marketplace, Edge Functions, Process Request Data, serverless integration, regex validation, Edge Firewall, configure integration, curl command examples, HTTP headers manipulation, secure edge computing",
+    "meta_description": "Discover the Process Request Data Into Header function at Azion Marketplace for secure request validation and HTTP headers manipulation using Edge Functions.",
+    "meta_description_length": 157
+  },
+  "current": {
+    "meta_description": "This function stops a request if any request body field is empty, using regex to validate the existence and pattern of the field.",
+    "meta_keywords": "request data from header, edge functions, edge computing"
+  }
+}

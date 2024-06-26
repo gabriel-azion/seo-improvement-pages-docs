@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/observe/siem/siem.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/siem-azion/",
+  "suggest": {
+    "meta_keywords": "Azion SIEM, Real-Time Metrics, Real-Time Events, security analysis, Edge Applications, SIEM dashboards, SIEM alerts, application monitoring, access volume analysis, health degradation",
+    "meta_description": "Explore Azion SIEM for advanced monitoring with Real-Time Metrics and Events, optimizing security and performance of Edge Applications.",
+    "meta_description_length": 135
+  },
+  "current": {
+    "meta_description": "Analyze data from dashboards with raw and aggregated data.",
+    "meta_keywords": "siem, observe, observability, metrics, data, events"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/develop-with-azion/frameworks/framework-angular.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/cli/frameworks/angular/",
+  "suggest": {
+    "meta_keywords": "Angular, Edge Functions, Azion Edge Platform, Web Framework, Angular CLI, Local Development Server, Deploy Angular to Edge, JavaScript Development, Edge Application, Angular Project",
+    "meta_description": "Learn to initialize and deploy your Angular project on the Azion Edge Platform using Edge Functions, enhancing your web development capabilities.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "Build with Angular.",
+    "meta_keywords": "angular, js, jamstack"
+  }
+}

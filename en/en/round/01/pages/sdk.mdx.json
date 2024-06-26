@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/automate/sdk.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/automate/sdk/",
+  "suggest": {
+    "meta_keywords": "Azion SDK, Go programming, API integration, Edge Firewall, developer toolkit, secure applications, Azion services, Go developers, security management, Azion API",
+    "meta_description": "Explore the Azion SDK for Go, designed to integrate Azion's API services into Go apps, enhancing security and efficiency in development.",
+    "meta_description_length": 136
+  },
+  "current": {
+    "meta_description": "The Azion SDK for Go serves as a powerful developer toolkit designed to streamline the integration of Azion's API services into Go programming language applications.",
+    "meta_keywords": "edge, security"
+  }
+}

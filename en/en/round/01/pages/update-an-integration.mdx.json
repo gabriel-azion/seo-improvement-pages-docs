@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/additional-resources/templates-and-integrations/update-an-integration.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/marketplace/update-an-integration/",
+  "suggest": {
+    "meta_keywords": "Azion Marketplace, update integration, Edge Functions, installation guide, Azion Console, latest version, integration update, Marketplace integrations, Edge Computing, integration version control",
+    "meta_description": "Explore how to check and update Marketplace integrations in the Azion Console, ensuring you always utilize the latest versions with Edge Functions.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "This documentation will guide you to check the availability of an update and how to install it.",
+    "meta_keywords": "marketplace, edge computing"
+  }
+}

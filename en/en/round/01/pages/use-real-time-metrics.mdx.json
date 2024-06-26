@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/real-time-metrics/use-real-time-metrics.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/use-real-time-metrics/",
+  "suggest": {
+    "meta_keywords": "Real-Time Metrics, Azion Console, Real-Time Manager, Edge Computing, View Charts, Data Analysis, Real-time Data, Security, Data Events, Data Configuration",
+    "meta_description": "Explore Real-Time Metrics on Azion, accessing real-time data and charts for efficient observation and security with the Real-Time Manager and Console.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Find out how to use Real-Time Metrics and view your charts on Azion.",
+    "meta_keywords": "real time, edge computing, observe, observability, metrics, data, events, security"
+  }
+}

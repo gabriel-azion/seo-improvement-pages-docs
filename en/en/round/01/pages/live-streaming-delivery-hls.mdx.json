@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/architectures/live-streaming/live-streaming-delivery-hls.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/architecture/live-streaming-delivery/live-streaming-delivery-with-hls/",
+  "suggest": {
+    "meta_keywords": "Edge Computing, live streaming delivery, HLS, real-time transcoding, adaptive bitrate streaming, content delivery network, Azion Edge Platform, stream protection, low latency streaming, scalable content delivery",
+    "meta_description": "Explore how Edge Computing optimizes live streaming with HLS, real-time transcoding, and adaptive bitrate streaming for seamless, scalable, and secure content delivery.",
+    "meta_description_length": 168
+  },
+  "current": {
+    "meta_description": "This architecture leverages advanced features like real-time transcoding, adaptive bitrate streaming, and intelligent caching, enabling seamless experiences for viewers.",
+    "meta_keywords": "architecture, content delivery, hls, edge computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/send-event-endpoint.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/send-event-to-endpoint/",
+  "suggest": {
+    "meta_keywords": "Azion Marketplace, Send Event to Endpoint, serverless integration, HTTP endpoint streaming, Edge Firewall, Rules Engine, JSON configuration, real-time data streaming, secure token, API data transmission",
+    "meta_description": "Discover the Azion Send Event to Endpoint integration in the Marketplace, enabling effortless streaming of request data to HTTP endpoints, configured via JSON.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "This integration enables stream request data to an HTTP endpoint.",
+    "meta_keywords": "live streaming, edge functions, marketplace azion"
+  }
+}

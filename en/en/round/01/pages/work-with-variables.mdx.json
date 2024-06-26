@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/configure-node/work-with-variables/work-with-variables.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/deploy/work-with-variables/",
+  "suggest": {
+    "meta_keywords": "Edge Orchestrator, Azion Console, API, edge service variables, edge node variables, deploy, orchestrator",
+    "meta_description": "Explore how to utilize variables in Edge Orchestrator with Azion Console and API to manage and override edge service and node variables effectively.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "aaa",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

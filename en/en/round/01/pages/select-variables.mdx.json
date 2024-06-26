@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/data-stream/advanced-configurations/select-variables.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/observe/data-stream-select-variables/",
+  "suggest": {
+    "meta_keywords": "Data Stream, custom template, Azion, stream configuration, Edge Applications, template variables, connector configuration, API data management, real-time data streaming, data streaming guide",
+    "meta_description": "Explore efficient Data Stream configurations using custom and pre-set templates on Azion to optimize data variables and connectors for your edge applications.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Find the best option of how to choose variables to stream your data.",
+    "meta_keywords": "Data Stream, logs, variables, stream"
+  }
+}

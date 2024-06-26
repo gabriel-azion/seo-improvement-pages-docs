@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/data-stream/integrations/connector-azure-monitor.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/endpoint-azure-monitor/",
+  "suggest": {
+    "meta_keywords": "Azure Monitor, Data Stream configuration, Real-Time Manager, Azure Log Analytics, connector endpoint, Azure integration, Data Stream setup, Data Stream Azure Monitor, Azure Data ingestion",
+    "meta_description": "Learn how to configure Azion Data Stream with Azure Monitor using Real-Time Manager or Console. Complete guide on setting endpoints and log types.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Hands-on to use Azure Monitor to receive data from Azion Data Stream.",
+    "meta_keywords": "Data Stream, connector, endpoint, azure, monitor"
+  }
+}

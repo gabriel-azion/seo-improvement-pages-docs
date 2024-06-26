@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/nextjs-static-boilerplate.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/nextjs-static-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Next.js Static Boilerplate, Azion Marketplace, Edge Functions, Static SPA Deployment, GitHub Integration, Next.js Version 14.1.4, Next.js static exports, Edge Application, Server Components, Edge Deployment",
+    "meta_description": "Deploy Next.js SPA using the Azion Next.js Static Boilerplate with automated edge deployment, GitHub integration, and advanced Next.js features for optimal performance.",
+    "meta_description_length": 168
+  },
+  "current": {
+    "meta_description": "The Next.js Static Boilerplate provides an automation solution to build a static Next.js application on Azion.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/automate/api/automate-api.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/deploy/automate/api/",
+  "suggest": {
+    "meta_keywords": "Azion API, automate management, developer experience, API documentation, Edge Services API, credentials API, edge nodes API, resource automation",
+    "meta_description": "Explore Azion's API for seamless automation of credentials, edge services, and nodes, designed to boost developer experience and resource management.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Automate credentials, edge services, resources, and edge nodes through Azion API.",
+    "meta_keywords": "deploy, orchestrator, logs"
+  }
+}

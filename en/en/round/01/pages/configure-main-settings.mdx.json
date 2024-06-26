@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/data-stream/edit-stream/configure-main-settings.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/use-data-stream/",
+  "suggest": {
+    "meta_keywords": "Data Stream, Azion Console, Real-Time Manager, Configure Stream, API, Endpoint Configuration, Stream Templates, Stream Settings, Data Observability, Data Source Options",
+    "meta_description": "Learn to configure your Azion Data Stream settings using the Console, Real-Time Manager, or API. Discover how to manage templates, sources, and endpoints effectively.",
+    "meta_description_length": 166
+  },
+  "current": {
+    "meta_description": "Find out how to configure the main settings of a stream.",
+    "meta_keywords": "Data Stream, how to, use, stream, event, logs, observe, observability"
+  }
+}

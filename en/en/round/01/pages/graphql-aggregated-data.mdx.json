@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/graphql/graphql-aggregated-data.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/graphql-aggregated-data/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, aggregated data, structured data, querying data, data analytics, timestamp query, HTTP datasets, sum operator, Postman GraphQL, data aggregation",
+    "meta_description": "Explore how to query aggregated data using the GraphQL API, focusing on structured data analysis and efficient sum operations with HTTP datasets.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "Aggregated data can also be considered as structured data that have been clustered — they go through modifications to allow a better analytic processing seeking a segmented analysis.",
+    "meta_keywords": "graphql, aggregated, data"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/real-time-events/integrations/grafana-best-practices.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/observe/best-practices-grafana/",
+  "suggest": {
+    "meta_keywords": "Azion Grafana plugin, Grafana best practices, Grafana dashboard customization, Azion data integration, Grafana time series, Grafana visualize data, Grafana documentation, ISO8601 format, Grafana query variables, Grafana annotations",
+    "meta_description": "Explore how to customize Grafana dashboards using the Azion data source plugin with best practices for data integration, visualization, and more.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "While using the Azion data source plugin on Grafana, you can use some best practices to achieve better results.",
+    "meta_keywords": "azion, edge, observe, observability, logs, grafana, analytics"
+  }
+}

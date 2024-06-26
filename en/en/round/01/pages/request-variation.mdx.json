@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/request-variation.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/request-variation-controller/",
+  "suggest": {
+    "meta_keywords": "Request Variation Controller, Hash Generator, Hash Validator, Edge Application, Edge Computing, signed cookies, security integration, Azion Marketplace, cookie encryption, request variations",
+    "meta_description": "Explore the Request Variation Controller on Azion Marketplace, including Hash Generator and Hash Validator, to secure Edge Applications with signed cookies.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "The Request Variation Controller integration is, in fact, two integrations that work together to protect your online assets.",
+    "meta_keywords": "protections, signed cookies, bots, spam, edge computing"
+  }
+}

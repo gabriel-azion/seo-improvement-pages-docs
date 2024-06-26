@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/accounts/social-login.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/accounts/social-login/",
+  "suggest": {
+    "meta_keywords": "Social Login, user authentication, third-party login, social network integration, fast user registration, easy mobile login, user data security, Azion platform, Google accounts, GitHub accounts",
+    "meta_description": "Explore how Social Login on the Azion platform uses social network data for easy and secure user logins and fast account setups with Google and GitHub.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "Social Login is an option of single sign-on that uses existing information from a social network to log in to third-party sites without the need to create a new login account for that particular site. It links accounts from one or more social networking services to a site, simplifying end users' logins and providing increasingly reliable information.",
+    "meta_keywords": "social login, contas, autenticação de usuários"
+  }
+}

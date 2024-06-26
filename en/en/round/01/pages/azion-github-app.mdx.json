@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/import-from-github/azion-github-app.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/azion-github-app/",
+  "suggest": {
+    "meta_keywords": "Azion GitHub App, GitHub integration, edge applications, GitHub repository management, continuous deployment, GitHub App installation, GitHub permissions, Azmediation access, repository permissions, GitHub account settings",
+    "meta_description": "Learn how to integrate and manage the Azion GitHub App for seamless GitHub repository management and continuous deployment of edge applications.",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "This documentation explains how the Azion GitHub App works and how to manage it according to your preferences.",
+    "meta_keywords": "Azion, edge applications, edge computing, onboarding, import from GitHub"
+  }
+}

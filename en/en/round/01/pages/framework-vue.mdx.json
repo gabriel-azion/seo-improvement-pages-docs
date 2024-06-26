@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/develop-with-azion/frameworks/framework-vue.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/cli/frameworks/vue/",
+  "suggest": {
+    "meta_keywords": "Vue.js, JavaScript Framework, Front-End Development, Edge Functions, Azion Platform, Edge Application Deployment, Local Development Server, Vue Project Initialization, Web Application Building, Azion Edge",
+    "meta_description": "Explore Vue.js for building seamless web interfaces with a guide on initializing and deploying your project using Azion Edge Functions and Platform.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "Build with Vue.",
+    "meta_keywords": "vue, js, jamstack"
+  }
+}

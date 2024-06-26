@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/build/edge-application/real-time-purge.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/edge-application/real-time-purge/",
+  "suggest": {
+    "meta_keywords": "Real-Time Purge, Edge Cache, Tiered Cache, cache purging, URL purge, cache key purge, wildcard purge, content caching, Azion purge options, Azion cache management",
+    "meta_description": "Explore how Real-Time Purge at Azion enables immediate cache deletion, ensuring up-to-date content with Edge Cache and Tiered Cache management.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Through Real-Time Purge you can instantly delete your content cache on Azion.",
+    "meta_keywords": "edge applications, real-time purge"
+  }
+}

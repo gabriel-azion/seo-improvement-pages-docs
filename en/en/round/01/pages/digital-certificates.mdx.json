@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/transport-layer-security/digital-certificates.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/digital-certificates/",
+  "suggest": {
+    "meta_keywords": "Digital Certificates, TLS certificates, Certificate Authority, CSR, Azion Console, Real-Time Manager, data protection, secure domains, compliance, SSL certificate",
+    "meta_description": "Learn how to generate and submit a Certificate Signing Request (CSR) through Azion to secure your domains with TLS certificates for enhanced security and compliance.",
+    "meta_description_length": 165
+  },
+  "current": {
+    "meta_description": "Add a certificate to your account to increase security and reliability.",
+    "meta_keywords": "secure, configuration, settings, domains"
+  }
+}

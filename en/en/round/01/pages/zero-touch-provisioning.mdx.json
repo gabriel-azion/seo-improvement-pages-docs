@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/automate/zero-touch-provisioning/zero-touch-provisioning.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/deploy/automate/zero-touch-provisioning/",
+  "suggest": {
+    "meta_keywords": "Zero-touch Provisioning, Edge Orchestrator, Automate Deployment, IoT Device Management, Multi-cloud Deployment, Edge Infrastructure, Automated Provisioning, Edge Node Configuration, Azion Edge, Cloud Management Service",
+    "meta_description": "Explore Azion Edge Orchestrator for automated deployment and zero-touch provisioning across on-premises, multi-cloud, and IoT platforms.",
+    "meta_description_length": 136
+  },
+  "current": {
+    "meta_description": "Automate the deployment on-premises, multi-cloud, and for IoT devices through Azion Edge Orchestrator.",
+    "meta_keywords": "deploy, orchestrator, provisioning, ztp"
+  }
+}

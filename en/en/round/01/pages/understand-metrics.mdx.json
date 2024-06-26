@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/data-stream/troubleshoot/understand-metrics.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/observe/troubleshoot/data-stream-understand-metrics/",
+  "suggest": {
+    "meta_keywords": "Data Stream, Real-Time Metrics, GraphQL API, Realtime Events, Azion Observe, stream monitoring, data analysis, API queries, aggregated data, raw data logs",
+    "meta_description": "Explore Real-Time Metrics, GraphQL API, and Realtime Events with Azion Observe to monitor and analyze Data Stream performance effectively.",
+    "meta_description_length": 138
+  },
+  "current": {
+    "meta_description": "You can continuously monitor your streams through Azion Observe products.",
+    "meta_keywords": "observe, metrics, streaming"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/hello-world.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/hello-world/",
+  "suggest": {
+    "meta_keywords": "Hello World integration, Azion Marketplace, edge computing, serverless, edge application, install edge application, edge technology, programming introduction",
+    "meta_description": "Explore the Hello World integration at Azion Marketplace, a simple yet effective way to learn about serverless edge applications and edge computing technology.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "Hello World is a integration to introduce the new users to the edge.",
+    "meta_keywords": "helloworld, edge computing"
+  }
+}

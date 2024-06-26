@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/accounts/activity-history.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/accounts/activity-history/",
+  "suggest": {
+    "meta_keywords": "Azion Console, Activity History, user accountability, account insights, data stream integration, activity filtering, user actions, account security, Azion support, real-time logging",
+    "meta_description": "Explore Azion Console to access and manage Activity History for insights into user actions, enhance security, and integrate with Data Stream.",
+    "meta_description_length": 141
+  },
+  "current": {
+    "meta_description": "On Azion Console, you can access the history of all activities performed on the account and by all the users connected to the main account.",
+    "meta_keywords": "edge computing, azion, activity history"
+  }
+}

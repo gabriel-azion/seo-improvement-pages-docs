@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/architectures/edge-application/application-acceleration.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/architectures/edge-application/application-acceleration/",
+  "suggest": {
+    "meta_keywords": "application acceleration, edge computing, edge application, api performance, caching strategies, HTTP methods, edge cache, rules engine, Azion, compliance and security",
+    "meta_description": "Discover how Application Acceleration at Azion enhances API performance and compliance through edge computing, caching, and optimized HTTP methods.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Use Application Accelerator do enhance application an API performance.",
+    "meta_keywords": "edge, applications, web applications, api, acceleration"
+  }
+}

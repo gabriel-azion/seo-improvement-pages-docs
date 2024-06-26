@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/hcaptcha.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/hcaptcha/",
+  "suggest": {
+    "meta_keywords": "hCaptcha, edge computing, bot protection, CAPTCHA integration, Azion Marketplace, security enhancements, spam prevention, automated attacks, user verification, edge nodes",
+    "meta_description": "Explore how hCaptcha integration on Azion's edge nodes enhances security by preventing spam and bot abuse, while streamlining user verification processes.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "hCaptcha is an integration to protect your assets from bot attacks, SPAM, and others.",
+    "meta_keywords": "edge computing, hCaptcha, Captcha, spam, bots"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/runtime-apis/writable-stream-default-writer/2023-01-31-index.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/edge-application/edge-functions/runtime-apis/javascript/stream-default-writer/",
+  "suggest": {
+    "meta_keywords": "WritableStreamDefaultWriter, Streams API, JavaScript streams, WritableStream.getWriter, web development, JavaScript APIs, web streaming methods, stream handling, stream interfaces, data streaming JavaScript",
+    "meta_description": "Explore the WritableStreamDefaultWriter from the Streams API, including methods like write, close, and abort, and learn how it manages data streams effectively.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Learn about WritableStreamDefaultWriter.",
+    "meta_keywords": "JavaScript Runtime APIs"
+  }
+}

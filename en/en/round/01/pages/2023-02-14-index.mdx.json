@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/nextjs/2023-02-14-index.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/azion-edge-runtime/compatibility/nextjs/",
+  "suggest": {
+    "meta_keywords": "Next.js compatibility, Azion Edge Platform, SSR, SSG, Middleware Features, Static Generation, Server-side Rendering, Next.js Routing, Next.js Performance, Next.js Integrations",
+    "meta_description": "Discover how various Next.js versions perform on the Azion Edge Platform, highlighting compatibility, SSR, SSG, and essential middleware features.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Explore the compatibility of different versions of Next.js with Azion Edge Platform.",
+    "meta_keywords": "Next.js, Azion Edge Platform, Compatibility, Static Pages, SSR, SSG, Edge API Routes, Dynamic Routes, Middleware, Next configs, i18n routing, Custom errors, React Framework, Modern Applications, Routing, Data Fetching, Integrations"
+  }
+}

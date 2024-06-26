@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/cli/cli-running-cli-on-mac.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/cli-running-macos/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, macOS installation, security settings macOS, system preferences macOS, allow CLI macOS, command line tools macOS, macOS CLI configuration, CLI troubleshooting macOS, AzionCLI commands, macOS CLI authorization",
+    "meta_description": "Step-by-step guide to configuring Azion CLI on macOS, including security settings adjustment and CLI commands execution.",
+    "meta_description_length": 120
+  },
+  "current": {
+    "meta_description": "Learn how to run Azion CLI on macOS.",
+    "meta_keywords": "cli"
+  }
+}

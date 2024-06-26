@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/console-kit/console-kit.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/console-kit/",
+  "suggest": {
+    "meta_keywords": "Azion Console Kit, Vue/Vite, Tailwind, PrimeVue, front-end development, custom Azion interface, GitHub project, deploy on edge, Edge Computing Platform, Azion API integration",
+    "meta_description": "Discover the Azion Console Kit, a Vue/Vite and Tailwind-based development kit for customizing and deploying interfaces on the Azion Edge Computing Platform.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "Developed with Vue/Vite, PrimeVue, and Tailwind, Azion Console Kit is a front-end development kit used for crafting a customized Azion Console interface.",
+    "meta_keywords": "edge, console, development, interface, vue, primevue"
+  }
+}

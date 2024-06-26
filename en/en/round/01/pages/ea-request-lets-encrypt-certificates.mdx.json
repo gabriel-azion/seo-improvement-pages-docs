@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-request-lets-encrypt-certificates.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/how-to-generate-a-lets-encrypt-certificate/",
+  "suggest": {
+    "meta_keywords": "Let's Encrypt, TLS certificate, Azion, Edge DNS, DNS management, CNAME record, SSL certificate, digital certificate management, HTTPS security, domain security",
+    "meta_description": "Learn how to secure your edge application with a free Let's Encrypt TLS certificate managed by Azion, including setup in Edge DNS and external DNS.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Discover how you can generate a free TLS certificate issued by Let's Encrypt and automatically managed by Azion to secure your edge application.",
+    "meta_keywords": "certificate, ssl, tls, let's encrypt, domain"
+  }
+}

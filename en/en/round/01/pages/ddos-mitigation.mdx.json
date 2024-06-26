@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-firewall/ddos-protection/ddos-mitigation.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-firewall/ddos-protection/ddos-mitigation/",
+  "suggest": {
+    "meta_keywords": "DDoS Protection, Edge Firewall, security, threat detection, automated mitigation, real-time attack mitigation, botnet attacks, Edge DNS, network security, zero-trust security",
+    "meta_description": "Explore how Azion's Edge Firewall offers real-time DDoS Protection and threat mitigation, ensuring robust security through automated, scalable solutions.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Azion Edge Firewall has native or programmable automated threat detection and blocking mechanisms that can be integrated with third-party security services and intelligence databases for complete, low-latency protection.",
+    "meta_keywords": "ddos, protection, attacks, security, mitigation"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/wordpress-instacreator.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/wordpress-instacreator/",
+  "suggest": {
+    "meta_keywords": "WordPress InstaCreator, Azion Marketplace, AWS Infrastructure, Edge Application, Automated WordPress Setup, EC2 Instance, CloudFormation, Application Accelerator, Edge Cache, Image Processor",
+    "meta_description": "Discover how WordPress InstaCreator enhances your website deployment on Azion Marketplace using AWS Infrastructure for fast, scalable Edge Applications.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "WordPress InstaCreator enables the automated creation of a WordPress project from scratch.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

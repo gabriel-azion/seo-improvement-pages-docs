@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/architectures/edge-application/serverless-apps.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/architectures/edge-application/serverless-applications/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Platform, serverless computing, Edge Functions, Edge Application, scalable edge solutions, Edge Cache, application delivery, Edge SQL, Edge Storage, performance optimization",
+    "meta_description": "Explore serverless computing with Azion Edge Platform to build responsive applications using Edge Functions, Edge Cache, and Edge SQL for optimal performance.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Leverage Azion Edge Platform to create serverless applications. Replace legacy CDNs with edge-native content for improved speed, reliability, and cost efficiency.",
+    "meta_keywords": "edge, applications, web applications, api, content delivery, cdn, serverless, Azion"
+  }
+}

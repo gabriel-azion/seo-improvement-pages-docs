@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/observe/real-time-metrics/historical-real-time-metrics/historical-real-time-metrics.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/observe/historical-real-time-metrics/",
+  "suggest": {
+    "meta_keywords": "Real-Time Metrics, Historical Real-Time Metrics, data analysis, Azion products, application performance, real-time data access, security threats, troubleshooting, Azion, metrics monitoring",
+    "meta_description": "Explore Historical and New Real-Time Metrics for in-depth analysis and monitoring of your Azion-configured applications, ensuring optimal performance and security.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "Historical Real-Time Metrics is an Observe product that provides you with real time access to metrics, through graphs, so you can analyze the events of your applications and products configured on Azion.",
+    "meta_keywords": "real time, edge computing, observe, observability, metrics, data, events"
+  }
+}

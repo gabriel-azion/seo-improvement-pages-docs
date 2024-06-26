@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/real-time-metrics/integrations/grafana-plugin-custom-dash.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/azion-plugin-grafana-custom-dash/",
+  "suggest": {
+    "meta_keywords": "Azion, Grafana, dashboard customization, data visualization, Grafana plugin, integrate Grafana guide, Azion data source, Grafana best practices, Grafana visualizations, data analytics",
+    "meta_description": "Enhance your data analysis with the Azion data source plugin for Grafana, offering advanced dashboard customization and visualization features.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "The Azion data source plugin on Grafana allows you visualize the data from your existing applications on Azion on a Grafana dashboard.",
+    "meta_keywords": "azion, edge, observe, observability, logs, grafana, analytics"
+  }
+}

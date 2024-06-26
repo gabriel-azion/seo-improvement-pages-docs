@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-configure-cache-policies.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/cache-settings/",
+  "suggest": {
+    "meta_keywords": "Edge Application, cache settings, TTL, bypass cache, forward cookies, Azion Console, Rules Engine, cache policy customization, Real-Time Manager, Application Accelerator",
+    "meta_description": "Explore how to customize cache policies with Azion Edge Application using the Rules Engine for enhanced performance and flexibility in settings like TTL, bypass cache, and cookie forwarding.",
+    "meta_description_length": 190
+  },
+  "current": {
+    "meta_description": "Learn how you can optimize processing times by defining the time-to-live (TTL) for cached content at the origin and at the browser, bypass origin cache settings, and forward cookies using Application Accelerator for Edge Application.",
+    "meta_keywords": "edge cache, edge computing, ttl, bypass cache, forward cookies"
+  }
+}

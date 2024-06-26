@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/debugging-functions-graphql/debug-functions-gql.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/debugging-functions-graphql/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, debugging functions, runtime errors, API debugging guide, query GraphQL, Postman GraphQL, API response handling, JavaScript errors, function debugging process, error identification",
+    "meta_description": "Learn to use the GraphQL API for debugging functions, handling runtime errors, and efficiently querying with Postman for accurate error identification.",
+    "meta_description_length": 151
+  },
+  "current": {
+    "meta_description": "You can use the debugging process to identify errors in your functions.",
+    "meta_keywords": "functions, debugging, runtime, graphql, api"
+  }
+}

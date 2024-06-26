@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/configure-node/install-orch-agent/install-orch-agent.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/deploy/install-orchestrator-agent/",
+  "suggest": {
+    "meta_keywords": "Edge Orchestrator, Edge Node, installation, download, Azion, download Edge Orchestrator, Linux, FreeBSD, MacOS, command line installation",
+    "meta_description": "Learn how to download and install the Azion Edge Orchestrator for various OS like Linux, FreeBSD, and MacOS, including command line instructions.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "To begin the Edge Node installation process, you must download the Edge Orchestrator installation binary of your choice.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

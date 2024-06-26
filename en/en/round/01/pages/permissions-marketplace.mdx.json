@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/marketplace/permissions-marketplace.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/marketplace/permissions-marketplace/",
+  "suggest": {
+    "meta_keywords": "Azion Marketplace, Edge Application, Rules Engine, Edge Integrations, Permissions, Edge Computing, Marketplace Integration, Template Configuration, Edge Permissions, Edge Deployment",
+    "meta_description": "Explore how to manage permissions for deploying integrations and templates via the Azion Marketplace to configure and optimize your edge applications.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Permissions needed to install Azion Marketplace solution.",
+    "meta_keywords": "permissions, help, edge computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/network-layer-protection/blacklists-ip-addresses-edge/create-blocklists.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/blocklists-ip-addresses-edge/",
+  "suggest": {
+    "meta_keywords": "Network Layer Protection, Network Lists, Edge Firewall Rules, IP address management, ASN, geolocation filter, Azion edge security, blocklists, allowlists, Edge Application protection",
+    "meta_description": "Learn how to manage Network Lists in Azion's Edge Firewall for enhanced network layer security, including creation, application, and rule setting actions.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "Manage lists of IPs, ASNs, and geolocations from accessing your applications at the edge with Network Lists.",
+    "meta_keywords": "edge computing, network layer protection, secure, network lists, network layer security"
+  }
+}

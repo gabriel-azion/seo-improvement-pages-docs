@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/import-from-github/import-from-github.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/import-an-existing-project-from-github/",
+  "suggest": {
+    "meta_keywords": "Azion, GitHub import, edge computing, edge application deployment, Azion GitHub App, edge platform frameworks support, continuous deployment, managing edge applications, Next.js, custom domain configuration",
+    "meta_description": "Learn how to import and deploy edge applications on Azion's platform using GitHub, manage applications, and utilize supported frameworks like Next.js for enhanced performance.",
+    "meta_description_length": 175
+  },
+  "current": {
+    "meta_description": "This documentation assists you in importing your own GitHub repository to build and deploy an edge application on Azion's edge.",
+    "meta_keywords": "Azion, edge applications, edge computing, onboarding, import from GitHub"
+  }
+}

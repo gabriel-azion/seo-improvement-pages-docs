@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/configure-node/bind-service/bind-service.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/deploy/bind-service-node/",
+  "suggest": {
+    "meta_keywords": "Edge Services, Azion API, Edge Node Binding, Deploy Edge Service, Azion Console, API Integration, Edge Nodes Management, Configure Edge Services, Edge Node Connection, Edge Node Configuration",
+    "meta_description": "Learn how to deploy and manage Edge Services via Azion API and Azion Console, effectively binding services to edge nodes for optimized performance.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Edge Services allows orchestrated services to be managed on your own edge nodes. To do so, you must have an edge service created and to bind it to an edge node.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

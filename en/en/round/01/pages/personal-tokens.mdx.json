@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/accounts/personal-tokens.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/accounts/personal-tokens/",
+  "suggest": {
+    "meta_keywords": "Personal Tokens, Azion Console, API authentication, CLI commands, secure authentication, token expiration, create personal token, token scope, manage personal tokens, Azion API",
+    "meta_description": "Learn how to create and manage Personal Tokens in Azion Console for secure API and CLI access, with details on expiration, scope, and security.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Personal Tokens are a string of characters used to authenticate your user and access to certain interfaces and tools.",
+    "meta_keywords": "personal token"
+  }
+}

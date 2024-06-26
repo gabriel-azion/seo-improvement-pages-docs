@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/htmx-minimal.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/htmx-boilerplate/",
+  "suggest": {
+    "meta_keywords": "HTMX Boilerplate, Edge Functions, Azion Marketplace, GitHub integration, Edge Application setup, Azion Console, Continuous Deployment, Edge Computing setup, Edge Platform deployment, Application Configuration",
+    "meta_description": "Deploy the HTMX Boilerplate on Azion Edge Platform, enabling GitHub integration for continuous deployment and seamless management through Azion Console.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Deploy and test a minimal example of the HTMX library in Azion Edge Platform.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

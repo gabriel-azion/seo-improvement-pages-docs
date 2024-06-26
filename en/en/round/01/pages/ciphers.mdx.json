@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/transport-layer-security/ciphers.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/ciphers/",
+  "suggest": {
+    "meta_keywords": "TLS configuration, HTTPS security, cipher suite, Azion edge application, TLS versions, secure HTTPS, edge security settings, TLSv1.2_2021, Azion API, configure HTTPS",
+    "meta_description": "Learn how to configure TLS settings for your Azion edge application, including selecting cipher suites and TLS versions to enhance HTTPS security.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Security attacks can exploit particular TLS cipher vulnerabilities; you can select which ciphers your HTTPS application supports.",
+    "meta_keywords": "secure, configuration, settings, tls, edge application, ciphers"
+  }
+}

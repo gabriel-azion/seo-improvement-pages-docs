@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/accounts/multi-factor-authentication.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/accounts/multi-factor-authentication/",
+  "suggest": {
+    "meta_keywords": "Multi-Factor Authentication, MFA security, secure logins, authentication app, Google Authenticator, Microsoft Authenticator, MFA activation, online security, remote access security, MFA error resolution",
+    "meta_description": "Explore how Multi-Factor Authentication (MFA) enhances login security, supports various authenticators like Google and Microsoft, and ensures safety remotely.",
+    "meta_description_length": 158
+  },
+  "current": {
+    "meta_description": "Multi-Factor Authentication (MFA) is an electronic verification method used to secure logins.",
+    "meta_keywords": "Multi-Factor Authentication"
+  }
+}

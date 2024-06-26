@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/intelligent-dns/run-dig-command.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/run-the-dig-command/",
+  "suggest": {
+    "meta_keywords": "dig command, DNS troubleshooting, BIND software, DNS server querying, Azion Edge DNS, network troubleshooting, install dig Windows, DNS utilities, query DNS records, DNS latency testing",
+    "meta_description": "Explore how to use the dig command for DNS querying and troubleshooting on different OS, with practical guides on installation and testing using Azion Edge DNS.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Learn how to effectively use the \"dig\" command with Windows and Linux, enabling precise DNS querying and troubleshooting and testing it with edge applications.",
+    "meta_keywords": "dig, edge computing"
+  }
+}

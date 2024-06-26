@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/astro-boilerplate.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/astro-boilerplate/",
+  "suggest": {
+    "meta_keywords": "Astro Boilerplate, Azion Marketplace, Edge Functions, GitHub integration, edge deployment, SPA, Continuous Deployment, Astro SPA setup, Edge Application, application configuration",
+    "meta_description": "Explore the Astro Boilerplate on Azion Marketplace for rapid deployment and streamlined management of Astro SPAs with integrated GitHub and Edge Functions.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "The Astro Boilerplate provides an automation solution to build an Astro application on Azion.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

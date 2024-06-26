@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/data-stream/integrations/connector-amazon-s3.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/endpoint-amazon-s3/",
+  "suggest": {
+    "meta_keywords": "Amazon S3, Azion Data Stream, AWS IAM, data streaming setup, S3 bucket configuration, Real-Time Manager, Amazon S3 integration, Data Stream configuration, AWS region setup, S3 data endpoint, Access Key management",
+    "meta_description": "Learn how to configure Amazon S3 as an endpoint to efficiently receive data from Azion Data Stream, including setup of IAM credentials, S3 buckets, and key management.",
+    "meta_description_length": 167
+  },
+  "current": {
+    "meta_description": "Hands-on to configure Amazon S3 to receive data from Data Stream.",
+    "meta_keywords": "Data Stream, connector, endpoint, s3"
+  }
+}

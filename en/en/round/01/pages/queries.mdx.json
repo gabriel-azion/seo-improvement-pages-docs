@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/api-graphql/queries/queries.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/graphql-api/queries/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, real-time data, aggregated data, financial data, query optimization, GraphQL operators, real-time analytics, GraphQL datasets, data querying, API limits",
+    "meta_description": "Explore how to effectively use GraphQL API for real-time, aggregated, and financial data querying with examples, and understand limits and optimization techniques.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "Queries are the starting point to begin consulting information as you use a query to request information from a database.",
+    "meta_keywords": "graphql, api, azion, query"
+  }
+}

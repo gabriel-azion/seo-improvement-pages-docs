@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/fauna-template.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/fauna-template/",
+  "suggest": {
+    "meta_keywords": "Fauna DB Boilerplate, Azion Marketplace, Edge Functions, deploy applications, Azion edge platform, database management, static interface, GitHub integration, API keys, Edge Application",
+    "meta_description": "Deploy and manage applications with the Fauna DB Boilerplate on Azion's edge platform, integrating GitHub for seamless updates and efficient database operations.",
+    "meta_description_length": 161
+  },
+  "current": {
+    "meta_description": "This template helps you to deploy and manage an application integrated with Fauna on the edge.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

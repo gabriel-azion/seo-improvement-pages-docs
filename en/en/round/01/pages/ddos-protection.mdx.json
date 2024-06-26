@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/secure/edge-firewall/ddos-protection/ddos-protection.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/edge-firewall/ddos-protection/",
+  "suggest": {
+    "meta_keywords": "DDoS Protection, Azion DDoD, Network Security, Edge Firewall, Web Application Firewall, Infrastructure Protection, DNS Protection, Autonomous System Protection, Security Response Team, Advanced DDoS Detection",
+    "meta_description": "Explore Azion's DDoS Protection offering continuous, unmetered mitigation with Edge and Web Application Firewalls to safeguard applications and infrastructure.",
+    "meta_description_length": 159
+  },
+  "current": {
+    "meta_description": "Azion DDoS Protection protects your content and applications from Distributed Denial of Service (DDoS) attacks.",
+    "meta_keywords": "ddos, protection, attacks, security"
+  }
+}

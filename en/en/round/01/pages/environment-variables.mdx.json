@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/work-with-data/environment-variables.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/develop-with-azion/environment-variables/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, Environment Variables, Azion API, Edge Computing, Configuration Management, Security Compliance, Software Deployment, API Reference",
+    "meta_description": "Explore how Environment Variables enhance security and flexibility in software development using Edge Functions through the Azion API.",
+    "meta_description_length": 134
+  },
+  "current": {
+    "meta_description": "The Environment Variables interface can be used inside Edge Functions to retrieve environment variables. You can use these variables to interact with backend systems like databases, private APIs, or any authenticated service.",
+    "meta_keywords": "edge function, edge computing"
+  }
+}

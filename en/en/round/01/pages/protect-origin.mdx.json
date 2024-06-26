@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/automate/protect-origin.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/secure/automate/origin-shield/",
+  "suggest": {
+    "meta_keywords": "Origin Shield, Azion Edge Nodes, IP addresses, Rules Engine, Edge Firewall, automate behavior, secure infrastructure, network security, IP blocking, Azion Console",
+    "meta_description": "Learn how to automate IP blocking with Origin Shield using Azion Edge Nodes and Rules Engine to enhance network security.",
+    "meta_description_length": 121
+  },
+  "current": {
+    "meta_description": "Create a rule to automate the use of the Origin Shield list and block potential harmful IPs.",
+    "meta_keywords": "edge, secure, origin shield, list, rules engine, behavior"
+  }
+}

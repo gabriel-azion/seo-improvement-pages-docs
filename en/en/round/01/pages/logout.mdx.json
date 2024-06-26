@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/logout/logout.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/cli/logout/",
+  "suggest": {
+    "meta_keywords": "Azion logout, cli authentication, remove token, command line logout, Azion CLI, secure logout, user token removal, CLI help command, Azion account security, authentication token",
+    "meta_description": "Securely log out of your Azion account using the CLI. This guide includes steps to remove the saved personal token and additional help commands.",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "Log out of your Azion account and remove the personal token saved locally.",
+    "meta_keywords": "cli, logout, authentication"
+  }
+}

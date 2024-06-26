@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/configure-node/unbind-service/unbind-service.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/deploy/unbind-service/",
+  "suggest": {
+    "meta_keywords": "Azion Console, Edge Nodes, Unbind Services, API, DELETE request, Edge Service, Azion API, Edge Node Management, Curl Commands, Configuration Steps",
+    "meta_description": "Learn how to unbind services from edge nodes using the Azion Console and API, with detailed steps on execution of DELETE requests through Curl commands.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "aaa",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

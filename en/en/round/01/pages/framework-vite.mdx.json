@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/develop-with-azion/frameworks/framework-vite.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/cli/frameworks/vite/",
+  "suggest": {
+    "meta_keywords": "Vite, Azion Edge Functions, Edge Computing, Jamstack, Static Site Generator, Azion CLI, Node.js, Frontend Development, Application Deployment, Local Development Server",
+    "meta_description": "Learn how to initialize and deploy a Vite project on the Azion Edge Platform using Edge Functions and the Azion CLI, enhancing your frontend development skills.",
+    "meta_description_length": 160
+  },
+  "current": {
+    "meta_description": "Build with Vite.",
+    "meta_keywords": "vite, js, jamstack"
+  }
+}

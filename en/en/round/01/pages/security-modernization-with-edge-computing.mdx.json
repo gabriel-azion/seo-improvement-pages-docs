@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/architectures/security-modernization/security-modernization-with-edge-computing.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/architecture/security-modernization/security-modernization-with-edge-computing/",
+  "suggest": {
+    "meta_keywords": "Edge Computing, Edge Firewall, Security Modernization, DDoS Protection, Edge Functions, Rules Engine, Data Stream, Real-Time Metrics, Observability Products, Network Layer Protection",
+    "meta_description": "Explore how Edge Computing enhances security with Edge Firewall, DDoS Protection, and observability products for effective threat detection and system resilience.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "Edge computing capabilities can help you safeguard your applications and their content, benefiting you from modern logic and observability products.",
+    "meta_keywords": "architecture, secure, edge firewall"
+  }
+}

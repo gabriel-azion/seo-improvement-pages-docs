@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/accounts/clients.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/accounts/accounts/",
+  "suggest": {
+    "meta_keywords": "Azion Console, account management, client accounts, account owners, add client, client settings, affiliate management, account activation, corporate accounts, account permissions",
+    "meta_description": "Discover how Azion Console streamlines management of client and group accounts, enabling simple setup of account owners, client details, and permissions.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "The Azion Console allows you to create separate accounts, called Clients, for each of the affiliates in your group of companies.",
+    "meta_keywords": "accounts, clients, groups"
+  }
+}

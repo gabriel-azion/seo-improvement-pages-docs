@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/compliance/pci-dss.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/compliance/pci-dss-certification/",
+  "suggest": {
+    "meta_keywords": "Azion, PCI-DSS 4.0, Edge Computing, data security, PCI compliance, payment card security, PCI Security Standards Council, secure data processing, PCI-certified provider, data privacy",
+    "meta_description": "Azion, a PCI-DSS 4.0 Level 1 Service Provider, ensures top-tier security and performance across all Edge Computing platforms, enhancing user trust and compliance.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "As a PCI-DSS 4.0 Level 1 Service Provider, Azion keeps your valuable data secure across all edge locations, without compromising your site's performance.",
+    "meta_keywords": "Azion, edge computing, compliance, payment card, data security and privacy"
+  }
+}

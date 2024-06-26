@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/configure-node/authorize-node/authorize-node.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/deploy/authorize-an-edge-node/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Node, Authorization, Edge Orchestrator, API, Deployment, Edge Services, Edge Computing, Console Access, Platform Integration",
+    "meta_description": "Learn how to authorize and deploy Edge Nodes using Azion Console and API for optimal Edge Services integration and Edge Orchestrator.",
+    "meta_description_length": 133
+  },
+  "current": {
+    "meta_description": "Authorize an edge node on the platform to start orchestrating services and resources at the edge.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

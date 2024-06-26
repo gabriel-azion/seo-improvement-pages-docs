@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-configure-ports/custom-ports.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/configure-ports/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Application, HTTP ports, HTTPS ports, origin configuration, port customization, Real-Time Manager, Azion Console, protocol policy, port management",
+    "meta_description": "Learn how to configure HTTP and HTTPS ports for your Azion Edge Application, including custom and default port settings, using either Real-Time Manager or Console.",
+    "meta_description_length": 163
+  },
+  "current": {
+    "meta_description": "Configure delivery and origin HTTP and HTTPS port combinations with Azion Edge Application.",
+    "meta_keywords": "azion, origin, domains, http, https, custom ports, custom, default"
+  }
+}

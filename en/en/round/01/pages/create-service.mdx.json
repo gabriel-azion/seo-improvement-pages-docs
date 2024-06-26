@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/deploy-journey/configure-node/create-service/create-service.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/deploy/create-edge-service/",
+  "suggest": {
+    "meta_keywords": "Edge Service, Azion Console, Azion API, Deploy Edge Service, Edge Node Deployment, Create Edge Service, Edge Service Tutorial, Edge Computing, Service Configuration, Edge Resources",
+    "meta_description": "Learn to create and deploy edge services using Azion Console and API, configuring resources and activating with ease for efficient edge node deployment.",
+    "meta_description_length": 152
+  },
+  "current": {
+    "meta_description": "Create an edge service to work with edge nodes.",
+    "meta_keywords": "deploy, orchestrator"
+  }
+}

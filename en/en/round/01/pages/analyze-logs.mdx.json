@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/analyze-logs.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/observe/analyze-logs/",
+  "suggest": {
+    "meta_keywords": "azion, edge application, real-time events, log analysis, data stream, edge security, WAF, observability, performance monitoring, data query",
+    "meta_description": "Explore how Real-Time Events at Azion allow you to analyze raw logs in real-time, secure edge applications, and enhance performance monitoring.",
+    "meta_description_length": 143
+  },
+  "current": {
+    "meta_description": "Use Real-Time Events to analyze detailed raw logs.",
+    "meta_keywords": "azion, edge, observe, observability, logs"
+  }
+}

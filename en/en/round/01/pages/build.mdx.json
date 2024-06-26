@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/build/build.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/cli/build/",
+  "suggest": {
+    "meta_keywords": "edge computing, edge application, deployment, azion build, CLI, Javascript, React, Vue, Astro, build command, deployment strategies",
+    "meta_description": "Learn how to build and deploy edge applications effectively using commands like 'azion build' with support for multiple frameworks and configurations.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Build an application and prepare it for deployment on the edge.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/next-turso.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/nextjs-app-configurations-turso/",
+  "suggest": {
+    "meta_keywords": "Next.js template, Turso Database integration, Azion Marketplace, custom configurations, App Router, edge application, GitHub token, continuous deployment, database creation, CRUD example",
+    "meta_description": "Explore our Next.js template in the Azion Marketplace, featuring Turso Database integration, custom configurations, and continuous deployment using GitHub.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "This template builds a Next.js application with App Router, custom configurations, and support for Turso Databases.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

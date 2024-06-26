@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/cli/cli-vulcan-use-polyfills.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/guides/cli/use-polyfills/",
+  "suggest": {
+    "meta_keywords": "Node.js polyfills, Azion CLI, JavaScript frameworks, Edge Computing, Vulcan build, Edge Functions, web development, API integration, guide, JavaScript project setup",
+    "meta_description": "Explore how to use Node.js polyfills for JavaScript frameworks with Azion CLI and Vulcan on Edge Computing platforms, enhancing web development.",
+    "meta_description_length": 144
+  },
+  "current": {
+    "meta_description": "Learn how to configure and use Node.js APIs through polyfills.",
+    "meta_keywords": "web frameworks, development, developer experience"
+  }
+}

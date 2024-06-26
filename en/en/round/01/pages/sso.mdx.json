@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/manage-accounts/manage-account/sso.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/sso/",
+  "suggest": {
+    "meta_keywords": "SSO, Azion Console, Identity Provider, Add Identity Provider, SSO Management, Azion SSO, OIDC Identity Provider, SAML Identity Gson R",
+    "meta_description": "Learn how to configure SSO for Azion Console, manage identity providers, and securely log in with SSO credentials.",
+    "meta_description_length": 114
+  },
+  "current": {
+    "meta_description": "Find out how to use SSO on Azion Console.",
+    "meta_keywords": "account, sso, access, log in"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/work-with-domains/configure-domains.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/configure-a-domain/",
+  "suggest": {
+    "meta_keywords": "Azion domain, domain management, create domain, edge computing, access edge network, custom domain, Azion API, domain configuration, domain propagation, DNS lookup",
+    "meta_description": "Explore how to manage and create domains with Azion to access applications over the edge network, enhance user experience, and track metrics effectively.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "Use Azion Domains to enable browser access to your app, allowing user traffic and metrics tracking.",
+    "meta_keywords": "domain, edge computing, edge network, custom domain"
+  }
+}

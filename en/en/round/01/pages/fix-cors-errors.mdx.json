@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-application/ea-cors/fix-cors-errors.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/cors-errors/",
+  "suggest": {
+    "meta_keywords": "CORS policy, Azion platform, HTTP headers, domain configuration, Azion Console, Azion Real-Time Manager, CORS error solution, XMLHTTPRequest, Add Response Header, Cross-Origin Resource Sharing",
+    "meta_description": "Learn how to configure CORS policies using Azion platforms to fix errors. Find detailed steps for domain setups on both Console and Real-Time Manager.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "A Cross-Origin Resource Sharing (CORS) policy can block a request from a resource located in another domain different than the domain in use. Find out how to configure your application to fix this error.",
+    "meta_keywords": "edge computing, CORS"
+  }
+}

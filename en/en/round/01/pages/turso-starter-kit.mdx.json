@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/turso-starter-kit.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/turso-starter-kit/",
+  "suggest": {
+    "meta_keywords": "Turso database, Turso Starter Kit, edge functions, Azion Marketplace, GitHub integration, edge application deployment, Turso LibSQL SDK, edge computing templates, CRUD operations, template configuration",
+    "meta_description": "Explore the Turso Starter Kit for seamless integration of Turso databases with Azion edge functions, featuring complete setup guides and GitHub integration.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "This template accelerates the integration of a Turso database, created using Turso's LibSQL SDK, into an edge function.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

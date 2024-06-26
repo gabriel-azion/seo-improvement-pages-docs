@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/ab-testing-marketplace.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/ab-testing-marketplace/",
+  "suggest": {
+    "meta_keywords": "A/B Testing, Azion Marketplace, Edge Application, Edge Functions, Configure A/B Testing, Add Function, Integration Setup, Marketplace Integration, Origin Configuration, Rules Engine",
+    "meta_description": "Learn how to configure A/B Testing with Edge Applications via Azion Marketplace. This guide covers installation, function addition, and setting up origins and rules.",
+    "meta_description_length": 165
+  },
+  "current": {
+    "meta_description": "How to use the A/B Testing integration from Marketplace.",
+    "meta_keywords": "marketplace, a/b test, how-to"
+  }
+}

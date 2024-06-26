@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/waiting-room.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/waiting-room/",
+  "suggest": {
+    "meta_keywords": "Upstash Waiting Room, Edge Firewall, traffic management, security integration, FIFO, Azion Marketplace, Edge Functions, rule engine setup, waiting room integration, traffic surge management",
+    "meta_description": "Discover how Upstash Waiting Room and Edge Firewall manage traffic surges and secure your applications on Azion Marketplace.",
+    "meta_description_length": 124
+  },
+  "current": {
+    "meta_description": "Manage traffic surges and prevent overload on your websites and applications using a waiting room.",
+    "meta_keywords": "edge firewall, marketplace, security, integrations"
+  }
+}

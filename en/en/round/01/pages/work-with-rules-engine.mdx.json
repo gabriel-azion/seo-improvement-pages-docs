@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/edit-edge-firewall/work-with-rules-engine.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/work-with-rules-engine/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, Rules Engine, SSL Verification, Custom Response, Azion Console, Real-Time Manager, API, Security Policies, Criteria, Behavior",
+    "meta_description": "Learn how to implement rules in Azion's Edge Firewall using Rules Engine to manage SSL verifications and set custom responses effectively across interfaces.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "Integrate rules in your firewall to set tasks to be executed for specific scenarios without changing your existing code.",
+    "meta_keywords": "secure, rules engine, edge firewall, criteria, behavior"
+  }
+}

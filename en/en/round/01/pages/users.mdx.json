@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/manage-accounts/manage-account/users.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/users-management/",
+  "suggest": {
+    "meta_keywords": "Azion Console, user management, add user, modify user, delete user, user profile, multi-factor authentication, team management, user activation, user security settings",
+    "meta_description": "Learn to manage user profiles on the Azion Console, including adding, modifying, and activating users with advanced security settings.",
+    "meta_description_length": 134
+  },
+  "current": {
+    "meta_description": "Find out how to use Users Management on Azion Console.",
+    "meta_keywords": "account, settings, users, Azion Console, management"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/shared-responsibility/shared-responsibility.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/shared-responsibility/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Platform, Shared Responsibility Model, cloud services, security and compliance, PCI DSS, SOC 2, Azion's responsibilities, Customers' responsibilities, cloud delivery models",
+    "meta_description": "Explore the Shared Responsibility Model for Azion Edge Platform, delineating security roles and compliance for cloud services. Targets both Azion's and customers' obligations.",
+    "meta_description_length": 175
+  },
+  "current": {
+    "meta_description": "This document highlights the roles and responsibilities of each party when organizations use the Azion Edge Platform.",
+    "meta_keywords": "azion, shared responsibility"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/advanced-configurations/multiple-origins.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/build/multiple-origins/",
+  "suggest": {
+    "meta_keywords": "Load Balancer, Edge Application, Round Robin algorithm, server capacity management, traffic management, Azion products, cloud service integration, high availability servers, application scalability, origin configuration",
+    "meta_description": "Explore how to configure Load Balancer for Edge Applications on Azion, ensuring optimal traffic distribution and server efficiency with the Round Robin algorithm.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "Prevent server overload and traffic congestion across origins, data centers, or cloud providers through the load balancing algorithms provided by Azion.",
+    "meta_keywords": "build"
+  }
+}

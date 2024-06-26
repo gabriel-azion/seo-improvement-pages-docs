@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/next-app-config.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/nextjs-app-configurations/",
+  "suggest": {
+    "meta_keywords": "Next.js, Azion Marketplace, GitHub integration, Edge Functions, Application Accelerator, continuous development, deployment, custom domain, edge application, SPA optimization",
+    "meta_description": "Deploy and optimize a Next.js application with Azion Marketplace, integrating GitHub for continuous updates, Edge Functions, and Application Accelerator for enhanced performance.",
+    "meta_description_length": 178
+  },
+  "current": {
+    "meta_description": "This template builds a Next.js application with custom configurations and App Router.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

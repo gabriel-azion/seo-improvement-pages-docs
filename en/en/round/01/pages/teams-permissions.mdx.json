@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/accounts/teams-permissions.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/accounts/teams-permissions/",
+  "suggest": {
+    "meta_keywords": "Team Permissions, Azion Console, Access Rights Management, User Roles, Security Settings, Content Delivery, Edge Applications, Edge DNS, Edge Functions, Multi-Factor Authentication",
+    "meta_description": "Explore the Team Permissions page in Azion Console for managing user roles, access rights, and security settings effectively within your organization.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "On the Team Permissions page in Azion Console, you can create, manage teams, control, and configure access rights for distinct teams within your organization.",
+    "meta_keywords": "Users and Teams"
+  }
+}

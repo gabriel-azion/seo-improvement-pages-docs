@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/graphql/graphql-metadata.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/graphql-metadata/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, metadata, GraphQL introspection query, API datasets, Postman GraphQL, query GraphQL, API metadata guide, dataStreamedMetrics, httpMetrics, Azion API",
+    "meta_description": "Explore how to leverage GraphQL API for insightful metadata and datasets like dataStreamedMetrics and httpMetrics with a comprehensive guide and tutorials.",
+    "meta_description_length": 155
+  },
+  "current": {
+    "meta_description": "Unlock the power of GraphQL API metadata with this guide to understand the relationship and the utility of the request processes using the available datasets.",
+    "meta_keywords": "graphql, metadata"
+  }
+}

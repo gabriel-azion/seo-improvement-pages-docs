@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/observe-journey/data-stream/integrations/connector-azure-blob.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/endpoint-azure-blob/",
+  "suggest": {
+    "meta_keywords": "Azure Blob Storage, Azion Data Stream, connector setup, Azure storage account, Blob SAS Token, stream configuration, data storage, API integration, cloud data management, Data Stream setup",
+    "meta_description": "Learn how to configure Azure Blob Storage as an endpoint for Azion Data Stream, including setup of storage accounts and SAS Tokens for seamless data integration.",
+    "meta_description_length": 161
+  },
+  "current": {
+    "meta_description": "Hands-on to use Azure Blob Storage to receive data from Azion Data Stream.",
+    "meta_keywords": "Data Stream, connector, endpoint, azure, blob"
+  }
+}

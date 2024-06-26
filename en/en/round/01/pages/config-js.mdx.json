@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/vulcan/config-js.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/vulcan/config",
+  "suggest": {
+    "meta_keywords": "vulcan.config.js, edge computing configuration, webpack, esbuild, Node.js polyfills, Vulcan build process, JavaScript build tools, extend bundle capabilities, Vulcan custom properties, application build optimization",
+    "meta_description": "Explore Vulcan's powerful configuration via vulcan.config.js for optimizing your build process with webpack, esbuild, and Node.js polyfills.",
+    "meta_description_length": 140
+  },
+  "current": {
+    "meta_description": "The vulcan.config.js file serves as a powerful configuration system for Vulcan, offering customization options for your application's build process.",
+    "meta_keywords": "edge, javascript, polyfill"
+  }
+}

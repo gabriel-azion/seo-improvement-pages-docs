@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/mongodb-template.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/mongodb-atlas/",
+  "suggest": {
+    "meta_keywords": "MongoDB Atlas, Azion Edge Platform, Edge Functions, edge application deployment, API key authentication, HTTPS requests, application accelerator, database management, data security, low latency solutions",
+    "meta_description": "Deploy and manage MongoDB Atlas integrated applications on Azion Edge Platform with enhanced security, lower latency, and Edge Functions for efficient database management.",
+    "meta_description_length": 171
+  },
+  "current": {
+    "meta_description": "This template helps you to deploy an application integrated with MongoDB Atlas on the edge and manage it via API.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

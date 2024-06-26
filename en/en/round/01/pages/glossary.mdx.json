@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/glossary/glossary.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/azion-glossary/",
+  "suggest": {
+    "meta_keywords": "Azion, edge computing, API, SDK, DNS, CNAME, Edge DNS, cloud security, HTTP/3, web application, real-time data",
+    "meta_description": "Explore essential terminology for Azion, edge computing, APIs, and DNS. Learn about SDK capabilities, new HTTP/3 protocols, and web application security.",
+    "meta_description_length": 153
+  },
+  "current": {
+    "meta_description": "See a glossary explaining Azion terms.",
+    "meta_keywords": "glossary, azion, edge, computing"
+  }
+}

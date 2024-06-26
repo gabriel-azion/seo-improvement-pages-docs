@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/idp/saml-google.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/sso-google-saml/",
+  "suggest": {
+    "meta_keywords": "Google SAML App, Identity Provider, Azion Console, SSO Management, SAML Configuration, Single Sign-On, IdP setup, Security Assertion Markup Language, Admin Console, User Authentication",
+    "meta_description": "Guide to configuring Google as an IdP for Azion Console using SAML for seamless single sign-on user authentication and efficient access management.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Hands-on to configure Google custom SAML app as an IdP for Azion Console.",
+    "meta_keywords": "accounts, users authentication, SAML, Google"
+  }
+}

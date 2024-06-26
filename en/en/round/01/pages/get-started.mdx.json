@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/get-started/get-started.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/get-started/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Platform, Edge Applications, Edge Computing, Real-Time Metrics, Edge Deployment, Onboarding, Edge Technology, Edge Network, Build Edge Application",
+    "meta_description": "Explore the essentials of building your first edge application with Azion. Learn to connect, deploy, and observe your projects with real-time metrics on Azion's Edge Platform.",
+    "meta_description_length": 175
+  },
+  "current": {
+    "meta_description": "This documentation will assist you to Get started and walk your first steps on Azion.",
+    "meta_keywords": "Azion, edge application, journey, onboarding, build from scratch, domain, traffic"
+  }
+}

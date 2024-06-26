@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/integrations/fingerprint.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/fingerprint/",
+  "suggest": {
+    "meta_keywords": "Azion Fingerprint, device identification, session fingerprinting, JavaScript injection, cybersecurity, edge computing, Edge Functions, browser script, network data capture, session cookie",
+    "meta_description": "Explore Azion Fingerprint for precise device and network data capture with Edge Functions and JavaScript, enhancing cybersecurity and user identification.",
+    "meta_description_length": 154
+  },
+  "current": {
+    "meta_description": "Use this integration to capture devices and network data to better identify devices accessing your applications.",
+    "meta_keywords": "protection, cybersecurity, edge computing"
+  }
+}

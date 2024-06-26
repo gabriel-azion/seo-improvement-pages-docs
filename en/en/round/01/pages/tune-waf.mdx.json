@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/firewall-advanced-configurations/tune-waf.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/tune-waf/",
+  "suggest": {
+    "meta_keywords": "WAF Tuning, Azion Console, Web Application Firewall, real-time manager, edge firewall, secure configuration, IP filtering, network list management, create allowed rule, domain analysis",
+    "meta_description": "Discover how to effectively use WAF Tuning in Azion's Console and Real-Time Manager for optimal security configurations and allowed rule creation.",
+    "meta_description_length": 146
+  },
+  "current": {
+    "meta_description": "Filter possible attacks in your WAF and create an allowed rule from the results you receive.",
+    "meta_keywords": "secure, waf, edge firewall, tuning"
+  }
+}

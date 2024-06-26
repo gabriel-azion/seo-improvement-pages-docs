@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/api-graphql/features/accounting-fields.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/graphql-api/features/gql-accounting-fields/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, Azion GraphQL, accounting data, product metrics, client identifiers, dataset fields, API dataset accounting, financial data API, metric accounting, data querying",
+    "meta_description": "Explore detailed fields and descriptions for the Accounting GraphQL API dataset on Azion, including client IDs, product metrics, and financial data.",
+    "meta_description_length": 148
+  },
+  "current": {
+    "meta_description": "See descriptions for all fields from each Accounting GraphQL API dataset.",
+    "meta_keywords": "graphql, api, azion, fields, accounting"
+  }
+}

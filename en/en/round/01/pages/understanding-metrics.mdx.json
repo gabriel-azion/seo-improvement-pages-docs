@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/troubleshooting/understanding-metrics.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/troubleshooting/understand-metrics/",
+  "suggest": {
+    "meta_keywords": "Observe, Edge Applications, Edge Functions, Real-Time Metrics, GraphQL API, Real-Time Events, Performance Monitoring, Data Analysis, API Data Access, Azion Observe",
+    "meta_description": "Explore how Azion Observe enhances monitoring of Edge Applications and Functions with Real-Time Metrics, Events, and customized API data queries.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "You can continuously monitor your applications through Azion Observe products.",
+    "meta_keywords": "observe, metrics, applications, build"
+  }
+}

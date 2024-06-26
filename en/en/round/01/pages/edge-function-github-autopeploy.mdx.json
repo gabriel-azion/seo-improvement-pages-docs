@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/edge-function-github-autopeploy.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/edge-function-github-autodeploy/",
+  "suggest": {
+    "meta_keywords": "Azion Edge Functions, GitHub AutoDeploy, Continuous Deployment, Edge Application Setup, Edge Computing, GitHub Integration, Template Deployment, Edge Platform, Configure Edge Function, Edge Network",
+    "meta_description": "Deploy and manage your edge functions with the Azion Edge Function GitHub AutoDeploy template, ensuring simplicity through continuous deployment and integration with GitHub.",
+    "meta_description_length": 173
+  },
+  "current": {
+    "meta_description": "This template allows you to deploy edge functions integrated with GitHub Actions directly on the edge.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}

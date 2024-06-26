@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/build/edge-application/main-settings.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/edge-application/main-settings/",
+  "suggest": {
+    "meta_keywords": "HTTP3, HTTPS, TLS ciphers, delivery protocols, Edge Application, digital certificate, HTTPS ports, QUIC protocol, TLS encryption, cipher suite",
+    "meta_description": "Explore Azion's Edge Application for protocol customization including HTTP, HTTPS, and advanced HTTP/3 support with secure TLS ciphers.",
+    "meta_description_length": 135
+  },
+  "current": {
+    "meta_description": "Customize your application delivery with Azion's range of protocol options including HTTP, HTTPS, and HTTP/3 support for a better user experience and secure your connection with TLS ciphers.",
+    "meta_keywords": "delivery, ports, http, http3, http2, protocol, tls, encryption"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/compliance/soc-2.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/compliance/soc/",
+  "suggest": {
+    "meta_keywords": "Azion, Edge Computing, SOC 2 Type 2, SOC 3, data security, compliance, Edge Application, Edge Firewall, Data Privacy, Third-party Audits, Security Controls",
+    "meta_description": "Explore how Azion's Edge Computing Platform upholds data security with SOC 2 Type 2 and SOC 3 audits, ensuring robust control and privacy compliance.",
+    "meta_description_length": 149
+  },
+  "current": {
+    "meta_description": "Azion receives biannual SOC 2 Type 2 and SOC 3 reports, which demonstrate that the security controls are continuously audited over the course of the year.",
+    "meta_keywords": "Azion, edge computing, compliance, data security and privacy"
+  }
+}

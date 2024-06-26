@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/getting-to-know-azion-console/getting-to-know-azion-console.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/getting-to-know-azion-console/",
+  "suggest": {
+    "meta_keywords": "Azion Console, Edge Application, Edge Functions, Domain Management, Application Deployment, Azion Products, Real-Time Metrics, User Interface, Edge Services",
+    "meta_description": "Explore Azion Console for managing Edge Applications, domains, and more. Access real-time metrics and all Azion products efficiently.",
+    "meta_description_length": 133
+  },
+  "current": {
+    "meta_description": "This documentation will assist you to Get started and walk your first steps on Azion.",
+    "meta_keywords": "Azion, edge application, journey, onboarding, build from scratch, domain, traffic"
+  }
+}

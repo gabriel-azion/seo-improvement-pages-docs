@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/azion-edge-runtime/debugging/debugging.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/debugging/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, debugging process, serverless computing, Data Stream setup, observability, log management, Azion platform, console.log, JavaScript debugging, cloud diagnostics",
+    "meta_description": "Explore debugging in Edge Functions for enhanced control and observability, including setup guides for log management and Data Stream on the Azion platform.",
+    "meta_description_length": 156
+  },
+  "current": {
+    "meta_description": "Debugging is a process that allows developers to fix log messages or variables.",
+    "meta_keywords": "edge function, edge computing, serverless, debug"
+  }
+}

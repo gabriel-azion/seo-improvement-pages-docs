@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/describe/describe.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/cli/describe/",
+  "suggest": {
+    "meta_keywords": "azion, CLI, edge applications, edge functions, rules engine, cache settings, domains, origins, variables, edge storage, command usage, resource management",
+    "meta_description": "Explore detailed command usage for managing edge applications, functions, domains, and more with Azion CLI.",
+    "meta_description_length": 107
+  },
+  "current": {
+    "meta_description": "Retrieve information about your edge applications, edge functions and other resources through Azion CLI.",
+    "meta_keywords": "cli, edge, describe, development"
+  }
+}

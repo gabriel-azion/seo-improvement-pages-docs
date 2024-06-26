@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/manage-accounts/manage-profile/delete-account.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/delete-account/",
+  "suggest": {
+    "meta_keywords": "Azion Console, Delete Account, Account Owner, Account Settings, DNS Zones, Edge Applications, Account Deletion Process, Azion Account Management",
+    "meta_description": "Learn how to securely delete your Azion Console account as an Account Owner including preparation steps like DNS and application removal.",
+    "meta_description_length": 137
+  },
+  "current": {
+    "meta_description": "Find out how to delete an account on Azion Console.",
+    "meta_keywords": "account, Azion Console, delete"
+  }
+}

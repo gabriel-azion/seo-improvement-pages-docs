@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/api-graphql/features/features.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/graphql-api/features/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, Real-Time Metrics, Real-Time Events, datasets, filtering, sorting, pagination, Azion Edge Computing, data querying, web API, API features",
+    "meta_description": "Explore the capabilities of Azion GraphQL API with features like datasets, real-time metrics, events handling, and advanced data querying options like filtering, sorting, and pagination.",
+    "meta_description_length": 186
+  },
+  "current": {
+    "meta_description": "GraphQL features consist of datasets, filtering, sorting, and pagination. The features provide easy access to your data, and using and combining the available features creates more personalized and specific queries to request the exact information you need.",
+    "meta_keywords": "graphql, api, azion, query, features"
+  }
+}

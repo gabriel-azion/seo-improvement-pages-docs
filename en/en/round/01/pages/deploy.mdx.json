@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/devtools/cli/azion-cli/commands/deploy/deploy.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/devtools/cli/deploy/",
+  "suggest": {
+    "meta_keywords": "Azion CLI, deploy edge application, edge computing, deployment commands, CLI deployment, Azion deployment help, edge network, file path option, static application deployment, Azion bash commands",
+    "meta_description": "Learn how to deploy your edge applications using Azion CLI with a guide on usage, commands and options for deploying onto the edge network.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "Deploy your edge application onto the edge through Azion CLI.",
+    "meta_keywords": "cli, next, javascript, astro, vue, react, edge computing"
+  }
+}

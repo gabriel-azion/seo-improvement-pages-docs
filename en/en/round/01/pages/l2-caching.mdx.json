@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/build/edge-application/l2-caching.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/edge-application/tiered-cache/",
+  "suggest": {
+    "meta_keywords": "Tiered Cache, Edge Application, cache layer, edge network, real-time purge, cache policies, caching regions, infrastructure costs, TTL settings, Azion edge computing",
+    "meta_description": "Discover how Tiered Cache in Edge Application reduces latency and cuts costs by adding a cache layer between the edge network and origin servers.",
+    "meta_description_length": 145
+  },
+  "current": {
+    "meta_description": "Tiered Cache establishes an extra cache layer between the edge and your origin servers, effectively lowering latency and minimizing infrastructure expenses.",
+    "meta_keywords": "caching, edge, edge cache, edge computing, l2, layer 2, cache layer, purge cache, tiered cache"
+  }
+}

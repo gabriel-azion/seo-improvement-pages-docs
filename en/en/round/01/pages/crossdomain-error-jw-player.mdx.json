@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/crossdomain-error-in-jw-player/crossdomain-error-jw-player.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/crossdomain-error-in-jw-player/",
+  "suggest": {
+    "meta_keywords": "cors, error, edge computing, live streaming issues, M3U8 error, DNS configuration, CNAME registration, Azion console, troubleshooting streaming, tech support",
+    "meta_description": "Resolve ‘Cannot load M3U8: crossdomain access denied’ error during live streaming by registering CNAME in Azion Console and DNS settings.",
+    "meta_description_length": 137
+  },
+  "current": {
+    "meta_description": "When trying to run live streaming, the player displays the message “Cannot load M3U8 crossdomain access denied”.",
+    "meta_keywords": "cors, error, edge computing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/build-journey/troubleshooting/debug-apps.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/troubleshooting/debug-applications/",
+  "suggest": {
+    "meta_keywords": "Edge applications, Edge functions, debugging, error identification, Data Stream, GraphQL API, rules engine, monitoring process, debug process, application debugging",
+    "meta_description": "Learn how to debug Edge applications and functions using rules engine, Data Stream, and GraphQL API to enhance monitoring and error identification.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Follow the debugging process to check and identify error in your applications.",
+    "meta_keywords": "observe, debug, debugging, applications, functions, build"
+  }
+}

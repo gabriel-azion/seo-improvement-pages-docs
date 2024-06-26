@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/reference/build/edge-application/image-processor.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/build/edge-application/image-processor/",
+  "suggest": {
+    "meta_keywords": "Image Processor, Edge Computing, Real-Time Metrics, Image Optimization, Image Resizing, Image Cropping, Image Formats, Watermarking Images, Image Conversion, Image Quality Adjustment",
+    "meta_description": "Discover how the Edge Application's Image Processor optimizes web images with resizing, cropping, format conversion, and quality control for enhanced performance.",
+    "meta_description_length": 162
+  },
+  "current": {
+    "meta_description": "Image Processor allows you to optimize, resize, crop, and apply filters to your images automatically. This provides a more dynamic and faster user experience in your web applications.",
+    "meta_keywords": "Image Processor, edge computing"
+  }
+}

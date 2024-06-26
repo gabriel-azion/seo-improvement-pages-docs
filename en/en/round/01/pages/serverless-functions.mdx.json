@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/edge-functions/serverless-functions.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/serverless-functions/",
+  "suggest": {
+    "meta_keywords": "Edge Functions, serverless, Azion Edge Platform, instantiate edge function, Rules Engine, Edge Application, API with Edge Functions, activation triggers, Azion Marketplace, Azion Console",
+    "meta_description": "Explore how to program, instantiate, and execute Edge Functions on the Azion Edge Platform including using Rules Engine and Azion Marketplace.",
+    "meta_description_length": 142
+  },
+  "current": {
+    "meta_description": "Edge Functions is a service of Azion Edge Platform that allows you to program and execute serverless functions, without the need to provision or manage servers.",
+    "meta_keywords": "serveless, edge functions"
+  }
+}

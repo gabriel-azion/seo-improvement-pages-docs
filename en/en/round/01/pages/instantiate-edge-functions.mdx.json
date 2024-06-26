@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/secure-journey/edit-edge-firewall/instantiate-edge-functions.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/secure/instantiate-edge-functions/",
+  "suggest": {
+    "meta_keywords": "Edge Firewall, Edge Functions, Deny Geoip function, serverless computing, Azion Marketplace, network lists, Geoip blocking, API configuration, edge security, rules engine",
+    "meta_description": "Learn how to configure serverless Edge Functions within the Azion Edge Firewall to block requests based on Geoip, using the Azion Marketplace and API.",
+    "meta_description_length": 150
+  },
+  "current": {
+    "meta_description": "Instantiate serverless functions directly within your edge firewall.",
+    "meta_keywords": "functions, instances, edge firewall"
+  }
+}

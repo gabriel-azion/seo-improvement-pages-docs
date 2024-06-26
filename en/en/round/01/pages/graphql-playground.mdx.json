@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/main-menu/additional-resources/developer-tools/graphql-playground.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/devtools/graphql-playground/",
+  "suggest": {
+    "meta_keywords": "GraphQL API, GraphQL playground, API query, API documentation, introspection query, httpMetrics, data transfer metrics, query optimization, real-time validation, query sharing",
+    "meta_description": "Explore the GraphQL API through the playground to execute and optimize queries, understand API documentation, and share insights with encoded URLs.",
+    "meta_description_length": 147
+  },
+  "current": {
+    "meta_description": "Use the GraphQL API plaground to explore and understand how it works.",
+    "meta_keywords": "graphql, api, playground, query"
+  }
+}

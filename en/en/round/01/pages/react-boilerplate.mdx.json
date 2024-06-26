@@ -1,0 +1,13 @@
+{
+  "filePath": "/Users/gabriel.franca/repos/docs-vue/docs/src/content/docs/en/pages/guides/marketplace/templates/react-boilerplate.mdx",
+  "url": "https://www.azion.com/en/documentation/documentation/products/guides/react-boilerplate/",
+  "suggest": {
+    "meta_keywords": "React Boilerplate, Azion Edge Platform, SPA Deployment, GitHub Integration, Edge Functions, Continuous Deployment, React Application, Edge Network, Automation Solution, Azion Marketplace",
+    "meta_description": "Explore the React Boilerplate on Azion to automate your SPA deployment directly on the edge with GitHub integration and continuous updates.",
+    "meta_description_length": 139
+  },
+  "current": {
+    "meta_description": "The React Boilerplate provides an automation solution to build a React application on Azion.",
+    "meta_keywords": "templates, guides, Azion Marketplace"
+  }
+}
